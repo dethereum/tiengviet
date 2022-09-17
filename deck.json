@@ -81,7 +81,9 @@
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [],
+    "media_files": [
+        "rec1663404240.mp3"
+    ],
     "name": "tiengviet",
     "note_models": [
         {
@@ -1158,7 +1160,7 @@
                 "who",
                 "",
                 "",
-                "",
+                "[sound:rec1663404240.mp3]",
                 ""
             ],
             "guid": "~t!$GR]IW",
