@@ -1,6 +1,1580 @@
 {
     "__type__": "Deck",
-    "children": [],
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9b9a483c-3c24-11ed-8813-79fe18cd4603",
+            "deck_config_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "rec1664018310.mp3",
+                "rec1664018391.mp3",
+                "rec1664018653.mp3",
+                "rec1664018686.mp3",
+                "rec1664018858.mp3",
+                "rec1664018871.mp3"
+            ],
+            "name": "phrases",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em khoẻ không?\n<br>Em không khoẻ.",
+                        "khoẻ không?",
+                        "Are you well?",
+                        "[sound:rec1664018858.mp3]",
+                        "[sound:rec1664018871.mp3]"
+                    ],
+                    "guid": "C^qiHg0<y6",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vì sao anh muốn học k8s?\n<br>Vì anh muốn có nhiều tiền hơn",
+                        "nhiều ... hơn",
+                        "more of",
+                        "[sound:rec1664018653.mp3]",
+                        "[sound:rec1664018686.mp3]"
+                    ],
+                    "guid": "Ki)zXL:K.O",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span style=\"background-color: rgb(207, 226, 243);\">một khoảng thời gian nhất định để học tiếng&nbsp;</span>",
+                        "một khoảng thời gian",
+                        "a period of time",
+                        "[sound:rec1664018310.mp3]",
+                        "[sound:rec1664018391.mp3]"
+                    ],
+                    "guid": "I|{3cQv2me",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9b9a57aa-3c24-11ed-8813-79fe18cd4603",
+            "deck_config_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "rec1663404240.mp3",
+                "rec1663834044.mp3"
+            ],
+            "name": "vocab",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ông",
+                        "grandpa",
+                        "",
+                        "",
+                        "[sound:rec1663834044.mp3]",
+                        ""
+                    ],
+                    "guid": "FgIE7k2r2<",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ai",
+                        "who",
+                        "",
+                        "",
+                        "[sound:rec1663404240.mp3]",
+                        ""
+                    ],
+                    "guid": "~t!$GR]IW",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9b9a6f56-3c24-11ed-8813-79fe18cd4603",
+            "deck_config_uuid": "9b9a70aa-3c24-11ed-8813-79fe18cd4603",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "void",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bà",
+                        "grandma",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "hVQD18g-i5",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bác",
+                        "older uncles/aunts",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "mokdXE4Y3A",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cô",
+                        "younger aunt",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "s%aSV*l!z-",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chú",
+                        "younger uncle",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "z;Fc*CsI&)",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "anh",
+                        "older brother",
+                        "",
+                        "",
+                        "",
+                        "a"
+                    ],
+                    "guid": "PYo<~RMJcb",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chị",
+                        "older sister",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "h|qUZ1YTC$",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "em",
+                        "younger sibling",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "r;=ixK9uae",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "con",
+                        "niece/nephew/grandchild",
+                        "",
+                        "southern dialect",
+                        "",
+                        ""
+                    ],
+                    "guid": ",LUuZyo_;",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cháu",
+                        "niece/nephew/grandchild",
+                        "",
+                        "northern",
+                        "",
+                        ""
+                    ],
+                    "guid": "i/12%nL*$a",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::5_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "xin lỗi",
+                        "sorry / excuse me",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "fdq03)VmXw",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cảm ơn",
+                        "thank you",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "JdjoiCUi{p",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ơi",
+                        "hey!",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "CmJgZ6l*rf",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Dạ",
+                        "yes (for older speakers)",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "ivIR(i<U5j",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "mèo",
+                        "cat",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "OA7Z~|lg|G",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chuột",
+                        "mouse",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "B4g|7J[}sL",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "của",
+                        "of (possessive)",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "v|hfoAYkv`",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "dễ thương",
+                        "cute",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "vGPts_ChYG",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "là",
+                        "to be",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "hn]$AyD/Bj",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thế nào",
+                        "hơ",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "q0;,t]:)%#",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "khoẻ",
+                        "well (in terms of health)",
+                        "adj",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "hT[jf{;o%k",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "không",
+                        "no",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "CVmp]`g2&v",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "và",
+                        "and",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "hs2wSyR~gc",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Còn anh?",
+                        "And you?",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "kz/FH>q:>/",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cũng",
+                        "also",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "b<YUPUfwwp",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bạn anh",
+                        "my friend",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "l1/ga+d?|`",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bạn",
+                        "friend",
+                        "n",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Fn^^,~+A[A",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tôi",
+                        "I",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "J2}&C]yxX7",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cô khoẻ. Còn con?  \n<br>Con cũng khoẻ.",
+                        "cũng",
+                        "also",
+                        "",
+                        ""
+                    ],
+                    "guid": "l~C~:SGcv9",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đồ ăn",
+                        "food",
+                        "n",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "n^PJ%ipV*S",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mèo của anh không dễ thương.",
+                        "không",
+                        "not",
+                        "",
+                        ""
+                    ],
+                    "guid": "yI<zV=d5@=",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::6_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mình là Derrick. Bạn khoẻ không?\n<br>Mình khoẻ.",
+                        "Bạn",
+                        "you",
+                        "",
+                        ""
+                    ],
+                    "guid": "q,HIsOSODQ",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tên",
+                        "name",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Gx:1*v=IZF",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gì",
+                        "what",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "h;:n8.jvmu",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::7_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bạn rất giỏi",
+                        "rất",
+                        "very",
+                        "",
+                        ""
+                    ],
+                    "guid": "vRl{,nh>yC",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh nóng quá!",
+                        "quá",
+                        "very",
+                        "",
+                        ""
+                    ],
+                    "guid": "AreT*$H)Q#",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hôm nay quá nóng.",
+                        "quá",
+                        "too",
+                        "",
+                        ""
+                    ],
+                    "guid": "EndD5odoQf",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nóng",
+                        "hot",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "yZzE9T`zi`",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "hôm nay",
+                        "today",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "bm?^xMct]C",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bao nhiêu",
+                        "how many",
+                        "",
+                        "(&gt;12)",
+                        "",
+                        ""
+                    ],
+                    "guid": "sF3khIAtX0",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "mấy",
+                        "how many",
+                        "",
+                        "&lt;12",
+                        "",
+                        ""
+                    ],
+                    "guid": "d_q[D!5i):",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tuổi",
+                        "age / years old",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "JRkms|Q;`j",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nhiều",
+                        "many/much/ a lot",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "B*A#2(l14%",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "trai",
+                        "male/boy",
+                        "adj",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "HfQYa;f*Hu",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gái",
+                        "female/girl",
+                        "adj",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "o*|TM^67Pv",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cũ",
+                        "old",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "y8n[CoBP@X",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "mới",
+                        "new",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "u)*Npd=}p8",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em có bao nhiêu bạn trai cũ?",
+                        "có",
+                        "have",
+                        "",
+                        ""
+                    ],
+                    "guid": "FSn`T<Xw49",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thích",
+                        "to like",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "uakP|7Les1",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "yêu",
+                        "to love",
+                        "",
+                        "people/pets/animals",
+                        "",
+                        ""
+                    ],
+                    "guid": "J4%`$BnNru",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thương",
+                        "poor you!",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "tddumN(HqO",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chán",
+                        "bored",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "qjKp!mTNu)",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em chán đến mức nào?",
+                        "đến mức nào?",
+                        "to what extent?",
+                        "",
+                        ""
+                    ],
+                    "guid": "g,iIn,>Rl`",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "vì sao",
+                        "why",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "PxnSjP]y`#",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ở đâu",
+                        "where",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "q_x2]j5#6}",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đâu",
+                        "where",
+                        "",
+                        "shorter ver",
+                        "",
+                        ""
+                    ],
+                    "guid": "f/.z[%!YW<",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::8_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "dạ",
+                        "yes?",
+                        "",
+                        "to elders",
+                        "",
+                        ""
+                    ],
+                    "guid": "s%^#w@I~xc",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "vâng",
+                        "yes",
+                        "",
+                        "to older people",
+                        "",
+                        ""
+                    ],
+                    "guid": "wTr2FLDiU~",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ừ",
+                        "yes",
+                        "",
+                        "to younger people",
+                        "",
+                        ""
+                    ],
+                    "guid": "eyYXU.>Hai",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh thích Việt Nam không?\n<br>Có.",
+                        "Có",
+                        "yes",
+                        "",
+                        ""
+                    ],
+                    "guid": "A58d.jpUf|",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sinh",
+                        "to be born",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Co`^N.$-SC",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "năm",
+                        "year",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "rE:p{-UKj)",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "học",
+                        "to study",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "v7^>VM`<>`",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tiếng",
+                        "language",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "rOApPC_FTD",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hôm nay mình học tiếng Việt.",
+                        "mình",
+                        "we",
+                        "",
+                        ""
+                    ],
+                    "guid": "JEJt`hLrfG",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "question_for_teacher",
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nam Mỹ",
+                        "South America",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "gnj;opIkj6",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Việt Nam",
+                        "Vietnam",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "f{iJb+srVM",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mỹ",
+                        "America",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "F}A@%Vv-{5",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tây Ban Nha",
+                        "Spain",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "QB%k$?$N>o",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Latinh",
+                        "Latin",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "zhx,!>`he*",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thái Lan",
+                        "Thailand",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "lFwOZb+awU",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh là người nước nào?\n<br>Anh là người gốc Tây Ban Nha",
+                        "người gốc Tây Ban Nha",
+                        "Hispanic",
+                        "",
+                        ""
+                    ],
+                    "guid": "l;S2MOtOK@",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh đến từ đâu?\n<br>Anh là người Mỹ gốc Peru",
+                        "người Mỹ gốc Peru",
+                        "Peruvian American",
+                        "",
+                        ""
+                    ],
+                    "guid": "oz={ps(r*-",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nhà",
+                        "home",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "bimlWNV]}E",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "mọi người ",
+                        "everyone",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "EiR[H;@:BH",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "hiểu",
+                        "understand",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "pPB?`Y?_{N",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đồ ăn",
+                        "food",
+                        "n",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "o#+GN^6-{E",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đồ uống",
+                        "drinks",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "ib4p.iU>cA",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em là người nước nào?",
+                        "nước",
+                        "country",
+                        "",
+                        ""
+                    ],
+                    "guid": "NP8gu9H<|p",
+                    "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nói",
+                        "speak",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "uSUkUGOq/c",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "biết",
+                        "know",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "GXhEdn.{u?",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tiền",
+                        "money",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "C.@R~^UCI<",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::12_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sống",
+                        "to live",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "ujlMj+f,Yt",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "muốn",
+                        "to want",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "fZmq%PtFBB",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đi",
+                        "to go",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "F=+0y;xKEh",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cần",
+                        "to need",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "c1p<jsMqiO",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đến",
+                        "to come",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "yw/#:~gLs^",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "có",
+                        "to have",
+                        "v",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "=p;2osN2K",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ăn",
+                        "to eat",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "rqlD/+E!IN",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ngù",
+                        "to sleep",
+                        "",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "KK^VN%)-6x",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "to",
+                        "big",
+                        "adj",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "g&cHd/G*@:",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nhỏ",
+                        "small",
+                        "adj",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "cozy@vXIS)",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::10_thang_7"
+                    ]
+                }
+            ]
+        }
+    ],
     "crowdanki_uuid": "a84e6ee8-3100-11ed-8b9a-599bb18c5ef7",
     "deck_config_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
     "deck_configurations": [
@@ -75,24 +1649,274 @@
                 1.0
             ],
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "9b9a70aa-3c24-11ed-8813-79fe18cd4603",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "void",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 0
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 0
+            },
+            "reviewOrder": 0,
+            "timer": 0
         }
     ],
     "desc": "",
     "dyn": 0,
     "extendNew": 0,
     "extendRev": 0,
-    "media_files": [
-        "rec1663404240.mp3",
-        "rec1663834044.mp3",
-        "rec1664018310.mp3",
-        "rec1664018391.mp3",
-        "rec1664018653.mp3",
-        "rec1664018686.mp3",
-        "rec1664018858.mp3",
-        "rec1664018871.mp3"
-    ],
+    "media_files": [],
     "name": "tiengviet",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+            "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n}\n\n.target {\n\t\tcolor:rgb(255,130,255);\n\t\tfont-weight: 600;\n\t\t# border-bottom: 1px solid rgb(255,130,255);\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Sentence",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 32,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Target",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Target Meaning",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Target Audio",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Sentence Audio",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "VN (and reversed typed) Phrase Cards",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Target Meaning}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "<div style='display: none' id=\"sentence\">{{Sentence}}</div>\n<div style='display: none' id=\"target\">{{Target}}</div>\n<div id=\"content\"></div>\n\n<script>\nvar lookup={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var attrRE=/\\s([^'\"/\\s><]+?)[\\s/>]|([^\\s=]+)=\\s?(\".*?\"|'.*?')/g;function parseTag(tag){var res={type:\"tag\",name:\"\",voidElement:!1,attrs:{},children:[]};var tagMatch=tag.match(/<\\/?([^\\s]+?)[/\\s>]/);if(tagMatch){res.name=tagMatch[1];if(lookup[tagMatch[1]]||tag.charAt(tag.length-2)===\"/\"){res.voidElement=!0}\nif(res.name.startsWith(\"!--\")){var endIndex=tag.indexOf(\"-->\");return{type:\"comment\",comment:endIndex!==-1?tag.slice(4,endIndex):\"\"}}}\nvar reg=new RegExp(attrRE);var result=null;for(;;){result=reg.exec(tag);if(result===null){break}\nif(!result[0].trim()){continue}\nif(result[1]){var attr=result[1].trim();var arr=[attr,\"\"];if(attr.indexOf(\"=\")>-1){arr=attr.split(\"=\")}\nres.attrs[arr[0]]=arr[1];reg.lastIndex--}else if(result[2]){res.attrs[result[2]]=result[3].trim().substring(1,result[3].length-1)}}\nreturn res}\nvar tagRE=/<[a-zA-Z0-9\\-\\!\\/](?:\"[^\"]*\"|'[^']*'|[^'\">])*>/g;var whitespaceRE=/^\\s*$/;var empty=Object.create(null);function parse(html,options){options||(options={});options.components||(options.components=empty);var result=[];var arr=[];var current;var level=-1;var inComponent=!1;if(html.indexOf(\"<\")!==0){var end=html.indexOf(\"<\");result.push({type:\"text\",content:end===-1?html:html.substring(0,end)})}\nhtml.replace(tagRE,function(tag,index){if(inComponent){if(tag!==\"</\"+current.name+\">\"){return}else{inComponent=!1}}\nvar isOpen=tag.charAt(1)!==\"/\";var isComment=tag.startsWith(\"<!--\");var start=index+tag.length;var nextChar=html.charAt(start);var parent;if(isComment){var comment=parseTag(tag);if(level<0){result.push(comment);return result}\nparent=arr[level];parent.children.push(comment);return result}\nif(isOpen){level++;current=parseTag(tag);if(current.type===\"tag\"&&options.components[current.name]){current.type=\"component\";inComponent=!0}\nif(!current.voidElement&&!inComponent&&nextChar&&nextChar!==\"<\"){current.children.push({type:\"text\",content:html.slice(start,html.indexOf(\"<\",start))})}\nif(level===0){result.push(current)}\nparent=arr[level-1];if(parent){parent.children.push(current)}\narr[level]=current}\nif(!isOpen||current.voidElement){if(level>-1&&(current.voidElement||current.name===tag.slice(2,-1))){level--;current=level===-1?result:arr[level]}\nif(!inComponent&&nextChar!==\"<\"&&nextChar){parent=level===-1?result:arr[level].children;var _end=html.indexOf(\"<\",start);var content=html.slice(start,_end===-1?undefined:_end);if(whitespaceRE.test(content)){content=\" \"}\nif((_end>-1&&level+parent.length>=0)||content!==\" \"){parent.push({type:\"text\",content:content})}}}});return result}\nfunction attrString(attrs){var buff=[];for(var key in attrs){buff.push(key+'=\"'+attrs[key]+'\"')}\nif(!buff.length){return\"\"}\nreturn\" \"+buff.join(\" \")}\nfunction innerStringify(buff,doc){switch(doc.type){case \"text\":return buff+doc.content;case \"tag\":buff+=\"<\"+doc.name+(doc.attrs?attrString(doc.attrs):\"\")+(doc.voidElement?\"/>\":\">\");if(doc.voidElement){return buff}\nreturn buff+doc.children.reduce(innerStringify,\"\")+\"</\"+doc.name+\">\";case \"comment\":buff+=\"<!--\"+doc.comment+\"-->\";return buff}}\nfunction stringify(doc){return doc.reduce(function(token,rootEl){return token+innerStringify(\"\",rootEl)},\"\")}\nfunction checkNodes(arr,target){var isWrapper=target.includes(\" ... \");for(var x=0;x<arr.length;x++){var elem=arr[x];if(elem.type==\"text\"){if(isWrapper){var targets=target.split(\" ... \");var left=targets[0];var right=targets[1];if(elem.content.includes(left)&&elem.content.includes(right)){arr[x].content=elem.content.replace(left,createTargetTag(left)).replace(right,createTargetTag(right))}}\nif(elem.content.includes(target)){arr[x].content=elem.content.replace(target,createTargetTag(target))}}\nif(elem.type==\"tag\"&&elem.children.length>0)checkNodes(elem.children,target)}}\nfunction createTargetTag(target){return stringify([{type:\"tag\",name:\"span\",voidElement:!1,attrs:{class:\"target\"},children:[{type:\"text\",content:target}]}])}\nvar words=parse(document.getElementById(\"sentence\").innerHTML);checkNodes(words,document.getElementById(\"target\").innerHTML);document.getElementById(\"content\").innerHTML=stringify(words)\n</script>\n\n"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n\n{{type:Target}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Target Meaning}}\n{{type:Target}}\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+            "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 32,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 32,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Part-Of-Speech",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Context",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "Recording of front of card",
+                    "font": "Arial",
+                    "name": "Audio",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "used in online language",
+                    "font": "Arial",
+                    "name": "Abbreviation",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "VN (and reversed typed with Audio) Vocab Cards ",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        2
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        0,
+                        1,
+                        3
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n{{#Part-Of-Speech}}\n[{{Part-Of-Speech}}]\n{{/Part-Of-Speech}}\n"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{type:Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}\n{{#Context}}[{{Context}}]{{/Context}}\n{{type:Front}}"
+                }
+            ],
+            "type": 0
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
@@ -156,7 +1980,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic (and reversed typed) Vocab Cards",
+            "name": "VN (and reversed typed) Vocab Cards",
             "req": [
                 [
                     0,
@@ -202,1629 +2026,7 @@
                 }
             ],
             "type": 0
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n}\n\n.target {\n\t\tcolor:rgb(255,130,255);\n\t\tfont-weight: 600;\n\t\t# border-bottom: 1px solid rgb(255,130,255);\n}",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Sentence",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 32,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Target",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Target Meaning",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Target Audio",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Sentence Audio",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Basic (and reversed typed) Phrase Cards",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0,
-                        1
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        1,
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Target Meaning}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "<div style='display: none' id=\"sentence\">{{Sentence}}</div>\n<div style='display: none' id=\"target\">{{Target}}</div>\n<div id=\"content\"></div>\n\n<script>\nvar lookup={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var attrRE=/\\s([^'\"/\\s><]+?)[\\s/>]|([^\\s=]+)=\\s?(\".*?\"|'.*?')/g;function parseTag(tag){var res={type:\"tag\",name:\"\",voidElement:!1,attrs:{},children:[]};var tagMatch=tag.match(/<\\/?([^\\s]+?)[/\\s>]/);if(tagMatch){res.name=tagMatch[1];if(lookup[tagMatch[1]]||tag.charAt(tag.length-2)===\"/\"){res.voidElement=!0}\nif(res.name.startsWith(\"!--\")){var endIndex=tag.indexOf(\"-->\");return{type:\"comment\",comment:endIndex!==-1?tag.slice(4,endIndex):\"\"}}}\nvar reg=new RegExp(attrRE);var result=null;for(;;){result=reg.exec(tag);if(result===null){break}\nif(!result[0].trim()){continue}\nif(result[1]){var attr=result[1].trim();var arr=[attr,\"\"];if(attr.indexOf(\"=\")>-1){arr=attr.split(\"=\")}\nres.attrs[arr[0]]=arr[1];reg.lastIndex--}else if(result[2]){res.attrs[result[2]]=result[3].trim().substring(1,result[3].length-1)}}\nreturn res}\nvar tagRE=/<[a-zA-Z0-9\\-\\!\\/](?:\"[^\"]*\"|'[^']*'|[^'\">])*>/g;var whitespaceRE=/^\\s*$/;var empty=Object.create(null);function parse(html,options){options||(options={});options.components||(options.components=empty);var result=[];var arr=[];var current;var level=-1;var inComponent=!1;if(html.indexOf(\"<\")!==0){var end=html.indexOf(\"<\");result.push({type:\"text\",content:end===-1?html:html.substring(0,end)})}\nhtml.replace(tagRE,function(tag,index){if(inComponent){if(tag!==\"</\"+current.name+\">\"){return}else{inComponent=!1}}\nvar isOpen=tag.charAt(1)!==\"/\";var isComment=tag.startsWith(\"<!--\");var start=index+tag.length;var nextChar=html.charAt(start);var parent;if(isComment){var comment=parseTag(tag);if(level<0){result.push(comment);return result}\nparent=arr[level];parent.children.push(comment);return result}\nif(isOpen){level++;current=parseTag(tag);if(current.type===\"tag\"&&options.components[current.name]){current.type=\"component\";inComponent=!0}\nif(!current.voidElement&&!inComponent&&nextChar&&nextChar!==\"<\"){current.children.push({type:\"text\",content:html.slice(start,html.indexOf(\"<\",start))})}\nif(level===0){result.push(current)}\nparent=arr[level-1];if(parent){parent.children.push(current)}\narr[level]=current}\nif(!isOpen||current.voidElement){if(level>-1&&(current.voidElement||current.name===tag.slice(2,-1))){level--;current=level===-1?result:arr[level]}\nif(!inComponent&&nextChar!==\"<\"&&nextChar){parent=level===-1?result:arr[level].children;var _end=html.indexOf(\"<\",start);var content=html.slice(start,_end===-1?undefined:_end);if(whitespaceRE.test(content)){content=\" \"}\nif((_end>-1&&level+parent.length>=0)||content!==\" \"){parent.push({type:\"text\",content:content})}}}});return result}\nfunction attrString(attrs){var buff=[];for(var key in attrs){buff.push(key+'=\"'+attrs[key]+'\"')}\nif(!buff.length){return\"\"}\nreturn\" \"+buff.join(\" \")}\nfunction innerStringify(buff,doc){switch(doc.type){case \"text\":return buff+doc.content;case \"tag\":buff+=\"<\"+doc.name+(doc.attrs?attrString(doc.attrs):\"\")+(doc.voidElement?\"/>\":\">\");if(doc.voidElement){return buff}\nreturn buff+doc.children.reduce(innerStringify,\"\")+\"</\"+doc.name+\">\";case \"comment\":buff+=\"<!--\"+doc.comment+\"-->\";return buff}}\nfunction stringify(doc){return doc.reduce(function(token,rootEl){return token+innerStringify(\"\",rootEl)},\"\")}\nfunction checkNodes(arr,target){var isWrapper=target.includes(\" ... \");for(var x=0;x<arr.length;x++){var elem=arr[x];if(elem.type==\"text\"){if(isWrapper){var targets=target.split(\" ... \");var left=targets[0];var right=targets[1];if(elem.content.includes(left)&&elem.content.includes(right)){arr[x].content=elem.content.replace(left,createTargetTag(left)).replace(right,createTargetTag(right))}}\nif(elem.content.includes(target)){arr[x].content=elem.content.replace(target,createTargetTag(target))}}\nif(elem.type==\"tag\"&&elem.children.length>0)checkNodes(elem.children,target)}}\nfunction createTargetTag(target){return stringify([{type:\"tag\",name:\"span\",voidElement:!1,attrs:{class:\"target\"},children:[{type:\"text\",content:target}]}])}\nvar words=parse(document.getElementById(\"sentence\").innerHTML);checkNodes(words,document.getElementById(\"target\").innerHTML);document.getElementById(\"content\").innerHTML=stringify(words)\n</script>\n\n"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n\n{{type:Target}}\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Card 2",
-                    "ord": 1,
-                    "qfmt": "{{Target Meaning}}\n{{type:Target}}\n"
-                }
-            ],
-            "type": 0
         }
     ],
-    "notes": [
-        {
-            "__type__": "Note",
-            "fields": [
-                "ông",
-                "grandpa",
-                "",
-                "",
-                "[sound:rec1663834044.mp3]",
-                ""
-            ],
-            "guid": "FgIE7k2r2<",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "bà",
-                "grandma",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "hVQD18g-i5",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "bác",
-                "older uncles/aunts",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "mokdXE4Y3A",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cô",
-                "younger aunt",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "s%aSV*l!z-",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "chú",
-                "younger uncle",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "z;Fc*CsI&)",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "anh",
-                "older brother",
-                "",
-                "",
-                "",
-                "a"
-            ],
-            "guid": "PYo<~RMJcb",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "chị",
-                "older sister",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "h|qUZ1YTC$",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "em",
-                "younger sibling",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "r;=ixK9uae",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "con",
-                "niece/nephew/grandchild",
-                "",
-                "southern dialect",
-                "",
-                ""
-            ],
-            "guid": ",LUuZyo_;",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cháu",
-                "niece/nephew/grandchild",
-                "",
-                "northern",
-                "",
-                ""
-            ],
-            "guid": "i/12%nL*$a",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::5_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "xin lỗi",
-                "sorry / excuse me",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "fdq03)VmXw",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cảm ơn",
-                "thank you",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "JdjoiCUi{p",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ơi",
-                "hey!",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "CmJgZ6l*rf",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Dạ",
-                "yes (for older speakers)",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "ivIR(i<U5j",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "mèo",
-                "cat",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "OA7Z~|lg|G",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "chuột",
-                "mouse",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "B4g|7J[}sL",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "của",
-                "of (possessive)",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "v|hfoAYkv`",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "dễ thương",
-                "cute",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "vGPts_ChYG",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "là",
-                "to be",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "hn]$AyD/Bj",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Em khoẻ không?\n<br>Em không khoẻ.",
-                "khoẻ không?",
-                "Are you well?",
-                "[sound:rec1664018858.mp3]",
-                "[sound:rec1664018871.mp3]"
-            ],
-            "guid": "C^qiHg0<y6",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "thế nào",
-                "hơ",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "q0;,t]:)%#",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "khoẻ",
-                "well (in terms of health)",
-                "adj",
-                "",
-                "",
-                ""
-            ],
-            "guid": "hT[jf{;o%k",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "không",
-                "no",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "CVmp]`g2&v",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "và",
-                "and",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "hs2wSyR~gc",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Còn anh?",
-                "And you?",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "kz/FH>q:>/",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cũng",
-                "also",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "b<YUPUfwwp",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "bạn anh",
-                "my friend",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "l1/ga+d?|`",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "bạn",
-                "friend",
-                "n",
-                "",
-                "",
-                ""
-            ],
-            "guid": "Fn^^,~+A[A",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Tôi",
-                "I",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "J2}&C]yxX7",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Cô khoẻ. Còn con?  \n<br>Con cũng khoẻ.",
-                "cũng",
-                "also",
-                "",
-                ""
-            ],
-            "guid": "l~C~:SGcv9",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "đồ ăn",
-                "food",
-                "n",
-                "",
-                "",
-                ""
-            ],
-            "guid": "n^PJ%ipV*S",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Mèo của anh không dễ thương.",
-                "không",
-                "not",
-                "",
-                ""
-            ],
-            "guid": "yI<zV=d5@=",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Mình là Derrick. Bạn khoẻ không?\n<br>Mình khoẻ.",
-                "Bạn",
-                "you",
-                "",
-                ""
-            ],
-            "guid": "q,HIsOSODQ",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "tên",
-                "name",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "Gx:1*v=IZF",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "gì",
-                "what",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "h;:n8.jvmu",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::7_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Bạn rất giỏi",
-                "rất",
-                "very",
-                "",
-                ""
-            ],
-            "guid": "vRl{,nh>yC",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Anh nóng quá!",
-                "quá",
-                "very",
-                "",
-                ""
-            ],
-            "guid": "AreT*$H)Q#",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Hôm nay quá nóng.",
-                "quá",
-                "too",
-                "",
-                ""
-            ],
-            "guid": "EndD5odoQf",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "nóng",
-                "hot",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "yZzE9T`zi`",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "hôm nay",
-                "today",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "bm?^xMct]C",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "bao nhiêu",
-                "how many",
-                "",
-                "(&gt;12)",
-                "",
-                ""
-            ],
-            "guid": "sF3khIAtX0",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "mấy",
-                "how many",
-                "",
-                "&lt;12",
-                "",
-                ""
-            ],
-            "guid": "d_q[D!5i):",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "tuổi",
-                "age / years old",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "JRkms|Q;`j",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "nhiều",
-                "many/much/ a lot",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "B*A#2(l14%",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "trai",
-                "male/boy",
-                "adj",
-                "",
-                "",
-                ""
-            ],
-            "guid": "HfQYa;f*Hu",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "gái",
-                "female/girl",
-                "adj",
-                "",
-                "",
-                ""
-            ],
-            "guid": "o*|TM^67Pv",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cũ",
-                "old",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "y8n[CoBP@X",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "mới",
-                "new",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "u)*Npd=}p8",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Em có bao nhiêu bạn trai cũ?",
-                "có",
-                "have",
-                "",
-                ""
-            ],
-            "guid": "FSn`T<Xw49",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "thích",
-                "to like",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "uakP|7Les1",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "yêu",
-                "to love",
-                "",
-                "people/pets/animals",
-                "",
-                ""
-            ],
-            "guid": "J4%`$BnNru",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "thương",
-                "poor you!",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "tddumN(HqO",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "chán",
-                "bored",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "qjKp!mTNu)",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Em chán đến mức nào?",
-                "đến mức nào?",
-                "to what extent?",
-                "",
-                ""
-            ],
-            "guid": "g,iIn,>Rl`",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ai",
-                "who",
-                "",
-                "",
-                "[sound:rec1663404240.mp3]",
-                ""
-            ],
-            "guid": "~t!$GR]IW",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "vì sao",
-                "why",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "PxnSjP]y`#",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ở đâu",
-                "where",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "q_x2]j5#6}",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "đâu",
-                "where",
-                "",
-                "shorter ver",
-                "",
-                ""
-            ],
-            "guid": "f/.z[%!YW<",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::8_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "dạ",
-                "yes?",
-                "",
-                "to elders",
-                "",
-                ""
-            ],
-            "guid": "s%^#w@I~xc",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "vâng",
-                "yes",
-                "",
-                "to older people",
-                "",
-                ""
-            ],
-            "guid": "wTr2FLDiU~",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ừ",
-                "yes",
-                "",
-                "to younger people",
-                "",
-                ""
-            ],
-            "guid": "eyYXU.>Hai",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Anh thích Việt Nam không?\n<br>Có.",
-                "Có",
-                "yes",
-                "",
-                ""
-            ],
-            "guid": "A58d.jpUf|",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "sinh",
-                "to be born",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "Co`^N.$-SC",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "năm",
-                "year",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "rE:p{-UKj)",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "học",
-                "to study",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "v7^>VM`<>`",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "tiếng",
-                "language",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "rOApPC_FTD",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Hôm nay mình học tiếng Việt.",
-                "mình",
-                "we",
-                "",
-                ""
-            ],
-            "guid": "JEJt`hLrfG",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "question_for_teacher",
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Nam Mỹ",
-                "South America",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "gnj;opIkj6",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Việt Nam",
-                "Vietnam",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "f{iJb+srVM",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Mỹ",
-                "America",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "F}A@%Vv-{5",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Tây Ban Nha",
-                "Spain",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "QB%k$?$N>o",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Latinh",
-                "Latin",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "zhx,!>`he*",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Thái Lan",
-                "Thailand",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "lFwOZb+awU",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Anh là người nước nào?\n<br>Anh là người gốc Tây Ban Nha",
-                "người gốc Tây Ban Nha",
-                "Hispanic",
-                "",
-                ""
-            ],
-            "guid": "l;S2MOtOK@",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Anh đến từ đâu?\n<br>Anh là người Mỹ gốc Peru",
-                "người Mỹ gốc Peru",
-                "Peruvian American",
-                "",
-                ""
-            ],
-            "guid": "oz={ps(r*-",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "nhà",
-                "home",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "bimlWNV]}E",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "mọi người ",
-                "everyone",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "EiR[H;@:BH",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "hiểu",
-                "understand",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "pPB?`Y?_{N",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "đồ ăn",
-                "food",
-                "n",
-                "",
-                "",
-                ""
-            ],
-            "guid": "o#+GN^6-{E",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "đồ uống",
-                "drinks",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "ib4p.iU>cA",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Em là người nước nào?",
-                "nước",
-                "country",
-                "",
-                ""
-            ],
-            "guid": "NP8gu9H<|p",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "nói",
-                "speak",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "uSUkUGOq/c",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "biết",
-                "know",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "GXhEdn.{u?",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "tiền",
-                "money",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "C.@R~^UCI<",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "Vì sao anh muốn học k8s?\n<br>Vì anh muốn có nhiều tiền hơn",
-                "nhiều ... hơn",
-                "more of",
-                "[sound:rec1664018653.mp3]",
-                "[sound:rec1664018686.mp3]"
-            ],
-            "guid": "Ki)zXL:K.O",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::12_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "sống",
-                "to live",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "ujlMj+f,Yt",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "muốn",
-                "to want",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "fZmq%PtFBB",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "đi",
-                "to go",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "F=+0y;xKEh",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "cần",
-                "to need",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "c1p<jsMqiO",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "đến",
-                "to come",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "yw/#:~gLs^",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "có",
-                "to have",
-                "v",
-                "",
-                "",
-                ""
-            ],
-            "guid": "=p;2osN2K",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ăn",
-                "to eat",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "rqlD/+E!IN",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "ngù",
-                "to sleep",
-                "",
-                "",
-                "",
-                ""
-            ],
-            "guid": "KK^VN%)-6x",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "to",
-                "big",
-                "adj",
-                "",
-                "",
-                ""
-            ],
-            "guid": "g&cHd/G*@:",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "nhỏ",
-                "small",
-                "adj",
-                "",
-                "",
-                ""
-            ],
-            "guid": "cozy@vXIS)",
-            "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::10_thang_7"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "<span style=\"background-color: rgb(207, 226, 243);\">một khoảng thời gian nhất định để học tiếng&nbsp;</span>",
-                "một khoảng thời gian",
-                "a period of time",
-                "[sound:rec1664018310.mp3]",
-                "[sound:rec1664018391.mp3]"
-            ],
-            "guid": "I|{3cQv2me",
-            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
-            "tags": [
-                "tiengviet::6_thang_7"
-            ]
-        }
-    ]
+    "notes": []
 }
