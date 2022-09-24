@@ -83,7 +83,13 @@
     "extendRev": 0,
     "media_files": [
         "rec1663404240.mp3",
-        "rec1663834044.mp3"
+        "rec1663834044.mp3",
+        "rec1664018310.mp3",
+        "rec1664018391.mp3",
+        "rec1664018653.mp3",
+        "rec1664018686.mp3",
+        "rec1664018858.mp3",
+        "rec1664018871.mp3"
     ],
     "name": "tiengviet",
     "note_models": [
@@ -609,8 +615,8 @@
                 "Em khoẻ không?\n<br>Em không khoẻ.",
                 "khoẻ không?",
                 "Are you well?",
-                "",
-                ""
+                "[sound:rec1664018858.mp3]",
+                "[sound:rec1664018871.mp3]"
             ],
             "guid": "C^qiHg0<y6",
             "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -1636,8 +1642,8 @@
                 "Vì sao anh muốn học k8s?\n<br>Vì anh muốn có nhiều tiền hơn",
                 "nhiều ... hơn",
                 "more of",
-                "",
-                ""
+                "[sound:rec1664018653.mp3]",
+                "[sound:rec1664018686.mp3]"
             ],
             "guid": "Ki)zXL:K.O",
             "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -1803,6 +1809,21 @@
             "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
             "tags": [
                 "tiengviet::10_thang_7"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<span style=\"background-color: rgb(207, 226, 243);\">một khoảng thời gian nhất định để học tiếng&nbsp;</span>",
+                "một khoảng thời gian",
+                "a period of time",
+                "[sound:rec1664018310.mp3]",
+                "[sound:rec1664018391.mp3]"
+            ],
+            "guid": "I|{3cQv2me",
+            "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
+            "tags": [
+                "tiengviet::6_thang_7"
             ]
         }
     ]
