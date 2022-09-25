@@ -4923,7 +4923,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-            "css": ".card {\n    font-family: arial;\n    font-size: 32px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "css": ":root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}*,:after,:before{box-sizing:border-box}html{font-family:-apple-system,BlinkMacSystemFont,Avenir,Avenir Next,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-size:15px;line-height:1.6;font-weight:400;color:var(--text-main);background:var(--background-body);-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;text-rendering:optimizeLegibility}body{margin:0;font-size:1em}::-webkit-input-placeholder{color:var(--form-placeholder)}::-moz-placeholder{color:var(--form-placeholder)}:-ms-input-placeholder{color:var(--form-placeholder)}::-ms-input-placeholder{color:var(--form-placeholder)}::placeholder{color:var(--form-placeholder)}::-moz-selection{background-color:var(--selection)}::selection{background-color:var(--selection)}th{text-align:start}th{padding:.5rem}th{background:hsla(0,0%,39.2%,.025)}h1,h2,h3,h4,h5,h6{font-weight:400;line-height:1.3em;margin:var(--heading-margin);color:var(--text-c,inherit)}h1{font-size:var(--typo-size-1)}h2{font-size:var(--typo-size-2)}h3{font-size:var(--typo-size-3)}h4{font-size:var(--typo-size-4)}h5{font-size:var(--typo-size-5)}h6{font-size:var(--typo-size-6);line-height:1.6em}a{color:var(--links);text-decoration:none}th{font-weight:700}:root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}[style*=\"--grad:\"]{background-image:linear-gradient(var(--grad),transparent,var(--grad-color,#000))}[style*=\"--grad-vars:\"]{background-image:linear-gradient(var(--grad-vars),var(--primary),var(--secondary))}[style*=\"--bg-pattern-squares:\"]{background-image:repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor),repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor);background-position:0 0,calc(var(--bg-pattern-squares)*1px) calc(var(--bg-pattern-squares)*1px);background-size:calc(var(--bg-pattern-squares)*2px) calc(var(--bg-pattern-squares)*2px)}[style*=\"--wrapper:\"]{max-width:var(--wrapper);margin-left:auto;margin-right:auto;padding-left:var(--gutter);padding-right:var(--gutter)}[style*=\"--inset:\"]{top:var(--inset);left:var(--inset);right:var(--inset);bottom:var(--inset)}[style*=\"--inset-top:\"]{top:var(--inset-top);left:var(--inset-top);right:var(--inset-top)}[style*=\"--inset-bottom:\"]{left:var(--inset-bottom);right:var(--inset-bottom);bottom:var(--inset-bottom)}[style*=\"--inset-top-left:\"]{top:var(--inset-top-left);left:var(--inset-top-left)}[style*=\"--inset-top-right:\"]{top:var(--inset-top-right);right:var(--inset-top-right)}[style*=\"--inset-bottom-left:\"]{bottom:var(--inset-bottom-left);left:var(--inset-bottom-left)}[style*=\"--inset-bottom-right:\"]{bottom:var(--inset-bottom-right);right:var(--inset-bottom-right)}[style*=\"--levitate:\"]{box-shadow:0 calc(var(--levitate)*.5px) calc(var(--levitate)*.6px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*1px) calc(var(--levitate)*1.2px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*2px) calc(var(--levitate)*2.4px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*4px) calc(var(--levitate)*4.4px) rgba(0,0,0,calc(var(--levitate)*.013));transform:translateY(calc(var(--levitate)*-1.2px))}[style*=\"--levitate-hvr:\"]{transition:var(--transition)}[style*=\"--levitate-hvr:\"]:focus,[style*=\"--levitate-hvr:\"]:hover{box-shadow:0 calc(var(--levitate-hvr)*.5px) calc(var(--levitate-hvr)*.6px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*1px) calc(var(--levitate-hvr)*1.2px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*2px) calc(var(--levitate-hvr)*2.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*4px) calc(var(--levitate-hvr)*4.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013));transform:translateY(calc(var(--levitate-hvr)*-1.2px))}[style*=\"--shadow:\"]{box-shadow:0 calc(var(--shadow)*.1px) calc(var(--shadow)*.2px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.2px) calc(var(--shadow)*.4px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.4px) calc(var(--shadow)*.8px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.8px) calc(var(--shadow)*1.6px) rgba(0,0,0,calc(var(--shadow)*.02))}[style*=\"--shadow-soft:\"]{box-shadow:0 calc(var(--shadow-soft)*.3px) calc(var(--shadow-soft)*1.1px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*.6px) calc(var(--shadow-soft)*1.2px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*1.2px) calc(var(--shadow-soft)*1.4px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*2.4px) calc(var(--shadow-soft)*1.6px) rgba(0,0,0,.1)}[style*=\"--shadow-hard:\"]{box-shadow:0 calc(var(--shadow-hard)*.75px) calc(var(--shadow-hard)*1.3px) rgba(0,0,0,calc(var(--shadow-hard)*.12))}[style*=\"--shadow-vert:\"]{box-shadow:0 calc(var(--shadow-vert)*1.4px) calc(var(--shadow-vert)*2px) calc(var(--shadow-vert)*-1.7px) rgba(0,0,0,calc(var(--shadow-vert)*.12))}[style*=\"--shadow-inset:\"]{box-shadow:inset 0 calc(var(--shadow-inset)*.1px) calc(var(--shadow-inset)*.2px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.2px) calc(var(--shadow-inset)*.4px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.4px) calc(var(--shadow-inset)*.8px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.8px) calc(var(--shadow-inset)*1.6px) rgba(0,0,0,calc(var(--shadow-inset)*.02))}[style*=\"--shadow-hvr:\"]{transition:var(--transition)}[style*=\"--shadow-hvr:\"]:focus,[style*=\"--shadow-hvr:\"]:hover{box-shadow:0 calc(var(--shadow-hvr)*.1px) calc(var(--shadow-hvr)*.2px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.2px) calc(var(--shadow-hvr)*.4px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.4px) calc(var(--shadow-hvr)*.8px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.8px) calc(var(--shadow-hvr)*1.6px) rgba(0,0,0,calc(var(--shadow-hvr)*.02))}[style*=\"--px:\"]{-webkit-padding-start:var(--px);padding-inline-start:var(--px);-webkit-padding-end:var(--px);padding-inline-end:var(--px)}[style*=\"--py:\"]{-webkit-padding-before:var(--py);padding-block-start:var(--py);-webkit-padding-after:var(--py);padding-block-end:var(--py)}[style*=\"--mx:\"]{-webkit-margin-start:var(--mx);margin-inline-start:var(--mx);-webkit-margin-end:var(--mx);margin-inline-end:var(--mx)}[style*=\"--my:\"]{-webkit-margin-before:var(--my);margin-block-start:var(--my);-webkit-margin-after:var(--my);margin-block-end:var(--my)}[style*=\"--rotate:\"],[style*=\"--scale:\"],[style*=\"--skew:\"],[style*=\"--translate:\"],[style*=\"--translatex:\"],[style*=\"--translatey:\"]{transform:translate(var(--translate,0)) translateX(var(--translatex,0)) translateY(var(--translatey,0)) scale(var(--scale,100%)) rotate(var(--rotate,0)) skew(var(--skew,0))}[style*=\"--rotate-hvr:\"],[style*=\"--scale-hvr:\"],[style*=\"--skew-hvr:\"],[style*=\"--translate-hvr:\"],[style*=\"--translatex-hvr:\"],[style*=\"--translatey-hvr:\"]{transition:var(--transition)}[style*=\"--rotate-hvr:\"]:hover,[style*=\"--scale-hvr:\"]:hover,[style*=\"--skew-hvr:\"]:hover,[style*=\"--translate-hvr:\"]:hover,[style*=\"--translatex-hvr:\"]:hover,[style*=\"--translatey-hvr:\"]:hover{transform:translate(var(--translate-hvr,0)) translateX(var(--translatex-hvr,0)) translateY(var(--translatey-hvr,0)) scale(var(--scale-hvr,100%)) rotate(var(--rotate-hvr,0)) skew(var(--skew-hvr,0))}[style*=\"--line-clamp:\"]{display:-webkit-box;-webkit-line-clamp:var(--line-clamp);-webkit-box-orient:vertical;overflow:hidden}[style*=\"--text-3d:\"]{text-shadow:6px 6px 10px hsla(0,0%,100%,.1),6px 6px var(--text-3d),5.75px 5.75px var(--text-3d),5.5px 5.5px var(--text-3d),5.25px 5.25px var(--text-3d),5px 5px var(--text-3d),4.75px 4.75px var(--text-3d),4.5px 4.5px var(--text-3d),4.25px 4.25px var(--text-3d),4px 4px var(--text-3d),3.75px 3.75px var(--text-3d),3.5px 3.5px var(--text-3d),3.25px 3.25px var(--text-3d),3px 3px var(--text-3d),2.75px 2.75px var(--text-3d),2.5px 2.5px var(--text-3d),2.25px 2.25px var(--text-3d),2px 2px var(--text-3d),1.75px 1.75px var(--text-3d),1.5px 1.5px var(--text-3d),1.25px 1.25px var(--text-3d),1px 1px var(--text-3d),.75px .75px var(--text-3d),.5px .5px var(--text-3d),.25px .25px var(--text-3d)}@media only screen and (min-width:640px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-sm)}}@media only screen and (min-width:768px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-md)}}@media only screen and (min-width:1024px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-lg)}}@media only screen and (min-width:1280px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-xl)}}\n\n.kard {\n display:flex;\n justify-content:center;\n text-align:center;\n}\n\n.kard-body {\n\tmargin-top:100px;\n  min-width:500px;\n  border-radius:10px;\n  padding-bottom:10px\n}\n\n.vn {\n\tfont-size:32px\n}\n\n.en {\n\tfont-size:26px\n}",
             "flds": [
                 {
                     "description": "",
@@ -4989,8 +4989,7 @@
                     0,
                     "any",
                     [
-                        0,
-                        2
+                        0
                     ]
                 ],
                 [
@@ -5001,31 +5000,86 @@
                         1,
                         3
                     ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        0,
+                        4
+                    ]
+                ],
+                [
+                    3,
+                    "any",
+                    [
+                        4
+                    ]
+                ],
+                [
+                    4,
+                    "any",
+                    [
+                        4
+                    ]
                 ]
             ],
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"vn\">{{Front}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Back}}</div>\n\t</div>\n</div>\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Meaning",
                     "ord": 0,
-                    "qfmt": "{{Front}}\n{{#Part-Of-Speech}}\n[{{Part-Of-Speech}}]\n{{/Part-Of-Speech}}\n"
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Meaning</h5>\n\t\t<div class=\"vn\">{{Front}}</div>\n\t</div>\n</div>\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{type:Front}}",
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"en\">{{Back}}{{#Context}}[{{Context}}]{{/Context}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn\">{{type::Front}}</div>\n\t</div>\n</div>\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Type Word",
                     "ord": 1,
-                    "qfmt": "{{Back}}\n{{#Context}}[{{Context}}]{{/Context}}\n{{type:Front}}"
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Word</h5>\n\t\t<div class=\"en\">{{Back}}{{#Context}}[{{Context}}]{{/Context}}</div>\n\t</div>\n</div>\n\n{{type:Front}}\n"
+                },
+                {
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"th\">{{Audio}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"th\">{{type:Front}}</div>\n\t</div>\n</div>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Type Word from Audio",
+                    "ord": 2,
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Name</h5>\n\t\t<div>{{Audio}}</div>\n\t</div>\n</div>\n\n{{type:Front}}\n"
+                },
+                {
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"th\">{{Audio}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Back}}</div>\n\t</div>\n</div>\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Meaning from Audio",
+                    "ord": 3,
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Meaning</h5>\n\t\t<div>{{Audio}}</div>\n\t</div>\n</div>\n"
+                },
+                {
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Compare Pitch Contour</h5>\n\t\t<div id=\"audio\">{{Audio}}</div>\n\t\t<div style=\"display:none\" id=\"card-id\">{{info-Id:}}</div>\n\t</div>\n</div>\n\n\n<div id=\"btn-container\"></div>\n<div id=\"graph-container\">\n    <div id=\"native-plot\" style=\"width:1000px;height:600px;\"></div>\n    <div id=\"rec-plot\" style=\"width:1000px;height:600px;\"></div>\n</div>\n\n<script type=\"text/javascript\" src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script>\n<script type=\"text/javascript\">\n    const URL_BASE = \"http://127.0.0.1:4000\"\n    const container = document.getElementById('btn-container');\n\n    function getContourLayout(title) {\n        return {\n            title,\n            xaxis: {\n                title: 'seconds',\n                showgrid: false,\n            },\n            yaxis: {\n                title: 'frequency [Hz]',\n                range: [50, 400],\n                showgrid: false,\n            }\n        };\n    }\n\n    function getContourData({ x, y }, name) {\n        return { x, y: y.map((datum) => datum == 0 ? undefined : datum), mode: 'markers', name }\n    }\n\n    function createLoad(payload) {\n        return {\n            method: \"POST\",\n            headers: {\n                'Content-type': 'application/json; charset=UTF-8',\n            },\n            body: JSON.stringify(payload)\n        }\n    }\n\n    const fetchNative = fetch(`${URL_BASE}/pitch_track_by_field`, createLoad({ field: document.getElementById('audio').innerHTML })).then(res => res.json())\n    const fetchRecordings = fetch(`${URL_BASE}/pitch_tracks`, createLoad({ 'card-id': document.getElementById('card-id').innerHTML })).then(res => res.json())\n\n    const allData = Promise.all([fetchNative, fetchRecordings])\n\n    allData.then(([nativeData, { ids, recordings }]) => {\n        Plotly.newPlot(\"native-plot\", [getContourData(nativeData, 'Native')], getContourLayout('ong'));\n\n        ids.forEach((id) => {\n            let btn = document.createElement(\"button\");\n            btn.innerHTML = id;\n            btn.addEventListener(\"click\", function () {\n                Plotly.newPlot(\"rec-plot\", [getContourData(recordings[id], 'Recording')], getContourLayout(id));\n            });\n            container.appendChild(btn);\n        })\n    })\n</script>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Compare Pitch Contour",
+                    "ord": 4,
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Record Your Voice</h5>\n\t\t<div>{{Audio}}</div>\n\t</div>\n</div>\n"
                 }
             ],
             "type": 0
