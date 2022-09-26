@@ -484,7 +484,6 @@
                 "rec1664101976.mp3",
                 "rec1664101980.mp3",
                 "rec1664101984.mp3",
-                "rec1664101987.mp3",
                 "rec1664101991.mp3",
                 "rec1664101995.mp3",
                 "rec1664102010.mp3",
@@ -755,10 +754,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Dạ",
-                        "yes (for older speakers)",
+                        "dạ",
+                        "yes&nbsp;",
                         "",
-                        "",
+                        "to older people",
                         "[sound:rec1664101729.mp3]",
                         ""
                     ],
@@ -915,8 +914,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Còn anh?",
-                        "And you?",
+                        "còn anh?",
+                        "and you?",
                         "",
                         "",
                         "[sound:rec1664101788.mp3]",
@@ -925,6 +924,7 @@
                     "guid": "kz/FH>q:>/",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
+                        "tiengviet::marked_for_phrase",
                         "tiengviet::thang_7::7"
                     ]
                 },
@@ -1331,22 +1331,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "dạ",
-                        "yes?",
-                        "",
-                        "to elders",
-                        "[sound:rec1664101987.mp3]",
-                        ""
-                    ],
-                    "guid": "s%^#w@I~xc",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "vâng",
                         "yes",
                         "",
@@ -1443,8 +1427,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Nam Mỹ",
-                        "South America",
+                        "nam mỹ",
+                        "south america",
                         "",
                         "",
                         "[sound:rec1664102036.mp3]",
@@ -1475,8 +1459,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Mỹ",
-                        "America",
+                        "mỹ",
+                        "america",
                         "",
                         "",
                         "[sound:rec1664102043.mp3]",
@@ -5027,7 +5011,7 @@
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"vn\">{{Front}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Back}}</div>\n\t</div>\n</div>\n",
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"vn\">{{Front}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Back}}{{#Context}} [{{Context}}] {{/Context}}</div>\n\t</div>\n</div>\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -5038,7 +5022,7 @@
                     "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Meaning</h5>\n\t\t<div class=\"vn\">{{Front}}</div>\n\t</div>\n</div>\n"
                 },
                 {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"en\">{{Back}}{{#Context}}[{{Context}}]{{/Context}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn\">{{type::Front}}</div>\n\t</div>\n</div>\n",
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"en\">{{Back}}{{#Context}} [{{Context}}] {{/Context}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn\">{{type::Front}}</div>\n\t</div>\n</div>\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -5071,7 +5055,7 @@
                     "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Meaning</h5>\n\t\t<div>{{Audio}}</div>\n\t</div>\n</div>\n"
                 },
                 {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Compare Pitch Contour</h5>\n\t\t<div id=\"audio\">{{Audio}}</div>\n\t\t<div style=\"display:none\" id=\"card-id\">{{info-Id:}}</div>\n\t</div>\n</div>\n\n\n<div id=\"btn-container\"></div>\n<div id=\"graph-container\">\n    <div id=\"native-plot\" style=\"width:1000px;height:600px;\"></div>\n    <div id=\"rec-plot\" style=\"width:1000px;height:600px;\"></div>\n</div>\n\n<script type=\"text/javascript\" src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script>\n<script type=\"text/javascript\">\n    const URL_BASE = \"http://127.0.0.1:4000\"\n    const container = document.getElementById('btn-container');\n\n    function getContourLayout(title) {\n        return {\n            title,\n            xaxis: {\n                title: 'seconds',\n                showgrid: false,\n            },\n            yaxis: {\n                title: 'frequency [Hz]',\n                range: [50, 400],\n                showgrid: false,\n            }\n        };\n    }\n\n    function getContourData({ x, y }, name) {\n        return { x, y: y.map((datum) => datum == 0 ? undefined : datum), mode: 'markers', name }\n    }\n\n    function createLoad(payload) {\n        return {\n            method: \"POST\",\n            headers: {\n                'Content-type': 'application/json; charset=UTF-8',\n            },\n            body: JSON.stringify(payload)\n        }\n    }\n\n    const fetchNative = fetch(`${URL_BASE}/pitch_track_by_field`, createLoad({ field: document.getElementById('audio').innerHTML })).then(res => res.json())\n    const fetchRecordings = fetch(`${URL_BASE}/pitch_tracks`, createLoad({ 'card-id': document.getElementById('card-id').innerHTML })).then(res => res.json())\n\n    const allData = Promise.all([fetchNative, fetchRecordings])\n\n    allData.then(([nativeData, { ids, recordings }]) => {\n        Plotly.newPlot(\"native-plot\", [getContourData(nativeData, 'Native')], getContourLayout('ong'));\n\n        ids.forEach((id) => {\n            let btn = document.createElement(\"button\");\n            btn.innerHTML = id;\n            btn.addEventListener(\"click\", function () {\n                Plotly.newPlot(\"rec-plot\", [getContourData(recordings[id], 'Recording')], getContourLayout(id));\n            });\n            container.appendChild(btn);\n        })\n    })\n</script>",
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Compare Pitch Contour</h5>\n\t\t<div id=\"audio\">{{Audio}}</div>\n\t\t<div style=\"display: none\" id=\"card-id\">{{info-Id:}}</div>\n\t</div>\n</div>\n\n\n<div id=\"btn-container\"></div>\n<div id=\"graph-container\">\n    <div id=\"native-plot\" style=\"width:1000px;height:600px;\"></div>\n    <div id=\"rec-plot\" style=\"width:1000px;height:600px;\"></div>\n</div>\n\n<script type=\"text/javascript\" src=\"https://cdn.plot.ly/plotly-latest.min.js\"></script>\n<script type=\"text/javascript\">\n    const URL_BASE = \"http://127.0.0.1:4000\"\n    const container = document.getElementById('btn-container');\n\n    function getContourLayout(title) {\n        return {\n            title,\n            xaxis: {\n                title: 'seconds',\n                showgrid: false,\n            },\n            yaxis: {\n                title: 'frequency [Hz]',\n                range: [50, 400],\n                showgrid: false,\n            }\n        };\n    }\n\n    function getContourData({ x, y }, name) {\n        return { x, y: y.map((datum) => datum == 0 ? undefined : datum), mode: 'markers', name }\n    }\n\n    function createLoad(payload) {\n        return {\n            method: \"POST\",\n            headers: {\n                'Content-type': 'application/json; charset=UTF-8',\n            },\n            body: JSON.stringify(payload)\n        }\n    }\n\n\t\tconst audioElem = document.getElementById('audio');\n\t\tconsole.log(\"audioElem\",audioElem)\n\t\tconsole.log(\"audioElem.innerHTML\",audioElem.innerHTML )\n\n\n    const fetchNative = fetch(`${URL_BASE}/pitch_track_by_field`, createLoad({ field: document.getElementById('audio').innerHTML })).then(res => res.json())\n    const fetchRecordings = fetch(`${URL_BASE}/pitch_tracks`, createLoad({ 'card-id': document.getElementById('card-id').innerHTML })).then(res => res.json())\n\n    const allData = Promise.all([fetchNative, fetchRecordings])\n\n    allData.then(([nativeData, { ids, recordings }]) => {\n        Plotly.newPlot(\"native-plot\", [getContourData(nativeData, 'Native')], getContourLayout('ong'));\n\n        ids.forEach((id) => {\n            let btn = document.createElement(\"button\");\n            btn.innerHTML = id;\n            btn.addEventListener(\"click\", function () {\n                Plotly.newPlot(\"rec-plot\", [getContourData(recordings[id], 'Recording')], getContourLayout(id));\n            });\n            container.appendChild(btn);\n        })\n    })\n</script>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
