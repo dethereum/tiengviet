@@ -16,49 +16,7 @@
                 "rec1664018653.mp3",
                 "rec1664018686.mp3",
                 "rec1664018858.mp3",
-                "rec1664018871.mp3",
-                "rec1664101811.mp3",
-                "rec1664101818.mp3",
-                "rec1664101831.mp3",
-                "rec1664101836.mp3",
-                "rec1664101842.mp3",
-                "rec1664101849.mp3",
-                "rec1664101863.mp3",
-                "rec1664101868.mp3",
-                "rec1664101874.mp3",
-                "rec1664101877.mp3",
-                "rec1664101883.mp3",
-                "rec1664101887.mp3",
-                "rec1664101940.mp3",
-                "rec1664101944.mp3",
-                "rec1664101967.mp3",
-                "rec1664101972.mp3",
-                "rec1664102000.mp3",
-                "rec1664102005.mp3",
-                "rec1664102027.mp3",
-                "rec1664102031.mp3",
-                "rec1664102061.mp3",
-                "rec1664102069.mp3",
-                "rec1664102076.mp3",
-                "rec1664102082.mp3",
-                "rec1664102110.mp3",
-                "rec1664102115.mp3",
-                "rec1664102195.mp3",
-                "rec1664102200.mp3",
-                "rec1664102204.mp3",
-                "rec1664102208.mp3",
-                "rec1664102222.mp3",
-                "rec1664102226.mp3",
-                "rec1664102239.mp3",
-                "rec1664102245.mp3",
-                "rec1664102252.mp3",
-                "rec1664102256.mp3",
-                "rec1664102295.mp3",
-                "rec1664102298.mp3",
-                "rec1664102304.mp3",
-                "rec1664102308.mp3",
-                "rec1664102332.mp3",
-                "rec1664102336.mp3"
+                "rec1664018871.mp3"
             ],
             "name": "phrases",
             "notes": [
@@ -75,202 +33,6 @@
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Cô khoẻ. Còn con?  \n<br>Con cũng khoẻ.",
-                        "cũng",
-                        "also",
-                        "[sound:rec1664101811.mp3]",
-                        "[sound:rec1664101818.mp3]"
-                    ],
-                    "guid": "l~C~:SGcv9",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mèo của anh không dễ thương.",
-                        "không",
-                        "not",
-                        "[sound:rec1664101831.mp3]",
-                        "[sound:rec1664101836.mp3]"
-                    ],
-                    "guid": "yI<zV=d5@=",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mình là Derrick. Bạn khoẻ không?\n<br>Mình khoẻ.",
-                        "Bạn",
-                        "you",
-                        "[sound:rec1664101842.mp3]",
-                        "[sound:rec1664101849.mp3]"
-                    ],
-                    "guid": "q,HIsOSODQ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bạn rất giỏi",
-                        "rất",
-                        "very",
-                        "[sound:rec1664101868.mp3]",
-                        "[sound:rec1664101863.mp3]"
-                    ],
-                    "guid": "vRl{,nh>yC",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh nóng quá!",
-                        "quá",
-                        "very",
-                        "[sound:rec1664101874.mp3]",
-                        "[sound:rec1664101877.mp3]"
-                    ],
-                    "guid": "AreT*$H)Q#",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Hôm nay quá nóng.",
-                        "quá",
-                        "too",
-                        "[sound:rec1664101883.mp3]",
-                        "[sound:rec1664101887.mp3]"
-                    ],
-                    "guid": "EndD5odoQf",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em có bao nhiêu bạn trai cũ?",
-                        "có",
-                        "have",
-                        "[sound:rec1664101940.mp3]",
-                        "[sound:rec1664101944.mp3]"
-                    ],
-                    "guid": "FSn`T<Xw49",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em chán đến mức nào?",
-                        "đến mức nào?",
-                        "to what extent?",
-                        "[sound:rec1664101967.mp3]",
-                        "[sound:rec1664101972.mp3]"
-                    ],
-                    "guid": "g,iIn,>Rl`",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh thích Việt Nam không?\n<br>Có.",
-                        "Có",
-                        "yes",
-                        "[sound:rec1664102000.mp3]",
-                        "[sound:rec1664102005.mp3]"
-                    ],
-                    "guid": "A58d.jpUf|",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Hôm nay mình học tiếng Việt.",
-                        "mình",
-                        "we",
-                        "[sound:rec1664102027.mp3]",
-                        "[sound:rec1664102031.mp3]"
-                    ],
-                    "guid": "JEJt`hLrfG",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "question_for_teacher",
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh là người nước nào?\n<br>Anh là người gốc Tây Ban Nha",
-                        "người gốc Tây Ban Nha",
-                        "Hispanic",
-                        "[sound:rec1664102061.mp3]",
-                        "[sound:rec1664102069.mp3]"
-                    ],
-                    "guid": "l;S2MOtOK@",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh đến từ đâu?\n<br>Anh là người Mỹ gốc Peru",
-                        "người Mỹ gốc Peru",
-                        "Peruvian American",
-                        "[sound:rec1664102076.mp3]",
-                        "[sound:rec1664102082.mp3]"
-                    ],
-                    "guid": "oz={ps(r*-",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em là người nước nào?",
-                        "nước",
-                        "country",
-                        "[sound:rec1664102110.mp3]",
-                        "[sound:rec1664102115.mp3]"
-                    ],
-                    "guid": "NP8gu9H<|p",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::12"
                     ]
                 },
                 {
@@ -302,126 +64,6 @@
                     "tags": [
                         "tiengviet::thang_7::6"
                     ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "1. Hôm nay, mình đi ăn đồ Mexico được không?",
-                        "được không?",
-                        "Is it ok?",
-                        "[sound:rec1664102195.mp3]",
-                        "[sound:rec1664102200.mp3]"
-                    ],
-                    "guid": "gUj4}YdnY$",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mình đi Hà Nội được không?",
-                        "được không",
-                        "is it possible",
-                        "[sound:rec1664102204.mp3]",
-                        "[sound:rec1664102208.mp3]"
-                    ],
-                    "guid": "wwWmt{3t[c",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em nói tiếng Anh được không?",
-                        "được không",
-                        "Can I?",
-                        "[sound:rec1664102222.mp3]",
-                        "[sound:rec1664102226.mp3]"
-                    ],
-                    "guid": "k#9(%K*m9g",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Đồ ăn Việt ở Philadelphia (có) đắt không?",
-                        "Đồ ăn Việt",
-                        "Vietnamese cuisine",
-                        "[sound:rec1664102239.mp3]",
-                        "[sound:rec1664102245.mp3]"
-                    ],
-                    "guid": "Q3(%.Ln1Pc",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh muốn sống ở Thái Lan à? ",
-                        "à",
-                        "strong but not certain belief in assumption",
-                        "[sound:rec1664102252.mp3]",
-                        "[sound:rec1664102256.mp3]"
-                    ],
-                    "guid": "l}}g0idLV3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh nói tiếng Việt được",
-                        "được",
-                        "can",
-                        "[sound:rec1664102295.mp3]",
-                        "[sound:rec1664102298.mp3]"
-                    ],
-                    "guid": "vSLBNv+d3;",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::19"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em không làm được.",
-                        "không ... được",
-                        "can't do",
-                        "[sound:rec1664102304.mp3]",
-                        "[sound:rec1664102308.mp3]"
-                    ],
-                    "guid": "g#z<N:7PQ3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::19"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em không nói với anh điều đấy được.",
-                        "điều đấy",
-                        "that",
-                        "[sound:rec1664102332.mp3]",
-                        "[sound:rec1664102336.mp3]"
-                    ],
-                    "guid": "G5Fvmt9rZ$",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::19"
-                    ]
                 }
             ]
         },
@@ -437,6 +79,106 @@
             "media_files": [
                 "rec1664101654.mp3",
                 "rec1664101664.mp3",
+                "rec1664343113.mp3",
+                "rec1664343116.mp3",
+                "rec1664343121.mp3"
+            ],
+            "name": "vocab",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ông",
+                        "grandpa",
+                        "",
+                        "",
+                        "[sound:rec1664101654.mp3]",
+                        "rec1664101654.mp3",
+                        ""
+                    ],
+                    "guid": "FgIE7k2r2<",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::thang_7::5"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ai",
+                        "who",
+                        "",
+                        "",
+                        "[sound:rec1664101664.mp3]",
+                        "rec1664101664.mp3",
+                        ""
+                    ],
+                    "guid": "~t!$GR]IW",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cảm xúc",
+                        "emotion",
+                        "",
+                        "",
+                        "[sound:rec1664343113.mp3]",
+                        ""
+                    ],
+                    "guid": "f)0Tk#tT^C",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::people::cãm_xúc"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "lo",
+                        "to worry",
+                        "",
+                        "",
+                        "[sound:rec1664343116.mp3]",
+                        ""
+                    ],
+                    "guid": "O:*YTI`[FI",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::people::cãm_xúc"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "háo hức",
+                        "enthusiastic",
+                        "",
+                        "",
+                        "[sound:rec1664343121.mp3]",
+                        ""
+                    ],
+                    "guid": "crbvIh7iwc",
+                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
+                    "tags": [
+                        "tiengviet::people::cãm_xúc"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "9b9a6f56-3c24-11ed-8813-79fe18cd4603",
+            "deck_config_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
                 "rec1664101669.mp3",
                 "rec1664101674.mp3",
                 "rec1664101678.mp3",
@@ -464,9 +206,21 @@
                 "rec1664101798.mp3",
                 "rec1664101802.mp3",
                 "rec1664101806.mp3",
+                "rec1664101811.mp3",
+                "rec1664101818.mp3",
                 "rec1664101826.mp3",
+                "rec1664101831.mp3",
+                "rec1664101836.mp3",
+                "rec1664101842.mp3",
+                "rec1664101849.mp3",
                 "rec1664101855.mp3",
                 "rec1664101859.mp3",
+                "rec1664101863.mp3",
+                "rec1664101868.mp3",
+                "rec1664101874.mp3",
+                "rec1664101877.mp3",
+                "rec1664101883.mp3",
+                "rec1664101887.mp3",
                 "rec1664101894.mp3",
                 "rec1664101898.mp3",
                 "rec1664101902.mp3",
@@ -477,30 +231,45 @@
                 "rec1664101924.mp3",
                 "rec1664101932.mp3",
                 "rec1664101935.mp3",
+                "rec1664101940.mp3",
+                "rec1664101944.mp3",
                 "rec1664101950.mp3",
                 "rec1664101953.mp3",
                 "rec1664101957.mp3",
                 "rec1664101961.mp3",
+                "rec1664101967.mp3",
+                "rec1664101972.mp3",
                 "rec1664101976.mp3",
                 "rec1664101980.mp3",
                 "rec1664101984.mp3",
+                "rec1664101987.mp3",
                 "rec1664101991.mp3",
                 "rec1664101995.mp3",
+                "rec1664102000.mp3",
+                "rec1664102005.mp3",
                 "rec1664102010.mp3",
                 "rec1664102014.mp3",
                 "rec1664102018.mp3",
                 "rec1664102022.mp3",
+                "rec1664102027.mp3",
+                "rec1664102031.mp3",
                 "rec1664102036.mp3",
                 "rec1664102040.mp3",
                 "rec1664102043.mp3",
                 "rec1664102047.mp3",
                 "rec1664102050.mp3",
                 "rec1664102054.mp3",
+                "rec1664102061.mp3",
+                "rec1664102069.mp3",
+                "rec1664102076.mp3",
+                "rec1664102082.mp3",
                 "rec1664102088.mp3",
                 "rec1664102092.mp3",
                 "rec1664102095.mp3",
                 "rec1664102099.mp3",
                 "rec1664102105.mp3",
+                "rec1664102110.mp3",
+                "rec1664102115.mp3",
                 "rec1664102119.mp3",
                 "rec1664102123.mp3",
                 "rec1664102126.mp3",
@@ -522,8 +291,18 @@
                 "rec1664102183.mp3",
                 "rec1664102186.mp3",
                 "rec1664102190.mp3",
+                "rec1664102195.mp3",
+                "rec1664102200.mp3",
+                "rec1664102204.mp3",
+                "rec1664102208.mp3",
+                "rec1664102222.mp3",
+                "rec1664102226.mp3",
                 "rec1664102230.mp3",
                 "rec1664102235.mp3",
+                "rec1664102239.mp3",
+                "rec1664102245.mp3",
+                "rec1664102252.mp3",
+                "rec1664102256.mp3",
                 "rec1664102261.mp3",
                 "rec1664102264.mp3",
                 "rec1664102268.mp3",
@@ -533,33 +312,192 @@
                 "rec1664102281.mp3",
                 "rec1664102285.mp3",
                 "rec1664102289.mp3",
+                "rec1664102295.mp3",
+                "rec1664102298.mp3",
+                "rec1664102304.mp3",
+                "rec1664102308.mp3",
                 "rec1664102311.mp3",
                 "rec1664102314.mp3",
                 "rec1664102317.mp3",
                 "rec1664102320.mp3",
                 "rec1664102323.mp3",
                 "rec1664102326.mp3",
-                "rec1664102341.mp3"
+                "rec1664102332.mp3",
+                "rec1664102336.mp3",
+                "rec1664102341.mp3",
+                "rec1664342326.mp3",
+                "rec1664342340.mp3",
+                "rec1664342357.mp3",
+                "rec1664342362.mp3",
+                "rec1664342377.mp3",
+                "rec1664342382.mp3",
+                "rec1664342389.mp3",
+                "rec1664342407.mp3",
+                "rec1664342415.mp3",
+                "rec1664342424.mp3",
+                "rec1664342435.mp3",
+                "rec1664342443.mp3",
+                "rec1664342458.mp3",
+                "rec1664342481.mp3",
+                "rec1664342487.mp3",
+                "rec1664342491.mp3",
+                "rec1664342496.mp3",
+                "rec1664342503.mp3",
+                "rec1664342509.mp3",
+                "rec1664342516.mp3",
+                "rec1664342523.mp3",
+                "rec1664342529.mp3",
+                "rec1664342534.mp3",
+                "rec1664342539.mp3",
+                "rec1664342544.mp3",
+                "rec1664342548.mp3",
+                "rec1664342554.mp3",
+                "rec1664342559.mp3",
+                "rec1664342564.mp3",
+                "rec1664342574.mp3",
+                "rec1664342579.mp3",
+                "rec1664342584.mp3",
+                "rec1664342589.mp3",
+                "rec1664342593.mp3",
+                "rec1664342602.mp3",
+                "rec1664342606.mp3",
+                "rec1664342610.mp3",
+                "rec1664342613.mp3",
+                "rec1664342617.mp3",
+                "rec1664342620.mp3",
+                "rec1664342624.mp3",
+                "rec1664342627.mp3",
+                "rec1664342631.mp3",
+                "rec1664342634.mp3",
+                "rec1664342637.mp3",
+                "rec1664342641.mp3",
+                "rec1664342644.mp3",
+                "rec1664342648.mp3",
+                "rec1664342651.mp3",
+                "rec1664342654.mp3",
+                "rec1664342658.mp3",
+                "rec1664342662.mp3",
+                "rec1664342665.mp3",
+                "rec1664342672.mp3",
+                "rec1664342677.mp3",
+                "rec1664342681.mp3",
+                "rec1664342684.mp3",
+                "rec1664342688.mp3",
+                "rec1664342692.mp3",
+                "rec1664342696.mp3",
+                "rec1664342700.mp3",
+                "rec1664342703.mp3",
+                "rec1664342708.mp3",
+                "rec1664342712.mp3",
+                "rec1664342716.mp3",
+                "rec1664342719.mp3",
+                "rec1664342723.mp3",
+                "rec1664342727.mp3",
+                "rec1664342730.mp3",
+                "rec1664342733.mp3",
+                "rec1664342736.mp3",
+                "rec1664342739.mp3",
+                "rec1664342743.mp3",
+                "rec1664342746.mp3",
+                "rec1664342749.mp3",
+                "rec1664342752.mp3",
+                "rec1664342756.mp3",
+                "rec1664342759.mp3",
+                "rec1664342762.mp3",
+                "rec1664342766.mp3",
+                "rec1664342771.mp3",
+                "rec1664342775.mp3",
+                "rec1664342779.mp3",
+                "rec1664342783.mp3",
+                "rec1664342787.mp3",
+                "rec1664342790.mp3",
+                "rec1664342793.mp3",
+                "rec1664342797.mp3",
+                "rec1664342801.mp3",
+                "rec1664342808.mp3",
+                "rec1664342813.mp3",
+                "rec1664342817.mp3",
+                "rec1664342821.mp3",
+                "rec1664342825.mp3",
+                "rec1664342829.mp3",
+                "rec1664342832.mp3",
+                "rec1664342836.mp3",
+                "rec1664342839.mp3",
+                "rec1664342842.mp3",
+                "rec1664342845.mp3",
+                "rec1664342848.mp3",
+                "rec1664342852.mp3",
+                "rec1664342855.mp3",
+                "rec1664342858.mp3",
+                "rec1664342861.mp3",
+                "rec1664342865.mp3",
+                "rec1664342868.mp3",
+                "rec1664342872.mp3",
+                "rec1664342875.mp3",
+                "rec1664342878.mp3",
+                "rec1664342883.mp3",
+                "rec1664342885.mp3",
+                "rec1664342888.mp3",
+                "rec1664342891.mp3",
+                "rec1664342895.mp3",
+                "rec1664342898.mp3",
+                "rec1664342901.mp3",
+                "rec1664342904.mp3",
+                "rec1664342907.mp3",
+                "rec1664342910.mp3",
+                "rec1664342913.mp3",
+                "rec1664342916.mp3",
+                "rec1664342920.mp3",
+                "rec1664342923.mp3",
+                "rec1664342929.mp3",
+                "rec1664342934.mp3",
+                "rec1664342939.mp3",
+                "rec1664342948.mp3",
+                "rec1664342951.mp3",
+                "rec1664342955.mp3",
+                "rec1664342958.mp3",
+                "rec1664342962.mp3",
+                "rec1664342965.mp3",
+                "rec1664342968.mp3",
+                "rec1664342972.mp3",
+                "rec1664342976.mp3",
+                "rec1664342979.mp3",
+                "rec1664342982.mp3",
+                "rec1664342985.mp3",
+                "rec1664342989.mp3",
+                "rec1664342992.mp3",
+                "rec1664343002.mp3",
+                "rec1664343005.mp3",
+                "rec1664343008.mp3",
+                "rec1664343012.mp3",
+                "rec1664343026.mp3",
+                "rec1664343029.mp3",
+                "rec1664343033.mp3",
+                "rec1664343036.mp3",
+                "rec1664343040.mp3",
+                "rec1664343044.mp3",
+                "rec1664343046.mp3",
+                "rec1664343050.mp3",
+                "rec1664343053.mp3",
+                "rec1664343056.mp3",
+                "rec1664343060.mp3",
+                "rec1664343063.mp3",
+                "rec1664343066.mp3",
+                "rec1664343069.mp3",
+                "rec1664343072.mp3",
+                "rec1664343081.mp3",
+                "rec1664343084.mp3",
+                "rec1664343087.mp3",
+                "rec1664343091.mp3",
+                "rec1664343094.mp3",
+                "rec1664343098.mp3",
+                "rec1664343101.mp3",
+                "rec1664343104.mp3",
+                "rec1664343107.mp3",
+                "rec1664343110.mp3"
             ],
-            "name": "vocab",
+            "name": "void",
             "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ông",
-                        "grandpa",
-                        "",
-                        "",
-                        "[sound:rec1664101654.mp3]",
-                        "rec1664101654.mp3",
-                        ""
-                    ],
-                    "guid": "FgIE7k2r2<",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::thang_7::5"
-                    ]
-                },
                 {
                     "__type__": "Note",
                     "fields": [
@@ -1027,6 +965,21 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Cô khoẻ. Còn con?  \n<br>Con cũng khoẻ.",
+                        "cũng",
+                        "also",
+                        "[sound:rec1664101811.mp3]",
+                        "[sound:rec1664101818.mp3]"
+                    ],
+                    "guid": "l~C~:SGcv9",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "đồ ăn",
                         "food",
                         "n",
@@ -1039,6 +992,36 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mèo của anh không dễ thương.",
+                        "không",
+                        "not",
+                        "[sound:rec1664101831.mp3]",
+                        "[sound:rec1664101836.mp3]"
+                    ],
+                    "guid": "yI<zV=d5@=",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::6"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mình là Derrick. Bạn khoẻ không?\n<br>Mình khoẻ.",
+                        "Bạn",
+                        "you",
+                        "[sound:rec1664101842.mp3]",
+                        "[sound:rec1664101849.mp3]"
+                    ],
+                    "guid": "q,HIsOSODQ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::7"
                     ]
                 },
                 {
@@ -1073,6 +1056,51 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bạn rất giỏi",
+                        "rất",
+                        "very",
+                        "[sound:rec1664101868.mp3]",
+                        "[sound:rec1664101863.mp3]"
+                    ],
+                    "guid": "vRl{,nh>yC",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh nóng quá!",
+                        "quá",
+                        "very",
+                        "[sound:rec1664101874.mp3]",
+                        "[sound:rec1664101877.mp3]"
+                    ],
+                    "guid": "AreT*$H)Q#",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hôm nay quá nóng.",
+                        "quá",
+                        "too",
+                        "[sound:rec1664101883.mp3]",
+                        "[sound:rec1664101887.mp3]"
+                    ],
+                    "guid": "EndD5odoQf",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
                     ]
                 },
                 {
@@ -1248,6 +1276,21 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Em có bao nhiêu bạn trai cũ?",
+                        "có",
+                        "have",
+                        "[sound:rec1664101940.mp3]",
+                        "[sound:rec1664101944.mp3]"
+                    ],
+                    "guid": "FSn`T<Xw49",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "thích",
                         "to like",
                         "",
@@ -1318,16 +1361,14 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ai",
-                        "who",
-                        "",
-                        "",
-                        "[sound:rec1664101664.mp3]",
-                        "rec1664101664.mp3",
-                        ""
+                        "Em chán đến mức nào?",
+                        "đến mức nào?",
+                        "to what extent?",
+                        "[sound:rec1664101967.mp3]",
+                        "[sound:rec1664101972.mp3]"
                     ],
-                    "guid": "~t!$GR]IW",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "guid": "g,iIn,>Rl`",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::thang_7::8"
                     ]
@@ -1386,6 +1427,23 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "dạ",
+                        "yes?",
+                        "",
+                        "to elders",
+                        "[sound:rec1664101987.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "s%^#w@I~xc",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "vâng",
                         "yes",
                         "",
@@ -1414,6 +1472,21 @@
                     ],
                     "guid": "eyYXU.>Hai",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh thích Việt Nam không?\n<br>Có.",
+                        "Có",
+                        "yes",
+                        "[sound:rec1664102000.mp3]",
+                        "[sound:rec1664102005.mp3]"
+                    ],
+                    "guid": "A58d.jpUf|",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::thang_7::10"
                     ]
@@ -1484,6 +1557,22 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hôm nay mình học tiếng Việt.",
+                        "mình",
+                        "we",
+                        "[sound:rec1664102027.mp3]",
+                        "[sound:rec1664102031.mp3]"
+                    ],
+                    "guid": "JEJt`hLrfG",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "question_for_teacher",
+                        "tiengviet::thang_7::12"
                     ]
                 },
                 {
@@ -1591,6 +1680,36 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Anh là người nước nào?\n<br>Anh là người gốc Tây Ban Nha",
+                        "người gốc Tây Ban Nha",
+                        "Hispanic",
+                        "[sound:rec1664102061.mp3]",
+                        "[sound:rec1664102069.mp3]"
+                    ],
+                    "guid": "l;S2MOtOK@",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh đến từ đâu?\n<br>Anh là người Mỹ gốc Peru",
+                        "người Mỹ gốc Peru",
+                        "Peruvian American",
+                        "[sound:rec1664102076.mp3]",
+                        "[sound:rec1664102082.mp3]"
+                    ],
+                    "guid": "oz={ps(r*-",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "nhà",
                         "home",
                         "",
@@ -1669,6 +1788,21 @@
                     ],
                     "guid": "ib4p.iU>cA",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em là người nước nào?",
+                        "nước",
+                        "country",
+                        "[sound:rec1664102110.mp3]",
+                        "[sound:rec1664102115.mp3]"
+                    ],
+                    "guid": "NP8gu9H<|p",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::thang_7::12"
                     ]
@@ -2035,6 +2169,51 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "1. Hôm nay, mình đi ăn đồ Mexico được không?",
+                        "được không?",
+                        "Is it ok?",
+                        "[sound:rec1664102195.mp3]",
+                        "[sound:rec1664102200.mp3]"
+                    ],
+                    "guid": "gUj4}YdnY$",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mình đi Hà Nội được không?",
+                        "được không",
+                        "is it possible",
+                        "[sound:rec1664102204.mp3]",
+                        "[sound:rec1664102208.mp3]"
+                    ],
+                    "guid": "wwWmt{3t[c",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em nói tiếng Anh được không?",
+                        "được không",
+                        "Can I?",
+                        "[sound:rec1664102222.mp3]",
+                        "[sound:rec1664102226.mp3]"
+                    ],
+                    "guid": "k#9(%K*m9g",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "đắt",
                         "expensive",
                         "",
@@ -2062,6 +2241,36 @@
                     ],
                     "guid": "KxLk9#KsSl",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Đồ ăn Việt ở Philadelphia (có) đắt không?",
+                        "Đồ ăn Việt",
+                        "Vietnamese cuisine",
+                        "[sound:rec1664102239.mp3]",
+                        "[sound:rec1664102245.mp3]"
+                    ],
+                    "guid": "Q3(%.Ln1Pc",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh muốn sống ở Thái Lan à? ",
+                        "à",
+                        "strong but not certain belief in assumption",
+                        "[sound:rec1664102252.mp3]",
+                        "[sound:rec1664102256.mp3]"
+                    ],
+                    "guid": "l}}g0idLV3",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::thang_7::13"
                     ]
@@ -2222,6 +2431,36 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Anh nói tiếng Việt được",
+                        "được",
+                        "can",
+                        "[sound:rec1664102295.mp3]",
+                        "[sound:rec1664102298.mp3]"
+                    ],
+                    "guid": "vSLBNv+d3;",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em không làm được.",
+                        "không ... được",
+                        "can't do",
+                        "[sound:rec1664102304.mp3]",
+                        "[sound:rec1664102308.mp3]"
+                    ],
+                    "guid": "g#z<N:7PQ3",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "uống",
                         "to drink",
                         "",
@@ -2324,6 +2563,21 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Em không nói với anh điều đấy được.",
+                        "điều đấy",
+                        "that",
+                        "[sound:rec1664102332.mp3]",
+                        "[sound:rec1664102336.mp3]"
+                    ],
+                    "guid": "G5Fvmt9rZ$",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "với",
                         "with",
                         "",
@@ -2341,73 +2595,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cảm xúc",
-                        "emotion",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "f)0Tk#tT^C",
-                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-                    "tags": [
-                        "tiengviet::people::cãm_xúc"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "lo",
-                        "to worry",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "O:*YTI`[FI",
-                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-                    "tags": [
-                        "tiengviet::people::cãm_xúc"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "háo hức",
-                        "enthusiastic",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "crbvIh7iwc",
-                    "note_model_uuid": "2949c2a2-322f-11ed-bea3-57623aa003ca",
-                    "tags": [
-                        "tiengviet::people::cãm_xúc"
-                    ]
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "9b9a6f56-3c24-11ed-8813-79fe18cd4603",
-            "deck_config_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "void",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "còn",
                         "to have left",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342602.mp3]",
                         ""
                     ],
                     "guid": "BR`oXsO2Cg",
@@ -2422,8 +2614,8 @@
                         "Chắc chắn là anh không biết nói tiếng Việt.",
                         "Chắc chắn là",
                         "to be sure",
-                        "",
-                        ""
+                        "[sound:rec1664342326.mp3]",
+                        "[sound:rec1664342340.mp3]"
                     ],
                     "guid": "QN_ln(8_5F",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -2437,8 +2629,8 @@
                         "Chắc là anh không biết nói tiếng Việt.",
                         "Chắc là",
                         "Maybe",
-                        "",
-                        ""
+                        "[sound:rec1664342357.mp3]",
+                        "[sound:rec1664342362.mp3]"
                     ],
                     "guid": "lmz*G8%:^e",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -2453,7 +2645,7 @@
                         "dad",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342606.mp3]",
                         ""
                     ],
                     "guid": "Dwri$Yl|{L",
@@ -2469,7 +2661,7 @@
                         "mum",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342610.mp3]",
                         ""
                     ],
                     "guid": "BcKFLt@ap=",
@@ -2485,7 +2677,7 @@
                         "parents",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342613.mp3]",
                         ""
                     ],
                     "guid": "z-;NEs#U=F",
@@ -2501,7 +2693,7 @@
                         "good",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342617.mp3]",
                         ""
                     ],
                     "guid": "mh~L>fi!Mw",
@@ -2517,7 +2709,7 @@
                         "Well done",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342620.mp3]",
                         ""
                     ],
                     "guid": "Lbp5(h+2kl",
@@ -2533,7 +2725,7 @@
                         "that's correct",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342624.mp3]",
                         ""
                     ],
                     "guid": "OY^f=[S+8#",
@@ -2549,7 +2741,7 @@
                         "to miss (someone/something) emotionally",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342627.mp3]",
                         ""
                     ],
                     "guid": "f~kH/P]Vue",
@@ -2565,7 +2757,7 @@
                         "family",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342631.mp3]",
                         ""
                     ],
                     "guid": "gsMSFU&<lQ",
@@ -2580,8 +2772,8 @@
                         "Anh học tiếng Việt bao lâu rồi?",
                         "bao lâu rồi",
                         "How long have you been ... ?",
-                        "",
-                        ""
+                        "[sound:rec1664342377.mp3]",
+                        "[sound:rec1664342382.mp3]"
                     ],
                     "guid": "h-$I0,_8.&",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -2596,7 +2788,7 @@
                         "day",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342634.mp3]",
                         ""
                     ],
                     "guid": "q#.E:isbUT",
@@ -2612,7 +2804,7 @@
                         "week",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342637.mp3]",
                         ""
                     ],
                     "guid": "MmATr$O<gb",
@@ -2628,7 +2820,7 @@
                         "month",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342641.mp3]",
                         ""
                     ],
                     "guid": "y0Gj#R,@D8",
@@ -2644,7 +2836,7 @@
                         "here",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342644.mp3]",
                         ""
                     ],
                     "guid": "cVpi!eLx^{",
@@ -2660,7 +2852,7 @@
                         "there",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342648.mp3]",
                         ""
                     ],
                     "guid": "b+d4,DAcK{",
@@ -2676,7 +2868,7 @@
                         "approximately",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342651.mp3]",
                         ""
                     ],
                     "guid": "mo|2=f=ezk",
@@ -2692,7 +2884,7 @@
                         "at the same time",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342654.mp3]",
                         ""
                     ],
                     "guid": "NmG-W#%B?n",
@@ -2708,7 +2900,7 @@
                         "a method",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342658.mp3]",
                         ""
                     ],
                     "guid": "ixTGTMP#al",
@@ -2724,7 +2916,7 @@
                         "most",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342662.mp3]",
                         ""
                     ],
                     "guid": "O^wH,U8*{J",
@@ -2740,7 +2932,7 @@
                         "every",
                         "",
                         "each",
-                        "",
+                        "[sound:rec1664342665.mp3]",
                         ""
                     ],
                     "guid": "bG$=P&wc&2",
@@ -2756,7 +2948,7 @@
                         "to feel",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342677.mp3]",
                         ""
                     ],
                     "guid": "IotBK{9y!J",
@@ -2772,7 +2964,7 @@
                         "to",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342672.mp3]",
                         ""
                     ],
                     "guid": "p]<E0dc*!k",
@@ -2788,7 +2980,7 @@
                         "now; at the moment",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342681.mp3]",
                         ""
                     ],
                     "guid": "s6WYJ0+JWG",
@@ -2804,7 +2996,7 @@
                         "these days",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342684.mp3]",
                         ""
                     ],
                     "guid": "ALdHq@sh3X",
@@ -2820,7 +3012,7 @@
                         "job",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342688.mp3]",
                         ""
                     ],
                     "guid": "Ml>ZNv)x5l",
@@ -2836,7 +3028,7 @@
                         "China",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342692.mp3]",
                         ""
                     ],
                     "guid": "CU8z?h8.a|",
@@ -2852,7 +3044,7 @@
                         "university student",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342696.mp3]",
                         ""
                     ],
                     "guid": "x*kO#{<uQE",
@@ -2868,7 +3060,7 @@
                         "teacher",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342700.mp3]",
                         ""
                     ],
                     "guid": "DR{%tojc6R",
@@ -2884,7 +3076,7 @@
                         "student",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342703.mp3]",
                         ""
                     ],
                     "guid": "nJ4~CA*;FK",
@@ -2900,7 +3092,7 @@
                         "university",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342708.mp3]",
                         ""
                     ],
                     "guid": "e72q<vh>_f",
@@ -2916,7 +3108,7 @@
                         "coffee",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342712.mp3]",
                         ""
                     ],
                     "guid": "HB-D1HtokC",
@@ -2932,7 +3124,7 @@
                         "Japan",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342716.mp3]",
                         ""
                     ],
                     "guid": "vu-V2mnK<b",
@@ -2948,7 +3140,7 @@
                         "tasty",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342719.mp3]",
                         ""
                     ],
                     "guid": "nF&iPcI9Rw",
@@ -2964,7 +3156,7 @@
                         "good night",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342723.mp3]",
                         ""
                     ],
                     "guid": "c;7w]H<B?$",
@@ -2980,7 +3172,7 @@
                         "that",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342727.mp3]",
                         ""
                     ],
                     "guid": "DZ{p)D<#At",
@@ -2996,7 +3188,7 @@
                         "that",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342730.mp3]",
                         ""
                     ],
                     "guid": "kM8gN6p127",
@@ -3012,7 +3204,7 @@
                         "not yet",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342733.mp3]",
                         ""
                     ],
                     "guid": "g>Xf>Rw>zM",
@@ -3028,7 +3220,7 @@
                         "wife",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342736.mp3]",
                         ""
                     ],
                     "guid": "ni3IB_%eJ|",
@@ -3044,7 +3236,7 @@
                         "husband",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342739.mp3]",
                         ""
                     ],
                     "guid": "zEH)]Q5F]&",
@@ -3060,7 +3252,7 @@
                         "company",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342743.mp3]",
                         ""
                     ],
                     "guid": "Av>n(VwE4Q",
@@ -3076,7 +3268,7 @@
                         "boy",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342746.mp3]",
                         ""
                     ],
                     "guid": "j8l?0nzk|f",
@@ -3092,7 +3284,7 @@
                         "girl",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342749.mp3]",
                         ""
                     ],
                     "guid": "sj<Rtf>YV&",
@@ -3108,7 +3300,7 @@
                         "before",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342752.mp3]",
                         ""
                     ],
                     "guid": "D;#/v;jWJ]",
@@ -3124,7 +3316,7 @@
                         "coworkers",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342756.mp3]",
                         ""
                     ],
                     "guid": "mur)/{xDkn",
@@ -3140,7 +3332,7 @@
                         "close friends",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342759.mp3]",
                         ""
                     ],
                     "guid": "A:72]p[qZ!",
@@ -3156,7 +3348,7 @@
                         "manager",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342762.mp3]",
                         ""
                     ],
                     "guid": "pZRIhA+VTZ",
@@ -3172,7 +3364,7 @@
                         "when",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342766.mp3]",
                         ""
                     ],
                     "guid": "eobw$tfy#|",
@@ -3188,7 +3380,7 @@
                         "at",
                         "",
                         "time",
-                        "",
+                        "[sound:rec1664342771.mp3]",
                         ""
                     ],
                     "guid": "c>v?S1@D|]",
@@ -3204,7 +3396,7 @@
                         "at",
                         "",
                         "place",
-                        "",
+                        "[sound:rec1664342775.mp3]",
                         ""
                     ],
                     "guid": "v=3vPk7FDl",
@@ -3220,7 +3412,7 @@
                         "both",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342779.mp3]",
                         ""
                     ],
                     "guid": "Joa%E^8{?9",
@@ -3236,7 +3428,7 @@
                         "Sunday",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342783.mp3]",
                         ""
                     ],
                     "guid": "w$QxP!$m=v",
@@ -3252,7 +3444,7 @@
                         "busy",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342787.mp3]",
                         ""
                     ],
                     "guid": "lFbwdL$[2N",
@@ -3268,7 +3460,7 @@
                         "half",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342790.mp3]",
                         ""
                     ],
                     "guid": "IxqWv0/9%3",
@@ -3284,7 +3476,7 @@
                         "o'clock",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342793.mp3]",
                         ""
                     ],
                     "guid": "CT2QaX!tz0",
@@ -3300,7 +3492,7 @@
                         "every",
                         "",
                         "all",
-                        "",
+                        "[sound:rec1664342797.mp3]",
                         ""
                     ],
                     "guid": "AUs_`1^eeI",
@@ -3316,7 +3508,7 @@
                         "for",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342801.mp3]",
                         ""
                     ],
                     "guid": "oRzI.Ul7wx",
@@ -3332,7 +3524,7 @@
                         "It depends.",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342808.mp3]",
                         ""
                     ],
                     "guid": "MH4y&=@s&-",
@@ -3348,7 +3540,7 @@
                         "sometimes",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342813.mp3]",
                         ""
                     ],
                     "guid": "om<o6IYYZn",
@@ -3364,7 +3556,7 @@
                         "all day long",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342817.mp3]",
                         ""
                     ],
                     "guid": "H-X<QK_HO8",
@@ -3380,7 +3572,7 @@
                         "mainly",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342821.mp3]",
                         ""
                     ],
                     "guid": "pdqvgR$[s3",
@@ -3396,7 +3588,7 @@
                         "What time?",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342825.mp3]",
                         ""
                     ],
                     "guid": "N<g[E4>[[>",
@@ -3411,8 +3603,8 @@
                         "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được.",
                         "về cơ bản là",
                         "technically",
-                        "",
-                        ""
+                        "[sound:rec1664342389.mp3]",
+                        "[sound:rec1664342407.mp3]"
                     ],
                     "guid": "n#/WX:QLKS",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -3426,8 +3618,8 @@
                         "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được.",
                         "từ ... đến",
                         "from ... to ...",
-                        "",
-                        ""
+                        "[sound:rec1664342415.mp3]",
+                        "[sound:rec1664342424.mp3]"
                     ],
                     "guid": "Gwr1fW]&q)",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -3441,8 +3633,8 @@
                         "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được. ",
                         "lúc nào cũng được",
                         "whenever",
-                        "",
-                        ""
+                        "[sound:rec1664342435.mp3]",
+                        "[sound:rec1664342443.mp3]"
                     ],
                     "guid": "fX_lMtK87D",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -3457,7 +3649,7 @@
                         "on",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342829.mp3]",
                         ""
                     ],
                     "guid": "n:&9Vm2R_#",
@@ -3473,7 +3665,7 @@
                         "breakfast",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342832.mp3]",
                         ""
                     ],
                     "guid": "kF>WTbuE!F",
@@ -3489,7 +3681,7 @@
                         "to have lunch",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342836.mp3]",
                         ""
                     ],
                     "guid": "oS#V_O58P;",
@@ -3505,7 +3697,7 @@
                         "to have dinner",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342839.mp3]",
                         ""
                     ],
                     "guid": "j)^{sdsO`1",
@@ -3521,7 +3713,7 @@
                         "to get up early",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342842.mp3]",
                         ""
                     ],
                     "guid": "Pwj(,Szx%U",
@@ -3537,7 +3729,7 @@
                         " in the morning",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342845.mp3]",
                         ""
                     ],
                     "guid": "H8oKjw?E4S",
@@ -3553,7 +3745,7 @@
                         "noon",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342848.mp3]",
                         ""
                     ],
                     "guid": "B6xjl/}I~s",
@@ -3569,7 +3761,7 @@
                         "afternoon",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342852.mp3]",
                         ""
                     ],
                     "guid": "KnL9)f~16R",
@@ -3585,7 +3777,7 @@
                         "evening",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342855.mp3]",
                         ""
                     ],
                     "guid": "iqHBk2pi2,",
@@ -3601,7 +3793,7 @@
                         "night",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342858.mp3]",
                         ""
                     ],
                     "guid": "i]H!6?gm;Q",
@@ -3613,11 +3805,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "sau khi học tiếng việt tôi sẽ học tiếng thái",
+                        "sau khi học tiếng việt anh sẽ học tiếng thái",
                         "sau khi",
                         "after",
-                        "",
-                        ""
+                        "[sound:rec1664342481.mp3]",
+                        "[sound:rec1664342458.mp3]"
                     ],
                     "guid": "w{U|lAT=,%",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -3631,8 +3823,8 @@
                         "Sau khi ăn xong",
                         "xong",
                         "finish",
-                        "",
-                        ""
+                        "[sound:rec1664342487.mp3]",
+                        "[sound:rec1664342491.mp3]"
                     ],
                     "guid": "ko*<JAX_5W",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -3647,7 +3839,7 @@
                         "to start",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342861.mp3]",
                         ""
                     ],
                     "guid": "gq3[v;=F~t",
@@ -3663,7 +3855,7 @@
                         "a bus",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342865.mp3]",
                         ""
                     ],
                     "guid": "E0Ll1>u)T^",
@@ -3678,8 +3870,8 @@
                         "Vì đồ ăn ở Mỹ không ngon, nên anh không thích.",
                         "Vì ... nên",
                         "because ... so...",
-                        "",
-                        ""
+                        "[sound:rec1664342496.mp3]",
+                        "[sound:rec1664342503.mp3]"
                     ],
                     "guid": "kehWP(IK!d",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -3694,7 +3886,7 @@
                         "to take a break",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342868.mp3]",
                         ""
                     ],
                     "guid": "tJi,$WIw!$",
@@ -3710,7 +3902,7 @@
                         "they",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342872.mp3]",
                         ""
                     ],
                     "guid": "x-t8uK}(&*",
@@ -3726,7 +3918,7 @@
                         "lunch nap",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342875.mp3]",
                         ""
                     ],
                     "guid": "opzfG4-@su",
@@ -3742,7 +3934,7 @@
                         "to try",
                         "",
                         "with effort",
-                        "",
+                        "[sound:rec1664342878.mp3]",
                         ""
                     ],
                     "guid": "c#mmbpBTC;",
@@ -3758,7 +3950,7 @@
                         "fast",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342883.mp3]",
                         ""
                     ],
                     "guid": "ch=/sS.OIv",
@@ -3774,7 +3966,7 @@
                         "to come back",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342885.mp3]",
                         ""
                     ],
                     "guid": "f]aBp*ZrFB",
@@ -3790,7 +3982,7 @@
                         "traffic jam",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342888.mp3]",
                         ""
                     ],
                     "guid": "pm<oI73!83",
@@ -3806,7 +3998,7 @@
                         "will",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342891.mp3]",
                         ""
                     ],
                     "guid": "q/lwL7=kYo",
@@ -3822,7 +4014,7 @@
                         "late",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342895.mp3]",
                         ""
                     ],
                     "guid": "iL]m!sSmBm",
@@ -3838,7 +4030,7 @@
                         "early",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342898.mp3]",
                         ""
                     ],
                     "guid": "H,z%ZM.x+9",
@@ -3854,7 +4046,7 @@
                         "to cook",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342901.mp3]",
                         ""
                     ],
                     "guid": "rYPzNJ0GYr",
@@ -3870,7 +4062,7 @@
                         "after that",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342904.mp3]",
                         ""
                     ],
                     "guid": "Mjx7nG.xyD",
@@ -3886,7 +4078,7 @@
                         "a while",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342907.mp3]",
                         ""
                     ],
                     "guid": "GZDRr?{/b]",
@@ -3902,7 +4094,7 @@
                         "to help",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342910.mp3]",
                         ""
                     ],
                     "guid": "K{0:+TIxhQ",
@@ -3917,8 +4109,8 @@
                         "Anh muốn ngủ sớm vì anh phải học tiếng Việt sớm vào buổi sáng",
                         "phải",
                         "to have to",
-                        "",
-                        ""
+                        "[sound:rec1664342509.mp3]",
+                        "[sound:rec1664342516.mp3]"
                     ],
                     "guid": "j(O}>0p#Nv",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -3932,8 +4124,8 @@
                         "Anh có phải là người Việt không?",
                         "có phải là ... không",
                         "Is subject noun?",
-                        "",
-                        ""
+                        "[sound:rec1664342523.mp3]",
+                        "[sound:rec1664342529.mp3]"
                     ],
                     "guid": "EgTGwzP82[",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -3948,7 +4140,7 @@
                         "this morning",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342913.mp3]",
                         ""
                     ],
                     "guid": "PjV]4,@dH(",
@@ -3964,7 +4156,7 @@
                         "this noon",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342916.mp3]",
                         ""
                     ],
                     "guid": "FxnbgBlTK+",
@@ -3980,7 +4172,7 @@
                         "this afternoon",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342920.mp3]",
                         ""
                     ],
                     "guid": "lwaHNhz,hF",
@@ -3996,7 +4188,7 @@
                         "this evening",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342923.mp3]",
                         ""
                     ],
                     "guid": "j3hIbKbI%Y",
@@ -4012,7 +4204,7 @@
                         "tonight",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342934.mp3]",
                         ""
                     ],
                     "guid": "QQbP-hO9,%",
@@ -4028,7 +4220,7 @@
                         "to hate",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342929.mp3]",
                         ""
                     ],
                     "guid": "D[Js|,,LO&",
@@ -4044,7 +4236,7 @@
                         "to be lazy",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342939.mp3]",
                         ""
                     ],
                     "guid": "HDhTY`+rHJ",
@@ -4060,7 +4252,7 @@
                         "hardworking",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342948.mp3]",
                         ""
                     ],
                     "guid": "pHA9`tTt/b",
@@ -4076,7 +4268,7 @@
                         "alcohol",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342951.mp3]",
                         ""
                     ],
                     "guid": "dZ+$g>ww,r",
@@ -4092,7 +4284,7 @@
                         "usually",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342955.mp3]",
                         ""
                     ],
                     "guid": ")<7SJ+sC;",
@@ -4108,7 +4300,7 @@
                         "little",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342958.mp3]",
                         ""
                     ],
                     "guid": "sNdO!*2pbQ",
@@ -4124,7 +4316,7 @@
                         "enter",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342962.mp3]",
                         ""
                     ],
                     "guid": "Jnlel~+MA#",
@@ -4140,7 +4332,7 @@
                         "already",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342965.mp3]",
                         ""
                     ],
                     "guid": "HDbPYcJ9{y",
@@ -4156,7 +4348,7 @@
                         "to decide",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342968.mp3]",
                         ""
                     ],
                     "guid": "lo=<lU^^*O",
@@ -4172,7 +4364,7 @@
                         "to change ",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342972.mp3]",
                         ""
                     ],
                     "guid": "ukzb6gG_[c",
@@ -4188,7 +4380,7 @@
                         "habit",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342976.mp3]",
                         ""
                     ],
                     "guid": "eFy$.b/s%>",
@@ -4204,7 +4396,7 @@
                         "just",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342979.mp3]",
                         ""
                     ],
                     "guid": "Hs%2esGpi;",
@@ -4220,7 +4412,7 @@
                         "afraid",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342982.mp3]",
                         ""
                     ],
                     "guid": "oG96WS^S.S",
@@ -4237,7 +4429,7 @@
                         "park",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342985.mp3]",
                         ""
                     ],
                     "guid": "el_;,[HHYm",
@@ -4253,7 +4445,7 @@
                         "to exercise",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342989.mp3]",
                         ""
                     ],
                     "guid": "m1gd;[*yvH",
@@ -4269,7 +4461,7 @@
                         "birthday",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664342992.mp3]",
                         ""
                     ],
                     "guid": "c{#y*,-nlp",
@@ -4285,7 +4477,7 @@
                         "normal",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343002.mp3]",
                         ""
                     ],
                     "guid": "pm74yQNoDi",
@@ -4301,7 +4493,7 @@
                         "sour",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343005.mp3]",
                         ""
                     ],
                     "guid": "BzNjRv-uv7",
@@ -4317,7 +4509,7 @@
                         "milk",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343008.mp3]",
                         ""
                     ],
                     "guid": "i9ll<L!LOQ",
@@ -4330,10 +4522,10 @@
                     "__type__": "Note",
                     "fields": [
                         "đi du lịch",
-                        "to travel abroad",
+                        "to travel",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343012.mp3]",
                         ""
                     ],
                     "guid": "jZ`N`t`9]_",
@@ -4349,7 +4541,7 @@
                         "to go study abroad",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343026.mp3]",
                         ""
                     ],
                     "guid": "nm#pX=?s9$",
@@ -4365,7 +4557,7 @@
                         "reason",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343029.mp3]",
                         ""
                     ],
                     "guid": "dORBmn%$@L",
@@ -4381,7 +4573,7 @@
                         "other people",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343033.mp3]",
                         ""
                     ],
                     "guid": "O>wfliSwVf",
@@ -4397,7 +4589,7 @@
                         "foreigner",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343036.mp3]",
                         ""
                     ],
                     "guid": "IQO6EM<EhL",
@@ -4412,8 +4604,8 @@
                         "Em muốn đi nước khác",
                         "khác",
                         "another",
-                        "",
-                        ""
+                        "[sound:rec1664342534.mp3]",
+                        "[sound:rec1664342539.mp3]"
                     ],
                     "guid": "w_sy@DwP<v",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -4427,8 +4619,8 @@
                         "Tom và Alex yêu nhau.",
                         "nhau",
                         "together",
-                        "",
-                        ""
+                        "[sound:rec1664342544.mp3]",
+                        "[sound:rec1664342548.mp3]"
                     ],
                     "guid": "p[l3rdZ_2Y",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -4443,7 +4635,7 @@
                         "fruit",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343040.mp3]",
                         ""
                     ],
                     "guid": "N`9*l?EbU%",
@@ -4458,8 +4650,8 @@
                         "Hôm nay em muốn ăn đồ Nhật hoặc đồ Mexico. ",
                         "hoặc",
                         "or",
-                        "",
-                        ""
+                        "[sound:rec1664342554.mp3]",
+                        "[sound:rec1664342559.mp3]"
                     ],
                     "guid": "hnGQeW^%w}",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -4472,9 +4664,9 @@
                     "fields": [
                         "Anh thích đồ ăn Việt Nam hay đồ ăn Thái Lan? ",
                         "hay",
-                        "or",
-                        "",
-                        ""
+                        "or (used in question)",
+                        "[sound:rec1664342564.mp3]",
+                        "[sound:rec1664342574.mp3]"
                     ],
                     "guid": "OE<m?bOE,u",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -4489,7 +4681,7 @@
                         "a little",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343044.mp3]",
                         ""
                     ],
                     "guid": "DYmiw)p$MH",
@@ -4504,8 +4696,8 @@
                         "Anh biết viết email bằng tiếng Việt.",
                         "bằng",
                         "by",
-                        "",
-                        ""
+                        "[sound:rec1664342579.mp3]",
+                        "[sound:rec1664342584.mp3]"
                     ],
                     "guid": "evb>tEthBr",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -4520,7 +4712,7 @@
                         "to walk",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343046.mp3]",
                         ""
                     ],
                     "guid": "sM:el2vX~K",
@@ -4536,7 +4728,7 @@
                         "a meal",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343050.mp3]",
                         ""
                     ],
                     "guid": "m9%XB6@,]4",
@@ -4552,7 +4744,7 @@
                         "breakfast",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343053.mp3]",
                         ""
                     ],
                     "guid": "w=HT1U)P:i",
@@ -4568,7 +4760,7 @@
                         "breakfast food",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343056.mp3]",
                         ""
                     ],
                     "guid": "MegDIBf%Ey",
@@ -4584,7 +4776,7 @@
                         "to cook",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343060.mp3]",
                         ""
                     ],
                     "guid": "jlg,c=7siF",
@@ -4599,8 +4791,8 @@
                         "Em giúp anh nói chuyện với nhiều người Việt. ",
                         "nói chuyện với",
                         "talk",
-                        "",
-                        ""
+                        "[sound:rec1664342589.mp3]",
+                        "[sound:rec1664342593.mp3]"
                     ],
                     "guid": "yvU}RKe[KU",
                     "note_model_uuid": "2949d102-322f-11ed-bea3-57623aa003ca",
@@ -4615,7 +4807,7 @@
                         "near",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343063.mp3]",
                         ""
                     ],
                     "guid": "FU=OH!s{jW",
@@ -4631,7 +4823,7 @@
                         "far",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343066.mp3]",
                         ""
                     ],
                     "guid": "E[J<SiGy@A",
@@ -4647,7 +4839,7 @@
                         "loose",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343069.mp3]",
                         ""
                     ],
                     "guid": "dp~FUValSj",
@@ -4663,7 +4855,7 @@
                         "tight",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343072.mp3]",
                         ""
                     ],
                     "guid": "yLg)}Z1o9@",
@@ -4679,7 +4871,7 @@
                         "long",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343081.mp3]",
                         ""
                     ],
                     "guid": "h1,dtB}<T+",
@@ -4695,7 +4887,7 @@
                         "short",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343084.mp3]",
                         ""
                     ],
                     "guid": "sB90FTRkUC",
@@ -4711,7 +4903,7 @@
                         "short",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343087.mp3]",
                         ""
                     ],
                     "guid": "h`u=.uo%;]",
@@ -4727,7 +4919,7 @@
                         "tall",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343091.mp3]",
                         ""
                     ],
                     "guid": "dFFeiuA3Wd",
@@ -4743,7 +4935,7 @@
                         "cold",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343094.mp3]",
                         ""
                     ],
                     "guid": "G|2#<wd}0c",
@@ -4759,7 +4951,7 @@
                         "fat",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343098.mp3]",
                         ""
                     ],
                     "guid": "qs7$`a61jn",
@@ -4775,7 +4967,7 @@
                         "thin",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343101.mp3]",
                         ""
                     ],
                     "guid": "j]j</]VdJT",
@@ -4791,7 +4983,7 @@
                         "to teach",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343104.mp3]",
                         ""
                     ],
                     "guid": "FM!wU2>gSO",
@@ -4807,7 +4999,7 @@
                         "food stall / small food vendor",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343107.mp3]",
                         ""
                     ],
                     "guid": "IfyT]{w`jT",
@@ -4823,7 +5015,7 @@
                         "restaurant",
                         "",
                         "",
-                        "",
+                        "[sound:rec1664343110.mp3]",
                         ""
                     ],
                     "guid": "zPBum2&Z-y",
