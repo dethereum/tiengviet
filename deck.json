@@ -1362,6 +1362,7 @@
                     "guid": "hs2wSyR~gc",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
+                        "question_for_teacher",
                         "tiengviet::thang_7::7"
                     ]
                 },
@@ -2286,6 +2287,7 @@
                     "guid": "KK^VN%)-6x",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
+                        "tiengviet::marked_for_correction",
                         "tiengviet::thang_7::10"
                     ]
                 },
@@ -3351,7 +3353,7 @@
                         "đấy",
                         "that",
                         "",
-                        "",
+                        "end in y",
                         "[sound:rec1664342730.mp3]",
                         "",
                         ""
@@ -3655,7 +3657,7 @@
                     "__type__": "Note",
                     "fields": [
                         "giờ",
-                        "o'clock",
+                        "o'clock; hour",
                         "",
                         "",
                         "[sound:rec1664342793.mp3]",
@@ -7342,7 +7344,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 266
+                "perDay": 326
             },
             "newGatherPriority": 4,
             "newMix": 1,
