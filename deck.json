@@ -125,36 +125,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Vì sao anh muốn học k8s?\n<br>Vì anh muốn có nhiều tiền hơn",
-                        "nhiều ... hơn",
-                        "more of",
-                        "[sound:rec1664018653.mp3]",
-                        "[sound:rec1664018686.mp3]"
-                    ],
-                    "guid": "Ki)zXL:K.O",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<span style=\"background-color: rgb(207, 226, 243);\">một khoảng thời gian nhất định để học tiếng&nbsp;</span>",
-                        "một khoảng thời gian",
-                        "a period of time",
-                        "[sound:rec1664018310.mp3]",
-                        "[sound:rec1664018391.mp3]"
-                    ],
-                    "guid": "I|{3cQv2me",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Cô khoẻ. Còn con?  \n<br>Con cũng khoẻ.",
                         "cũng",
                         "also",
@@ -346,6 +316,36 @@
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vì sao anh muốn học k8s?\n<br>Vì anh muốn có nhiều tiền hơn",
+                        "nhiều ... hơn",
+                        "more of",
+                        "[sound:rec1664018653.mp3]",
+                        "[sound:rec1664018686.mp3]"
+                    ],
+                    "guid": "Ki)zXL:K.O",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<span style=\"background-color: rgb(207, 226, 243);\">một khoảng thời gian nhất định để học tiếng&nbsp;</span>",
+                        "một khoảng thời gian",
+                        "a period of time",
+                        "[sound:rec1664018310.mp3]",
+                        "[sound:rec1664018391.mp3]"
+                    ],
+                    "guid": "I|{3cQv2me",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::6"
                     ]
                 },
                 {
@@ -1233,23 +1233,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ai",
-                        "who",
-                        "",
-                        "",
-                        "[sound:rec1664101664.mp3]",
-                        "rec1664101664.mp3",
-                        ""
-                    ],
-                    "guid": "~t!$GR]IW",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "bà",
                         "grandma",
                         "",
@@ -1448,24 +1431,6 @@
                     "guid": "CmJgZ6l*rf",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "dạ",
-                        "yes&nbsp;",
-                        "",
-                        "to older people",
-                        "[sound:rec1664101729.mp3]",
-                        "rec1664101729.mp3",
-                        ""
-                    ],
-                    "guid": "ivIR(i<U5j",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::marked_for_additional_context",
                         "tiengviet::thang_7::6"
                     ]
                 },
@@ -1677,6 +1642,24 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "bạn",
+                        "friend",
+                        "n",
+                        "",
+                        "[sound:rec1664101802.mp3]",
+                        "rec1664101802.mp3",
+                        ""
+                    ],
+                    "guid": "Fn^^,~+A[A",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::marked_for_phrase",
+                        "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "tôi",
                         "I",
                         "",
@@ -1689,23 +1672,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đồ ăn",
-                        "food",
-                        "n",
-                        "",
-                        "[sound:rec1664101826.mp3]",
-                        "rec1664101826.mp3",
-                        ""
-                    ],
-                    "guid": "n^PJ%ipV*S",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::thang_7::12"
                     ]
                 },
                 {
@@ -1950,6 +1916,24 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "thương",
+                        "poor you!",
+                        "",
+                        "",
+                        "[sound:rec1664101957.mp3]",
+                        "rec1664101957.mp3",
+                        ""
+                    ],
+                    "guid": "tddumN(HqO",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::marked_for_phrase",
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "chán",
                         "bored",
                         "",
@@ -1959,6 +1943,23 @@
                         ""
                     ],
                     "guid": "qjKp!mTNu)",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ai",
+                        "who",
+                        "",
+                        "",
+                        "[sound:rec1664101664.mp3]",
+                        "rec1664101664.mp3",
+                        ""
+                    ],
+                    "guid": "~t!$GR]IW",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::thang_7::8"
@@ -4505,42 +4506,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "lười",
-                        "to be lazy",
-                        "",
-                        "",
-                        "[sound:rec1664342939.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "HDhTY`+rHJ",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::people::tính_cach",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chăm",
-                        "hard-working",
-                        "",
-                        "",
-                        "[sound:rec1664342948.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "pHA9`tTt/b",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::people::tính_cach",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "bia rượu ",
                         "alcohol",
                         "",
@@ -5148,24 +5113,6 @@
                     "guid": "G|2#<wd}0c",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "béo",
-                        "fat",
-                        "",
-                        "deck:tiengviet",
-                        "[sound:rec1664343098.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "qs7$`a61jn",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::people::vẻ_ngoài",
                         "tiengviet::thang_8::15"
                     ]
                 },
@@ -7076,24 +7023,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "thấp",
-                        "short",
-                        "",
-                        "in height",
-                        "[sound:rec1664439707.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "o:zKZ`!nfy",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::people::vẻ_ngoài",
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "lùn ",
                         "short",
                         "",
@@ -7485,37 +7414,108 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bạn",
-                        "friend",
-                        "n",
+                        "dạ",
+                        "yes&nbsp;",
                         "",
-                        "[sound:rec1664101802.mp3]",
-                        "rec1664101802.mp3",
+                        "to older people",
+                        "[sound:rec1664101729.mp3]",
+                        "rec1664101729.mp3",
                         ""
                     ],
-                    "guid": "Fn^^,~+A[A",
+                    "guid": "ivIR(i<U5j",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
-                        "tiengviet::marked_for_phrase",
-                        "tiengviet::thang_7::7"
+                        "tiengviet::marked_for_additional_context",
+                        "tiengviet::thang_7::6"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "thương",
-                        "poor you!",
+                        "đồ ăn",
+                        "food",
+                        "n",
                         "",
-                        "",
-                        "[sound:rec1664101957.mp3]",
-                        "rec1664101957.mp3",
+                        "[sound:rec1664101826.mp3]",
+                        "rec1664101826.mp3",
                         ""
                     ],
-                    "guid": "tddumN(HqO",
+                    "guid": "n^PJ%ipV*S",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
-                        "tiengviet::marked_for_phrase",
-                        "tiengviet::thang_7::8"
+                        "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "lười",
+                        "to be lazy",
+                        "",
+                        "",
+                        "[sound:rec1664342939.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "HDhTY`+rHJ",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::people::tính_cach",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chăm",
+                        "hard-working",
+                        "",
+                        "",
+                        "[sound:rec1664342948.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "pHA9`tTt/b",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::people::tính_cach",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "béo",
+                        "fat",
+                        "",
+                        "deck:tiengviet",
+                        "[sound:rec1664343098.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "qs7$`a61jn",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::people::vẻ_ngoài",
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thấp",
+                        "short",
+                        "",
+                        "in height",
+                        "[sound:rec1664439707.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "o:zKZ`!nfy",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::people::vẻ_ngoài",
+                        "tiengviet::thang_8::15"
                     ]
                 }
             ]
