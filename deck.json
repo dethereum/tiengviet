@@ -7667,7 +7667,7 @@
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
-            "autoplay": false,
+            "autoplay": true,
             "buryInterdayLearning": false,
             "conf": 1,
             "crowdanki_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
@@ -7683,7 +7683,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "VNvocab",
+            "name": "VNVocab",
             "new": {
                 "bury": false,
                 "delays": [
@@ -7697,7 +7697,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 97
+                "perDay": 130
             },
             "newGatherPriority": 4,
             "newMix": 1,
