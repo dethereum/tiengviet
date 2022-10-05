@@ -3871,6 +3871,7 @@
                     "guid": "oRzI.Ul7wx",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
+                        "tiengviet::marked_for_phrase",
                         "tiengviet::thang_7::26"
                     ]
                 },
@@ -4262,6 +4263,7 @@
                     "guid": "f]aBp*ZrFB",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
+                        "tiengviet::marked_for_phrase",
                         "tiengviet::thang_7::30"
                     ]
                 },
@@ -7681,7 +7683,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "VNvocab",
             "new": {
                 "bury": false,
                 "delays": [
@@ -7695,7 +7697,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 490
+                "perDay": 97
             },
             "newGatherPriority": 4,
             "newMix": 1,
