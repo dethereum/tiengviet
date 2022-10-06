@@ -1372,7 +1372,7 @@
                         "cháu",
                         "niece/nephew/grandchild",
                         "",
-                        "northern",
+                        "northern dialect",
                         "[sound:rec1664101713.mp3]",
                         "rec1664101713.mp3",
                         ""
@@ -3514,6 +3514,7 @@
                     "guid": "DZ{p)D<#At",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
+                        "tiengviet::marked_for_additional_context",
                         "tiengviet::thang_7::22"
                     ]
                 },
@@ -3531,6 +3532,7 @@
                     "guid": "kM8gN6p127",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
+                        "tiengviet::marked_for_additional_context",
                         "tiengviet::thang_7::22"
                     ]
                 },
@@ -3981,7 +3983,7 @@
                     "__type__": "Note",
                     "fields": [
                         "ăn sáng",
-                        "breakfast",
+                        "have breakfast",
                         "",
                         "",
                         "[sound:rec1664342832.mp3]",
@@ -6909,7 +6911,7 @@
                         "ốm yếu",
                         "frail",
                         "",
-                        "Southern",
+                        "southern dialect",
                         "[sound:rec1664439678.mp3]",
                         "",
                         ""
@@ -6926,7 +6928,7 @@
                         "gầy yếu",
                         "frail",
                         "",
-                        "Northern",
+                        "northern dialect",
                         "[sound:rec1664439682.mp3]",
                         "",
                         ""
@@ -6943,7 +6945,7 @@
                         "mập",
                         "fat",
                         "",
-                        "Southern",
+                        "southern dialect",
                         "[sound:rec1664439686.mp3]",
                         "",
                         ""
@@ -6960,7 +6962,7 @@
                         "mập ú",
                         "fat",
                         "",
-                        "very informal southern",
+                        "very informal; southern dialect",
                         "[sound:rec1664439693.mp3]",
                         "",
                         ""
@@ -6977,7 +6979,7 @@
                         "béo ú",
                         "fat",
                         "",
-                        "very informal northern",
+                        "very informal; northern dialect",
                         "[sound:rec1664439696.mp3]",
                         "",
                         ""
@@ -7506,7 +7508,7 @@
                         "béo",
                         "fat",
                         "",
-                        "<div> <div> <div> <div> <div>Northern&nbsp;</div> </div> </div> </div></div>",
+                        "<div> <div> <div> <div> <div>northern dialect</div> </div> </div> </div></div>",
                         "[sound:rec1664439689.mp3]",
                         "",
                         ""
