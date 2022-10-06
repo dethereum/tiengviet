@@ -869,7 +869,6 @@
                 "rec1664101798.mp3",
                 "rec1664101802.mp3",
                 "rec1664101806.mp3",
-                "rec1664101826.mp3",
                 "rec1664101855.mp3",
                 "rec1664101859.mp3",
                 "rec1664101894.mp3",
@@ -1034,6 +1033,8 @@
                 "rec1664342923.mp3",
                 "rec1664342929.mp3",
                 "rec1664342934.mp3",
+                "rec1664342939.mp3",
+                "rec1664342948.mp3",
                 "rec1664342951.mp3",
                 "rec1664342955.mp3",
                 "rec1664342958.mp3",
@@ -1076,8 +1077,6 @@
                 "rec1664343110.mp3",
                 "rec1664343113.mp3",
                 "rec1664343116.mp3",
-                "rec1664343121.mp3",
-                "rec1664439125.mp3",
                 "rec1664439130.mp3",
                 "rec1664439144.mp3",
                 "rec1664439159.mp3",
@@ -1119,7 +1118,6 @@
                 "rec1664439362.mp3",
                 "rec1664439366.mp3",
                 "rec1664439396.mp3",
-                "rec1664439419.mp3",
                 "rec1664439424.mp3",
                 "rec1664439428.mp3",
                 "rec1664439431.mp3",
@@ -1209,7 +1207,9 @@
                 "rec1664439807.mp3",
                 "rec1664439811.mp3",
                 "rec1664439825.mp3",
-                "rec1664619683.mp3"
+                "rec1664619683.mp3",
+                "rec1665052614.mp3",
+                "rec1665052732.mp3"
             ],
             "name": "vocab",
             "notes": [
@@ -1363,6 +1363,7 @@
                     "guid": ",LUuZyo_;",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
+                        "tiengviet::marked_for_phrase",
                         "tiengviet::thang_7::5"
                     ]
                 },
@@ -1850,7 +1851,7 @@
                         "cũ",
                         "old",
                         "",
-                        "",
+                        "&gt;&lt; new",
                         "[sound:rec1664101932.mp3]",
                         "rec1664101932.mp3",
                         ""
@@ -1988,7 +1989,7 @@
                         "ở đâu",
                         "where",
                         "",
-                        "",
+                        "used with non-moving verbs",
                         "[sound:rec1664101980.mp3]",
                         "rec1664101980.mp3",
                         ""
@@ -2005,7 +2006,7 @@
                         "đâu",
                         "where",
                         "",
-                        "shorter ver",
+                        "used with moving verbs; to wonder why something/someone is not here",
                         "[sound:rec1664101984.mp3]",
                         "rec1664101984.mp3",
                         ""
@@ -2040,7 +2041,7 @@
                         "ừ",
                         "yes",
                         "",
-                        "to younger people",
+                        "to younger people&nbsp;",
                         "[sound:rec1664101995.mp3]",
                         "rec1664101995.mp3",
                         ""
@@ -3506,7 +3507,7 @@
                         "đó",
                         "that",
                         "",
-                        "",
+                        "formal",
                         "[sound:rec1664342727.mp3]",
                         "",
                         ""
@@ -3524,7 +3525,7 @@
                         "đấy",
                         "that",
                         "",
-                        "end in y",
+                        "informal",
                         "[sound:rec1664342730.mp3]",
                         "",
                         ""
@@ -4343,7 +4344,7 @@
                         "nấu ăn ",
                         "to cook",
                         "",
-                        "",
+                        "in general",
                         "[sound:rec1664342901.mp3]",
                         "",
                         ""
@@ -4973,7 +4974,7 @@
                         "nấu",
                         "to cook",
                         "",
-                        "",
+                        "a dish",
                         "[sound:rec1664343060.mp3]",
                         "",
                         ""
@@ -5075,7 +5076,7 @@
                         "ngắn",
                         "short",
                         "",
-                        "",
+                        "for objects/time",
                         "[sound:rec1664343084.mp3]",
                         "",
                         ""
@@ -5225,11 +5226,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "háo hức",
+                        "hào hứng",
                         "enthusiastic",
                         "",
-                        "",
-                        "[sound:rec1664343121.mp3]",
+                        "in general",
+                        "[sound:rec1665052614.mp3]",
                         "",
                         ""
                     ],
@@ -5242,11 +5243,11 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "hào hứng",
+                        "háo hức",
                         "excited",
                         "",
-                        "",
-                        "[sound:rec1664439125.mp3]",
+                        "about something that's coming up",
+                        "[sound:rec1665052732.mp3]",
                         "",
                         ""
                     ],
@@ -5260,7 +5261,7 @@
                     "__type__": "Note",
                     "fields": [
                         "phấn khởi",
-                        "excited",
+                        "excited/happy",
                         "",
                         "<div> <div> <div> <div> <div>because of something positive&nbsp;</div> </div> </div> </div></div>",
                         "[sound:rec1664439130.mp3]",
@@ -5634,9 +5635,9 @@
                     "__type__": "Note",
                     "fields": [
                         "có nhiều hoài bão",
-                        "ambitious",
+                        "have big dreams (ambitious)",
                         "",
-                        " <div> <div> <div> <div><br></div> </div> </div> </div>",
+                        " <div> <div> <div> <div>formal/written language</div> </div> </div> </div>",
                         "[sound:rec1664439244.mp3]",
                         "",
                         ""
@@ -7030,7 +7031,7 @@
                         "lùn ",
                         "short",
                         "",
-                        "in height; informal; disapproval",
+                        "in height (for people); informal; disapproval",
                         "[sound:rec1664439710.mp3]",
                         "",
                         ""
@@ -7200,7 +7201,7 @@
                         "già",
                         "old",
                         "",
-                        "age",
+                        "&gt;&lt; young",
                         "[sound:rec1664439769.mp3]",
                         "",
                         ""
@@ -7421,7 +7422,7 @@
                         "dạ",
                         "yes&nbsp;",
                         "",
-                        "to older people",
+                        "to older people (southern)",
                         "[sound:rec1664101729.mp3]",
                         "rec1664101729.mp3",
                         ""
@@ -7429,43 +7430,26 @@
                     "guid": "ivIR(i<U5j",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
-                        "tiengviet::marked_for_additional_context",
+                        "tiengviet::marked_for_phrase",
                         "tiengviet::thang_7::6"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "đồ ăn",
-                        "food",
-                        "n",
+                        "lười",
+                        "to be lazy",
                         "",
-                        "[sound:rec1664101826.mp3]",
-                        "rec1664101826.mp3",
-                        ""
-                    ],
-                    "guid": "n^PJ%ipV*S",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "thấp",
-                        "short",
                         "",
-                        "in height",
-                        "[sound:rec1664439707.mp3]",
+                        "[sound:rec1664342939.mp3]",
                         "",
                         ""
                     ],
-                    "guid": "o:zKZ`!nfy",
+                    "guid": "HDhTY`+rHJ",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
-                        "tiengviet::people::vẻ_ngoài",
-                        "tiengviet::thang_8::15"
+                        "tiengviet::people::tính_cach",
+                        "tiengviet::thang_7::30"
                     ]
                 },
                 {
@@ -7475,14 +7459,33 @@
                         "hard-working",
                         "",
                         "",
-                        "[sound:rec1664439419.mp3]",
+                        "[sound:rec1664342948.mp3]",
                         "",
                         ""
                     ],
-                    "guid": "zP)3e+15O>",
+                    "guid": "pHA9`tTt/b",
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
-                        "tiengviet::people::tính_cach"
+                        "tiengviet::people::tính_cach",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thấp",
+                        "short",
+                        "",
+                        "in height (for objects/people)",
+                        "[sound:rec1664439707.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "o:zKZ`!nfy",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::people::vẻ_ngoài",
+                        "tiengviet::thang_8::15"
                     ]
                 },
                 {
@@ -7530,9 +7533,48 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "rec1664101987.mp3",
+                "rec1664102099.mp3"
+            ],
             "name": "void",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "dạ",
+                        "yes? (Sorry, what did you say?)",
+                        "",
+                        "to elders (northern)",
+                        "[sound:rec1664101987.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "s%^#w@I~xc",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::marked_for_phrase",
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đồ ăn",
+                        "food",
+                        "n",
+                        "",
+                        "[sound:rec1664102099.mp3]",
+                        "rec1664102099.mp3",
+                        ""
+                    ],
+                    "guid": "o#+GN^6-{E",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::thang_7::12"
+                    ]
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "a84e6ee8-3100-11ed-8b9a-599bb18c5ef7",
