@@ -1119,6 +1119,7 @@
                 "rec1664439366.mp3",
                 "rec1664439396.mp3",
                 "rec1664439424.mp3",
+                "rec1664439428.mp3",
                 "rec1664439431.mp3",
                 "rec1664439434.mp3",
                 "rec1664439438.mp3",
@@ -7436,41 +7437,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "thấp",
-                        "short",
-                        "",
-                        "in height (for objects/people)",
-                        "[sound:rec1664439707.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "o:zKZ`!nfy",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::people::vẻ_ngoài",
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "béo",
-                        "fat",
-                        "",
-                        "<div> <div> <div> <div> <div>northern dialect</div> </div> </div> </div></div>",
-                        "[sound:rec1664439689.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "h|Kkk3b5]X",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "lười",
                         "to be lazy",
                         "",
@@ -7502,6 +7468,58 @@
                     "tags": [
                         "tiengviet::people::tính_cach",
                         "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thấp",
+                        "short",
+                        "",
+                        "in height (for objects/people)",
+                        "[sound:rec1664439707.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "o:zKZ`!nfy",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::people::vẻ_ngoài",
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "lười",
+                        "lazy",
+                        "",
+                        "",
+                        "[sound:rec1664439428.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "PTsxfPtaSW",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::people::tính_cach"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "béo",
+                        "fat",
+                        "",
+                        "<div> <div> <div> <div> <div>northern dialect</div> </div> </div> </div></div>",
+                        "[sound:rec1664439689.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "h|Kkk3b5]X",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::people::vẻ_ngoài"
                     ]
                 }
             ]
