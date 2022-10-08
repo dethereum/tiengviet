@@ -1,4 +1,37 @@
 import json
+from pyvi import ViTokenizer, ViPosTagger
+
+tag_prefix = "tiengviet::meta::"
+
+pos_tags = {
+    'A': 'Adjective',
+    'C': 'Coordinating_conjunction',
+    'E': 'Preposition',
+    'I': 'Interjection',
+    'L': 'Determiner',
+    'M': 'Numeral',
+    'N': 'Common_noun',
+    'Nc': 'Noun_Classifier',
+    'Ny': 'Noun_abbreviation',
+    'Np': 'Proper_noun',
+    'Nu': 'Unit_noun',
+    'P': 'Pronoun',
+    'R': 'Adverb',
+    'S': 'Subordinating_conjunction',
+    'T': 'Auxiliary',
+    'V': 'Verb',
+    'X': 'Unknown',
+    'F': 'Filtered_out_(punctuation)',
+}
+
+def unique(list1):
+    unique_list = []
+
+    for x in list1:
+        if x not in unique_list:
+            unique_list.append(x)
+
+    return unique_list
 
 def get_notes_data():
     json_file = open('../deck.json')
@@ -9,7 +42,20 @@ def get_notes_data():
 
     for note in notes:
         audio_field = note['fields'][4]
+        x = ViTokenizer.tokenize(note['fields'][0])
+        tokens, pos = ViPosTagger.postagging(ViTokenizer.tokenize(note['fields'][0]))
+
         note['fields'][5] = audio_field.split(':')[1].replace("]", "")
+
+        if len(tokens) > 1:
+            note["tags"].append(tag_prefix + "pos::na")
+            note['fields'][2] = 'N/A'
+        else:
+            note["tags"].append(tag_prefix + "pos::" + pos_tags[pos[0]])
+            note['fields'][2] = pos_tags[pos[0]]
+
+        note["tags"].append(tag_prefix + "processed")
+        note["tags"] = sorted(unique(note["tags"]), key=str.lower)
 
 
     json_out = open('../deck.json', 'w')
