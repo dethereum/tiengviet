@@ -17,34 +17,41 @@ const blacklist = [
 
 const getCleanExample = (example) => {
     if (example.includes(" ~ ")) {
-        return example.split(" ~ ")[0]
+        const split = example.split(" ~ ")
+
+        return split[0]
     }
 
     return example
 }
 
 const createPhraseNotesFromAmbiVocab = (note, senses) => {
-    senses.forEach(({example, definition}) => {
-        const phrase_note = {
-            "__type__": "Note",
-            "fields": [
-                getCleanExample(example),
-                note.fields[0],
-                definition,
-                note.fields[4],
-                ""
-            ],
-            "guid": nanoid(10),
-            "note_model_uuid": PHRASE_MODEL_UUID,
-            "tags": [
-                "tiengviet::meta::processed_by_vntk",
-                "tiengviet::meta::auto_gen",
-                "tiengviet::meta::needs_expert_review",
-                `tiengviet::meta::by_word::${note.fields[0]}`
-            ]
+    senses.forEach(({ example, definition }) => {
+        if (example) {
+            const sentence = getCleanExample(example);
+
+            const phrase_note = {
+                "__type__": "Note",
+                "fields": [
+                    sentence,
+                    note.fields[0],
+                    definition,
+                    note.fields[4],
+                    ""
+                ],
+                "guid": nanoid(10),
+                "note_model_uuid": PHRASE_MODEL_UUID,
+                "tags": [
+                    "tiengviet::meta::processed_by_vntk",
+                    "tiengviet::meta::auto_gen",
+                    "tiengviet::meta::needs_expert_review",
+                    `tiengviet::meta::by_word::${note.fields[0].replace(" ", "_")}`
+                ]
+            }
+
+            deck['children'][3]['notes'].push(phrase_note)
         }
 
-        deck['children'][3]['notes'].push(phrase_note)
     })
 }
 
@@ -70,7 +77,7 @@ for (let index = 0; index < vocab.length; index++) {
 
             if (senses.length > 1) {
                 note.tags.push('tiengviet::meta::meaning::ambigious')
-                note.tags.push(`tiengviet::meta::by_word::${note.fields[0]}`)
+                note.tags.push(`tiengviet::meta::by_word::${note.fields[0].replace(" ", "_")}`)
                 createPhraseNotesFromAmbiVocab(note, senses)
             }
 
