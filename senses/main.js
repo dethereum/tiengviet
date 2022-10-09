@@ -1,9 +1,11 @@
 const fs = require('fs')
 
 const vntk = require('vntk');
+const { nanoid } = require('nanoid');
 
 const deck = require("../deck.json");
 
+const PHRASE_MODEL_UUID = "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6"
 
 const dictionary = vntk.dictionary();
 const vocab = deck['children'][2]['notes']
@@ -13,30 +15,38 @@ const blacklist = [
     'chảnh'
 ]
 
-const countPosFrequency = (my_list) => {
-    // Creating an empty dictionary
-    const pos_freq = my_list.reduce((acc, { pos }) => {
-        if (acc[pos]) {
-            return { ...acc, [pos]: acc[pos] + 1 }
-        } else {
-            return { ...acc, [pos]: 1 }
-        }
-    }, {})
+const getCleanExample = (example) => {
+    if (example.includes(" ~ ")) {
+        return example.split(" ~ ")[0]
+    }
 
-    console.log(pos_freq)
-
-    const pos_keys = Object.keys(pos_freq);
-    const hasUniqueMeanings = pos_keys.reduce((acc, cur) => {
-        if (!acc) return false;
-
-        return pos_freq[cur] > 1 ? false : true
-    }, true)
-
-    return hasUniqueMeanings
+    return example
 }
 
+const createPhraseNotesFromAmbiVocab = (note, senses) => {
+    senses.forEach(({example, definition}) => {
+        const phrase_note = {
+            "__type__": "Note",
+            "fields": [
+                getCleanExample(example),
+                note.fields[0],
+                definition,
+                note.fields[4],
+                ""
+            ],
+            "guid": nanoid(10),
+            "note_model_uuid": PHRASE_MODEL_UUID,
+            "tags": [
+                "tiengviet::meta::processed_by_vntk",
+                "tiengviet::meta::auto_gen",
+                "tiengviet::meta::needs_expert_review",
+                `tiengviet::meta::by_word::${note.fields[0]}`
+            ]
+        }
 
-
+        deck['children'][3]['notes'].push(phrase_note)
+    })
+}
 
 for (let index = 0; index < vocab.length; index++) {
     let note = vocab[index];
@@ -59,8 +69,9 @@ for (let index = 0; index < vocab.length; index++) {
             }
 
             if (senses.length > 1) {
-                const hasUniqueMeanings = countPosFrequency(senses)
-                note.tags.push(`tiengviet::meta::meaning::${hasUniqueMeanings ? 'uniq_and_ambigious' : 'ambigious'}`)
+                note.tags.push('tiengviet::meta::meaning::ambigious')
+                note.tags.push(`tiengviet::meta::by_word::${note.fields[0]}`)
+                createPhraseNotesFromAmbiVocab(note, senses)
             }
 
             if (senses.length < 1) {
