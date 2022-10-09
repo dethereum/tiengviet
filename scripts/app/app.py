@@ -40,7 +40,7 @@ def get_notes_data():
     anki = json.load(json_file)
 
     # hard code vocab deck path
-    notes = anki['children'][1]["notes"]
+    notes = anki['children'][2]["notes"]
 
     for note in notes:
         audio_field = note['fields'][4]
