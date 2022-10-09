@@ -53,8 +53,10 @@ def get_notes_data():
             note["tags"].append(tag_prefix + "pos::na")
             note['fields'][2] = 'N/A'
         else:
-            note["tags"].append(tag_prefix + "pos::" + pos_tags[pos[0]])
-            note['fields'][2] = pos_tags[pos[0]]
+            pos = pos_tags[pos[0]].lower()
+
+            note["tags"].append(tag_prefix + "pos::" + pos)
+            note['fields'][2] = pos
 
         sortable_field = note['fields'][0]
         
