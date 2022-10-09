@@ -1,4 +1,6 @@
 import json
+
+from bs4 import BeautifulSoup
 from pyvi import ViTokenizer, ViPosTagger
 
 tag_prefix = "tiengviet::meta::"
@@ -53,6 +55,15 @@ def get_notes_data():
         else:
             note["tags"].append(tag_prefix + "pos::" + pos_tags[pos[0]])
             note['fields'][2] = pos_tags[pos[0]]
+
+        sortable_field = note['fields'][0]
+        
+        for fno, field in enumerate(note['fields']):
+            bs_field = BeautifulSoup(field, "html.parser")
+            
+            if bool(bs_field.find()):
+                note['fields'][fno] = bs_field.get_text().strip()
+
 
         note["tags"].append(tag_prefix + "processed")
         note["tags"] = sorted(unique(note["tags"]), key=str.lower)
