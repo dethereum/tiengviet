@@ -4,6 +4,1601 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "77a886cc-47dd-11ed-b64b-69510773ce5e",
+            "deck_config_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "rec1664101788.mp3",
+                "rec1664101798.mp3",
+                "rec1664101980.mp3",
+                "rec1664102036.mp3",
+                "rec1664102092.mp3",
+                "rec1664102105.mp3",
+                "rec1664342620.mp3",
+                "rec1664342624.mp3",
+                "rec1664342644.mp3",
+                "rec1664342648.mp3",
+                "rec1664342654.mp3",
+                "rec1664342684.mp3",
+                "rec1664342723.mp3",
+                "rec1664342759.mp3",
+                "rec1664342817.mp3",
+                "rec1664342825.mp3",
+                "rec1664342832.mp3",
+                "rec1664342836.mp3",
+                "rec1664342839.mp3",
+                "rec1664342842.mp3",
+                "rec1664342845.mp3",
+                "rec1664342848.mp3",
+                "rec1664342852.mp3",
+                "rec1664342855.mp3",
+                "rec1664342875.mp3",
+                "rec1664342888.mp3",
+                "rec1664342904.mp3",
+                "rec1664342907.mp3",
+                "rec1664342913.mp3",
+                "rec1664342916.mp3",
+                "rec1664342920.mp3",
+                "rec1664342923.mp3",
+                "rec1664342934.mp3",
+                "rec1664342951.mp3",
+                "rec1664343012.mp3",
+                "rec1664343026.mp3",
+                "rec1664343033.mp3",
+                "rec1664343036.mp3",
+                "rec1664343046.mp3",
+                "rec1664343050.mp3",
+                "rec1664343053.mp3",
+                "rec1664343056.mp3",
+                "rec1664343107.mp3",
+                "rec1664439218.mp3",
+                "rec1664439244.mp3",
+                "rec1664439326.mp3",
+                "rec1664439335.mp3",
+                "rec1664439424.mp3",
+                "rec1664439530.mp3",
+                "rec1664439587.mp3",
+                "rec1664439591.mp3",
+                "rec1664439595.mp3",
+                "rec1664439599.mp3",
+                "rec1664439603.mp3",
+                "rec1664439618.mp3",
+                "rec1664439622.mp3",
+                "rec1664439625.mp3",
+                "rec1664439630.mp3",
+                "rec1664439633.mp3",
+                "rec1664439637.mp3",
+                "rec1664439641.mp3",
+                "rec1664439654.mp3",
+                "rec1664439658.mp3",
+                "rec1664439661.mp3",
+                "rec1664439664.mp3",
+                "rec1664439672.mp3",
+                "rec1664439696.mp3",
+                "rec1664439738.mp3",
+                "rec1664439741.mp3",
+                "rec1664439749.mp3",
+                "rec1664439783.mp3",
+                "rec1664439788.mp3",
+                "rec1664439793.mp3",
+                "rec1664439796.mp3",
+                "rec1664439800.mp3",
+                "rec1664439803.mp3",
+                "rec1664439807.mp3",
+                "rec1664439811.mp3",
+                "rec1664439825.mp3"
+            ],
+            "name": "complex_vocab",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "còn anh?",
+                        "and you?",
+                        "N/A",
+                        "",
+                        "[sound:rec1664101788.mp3]",
+                        "rec1664101788.mp3",
+                        ""
+                    ],
+                    "guid": "kz/FH>q:>/",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bạn anh",
+                        "my friend",
+                        "N/A",
+                        "",
+                        "[sound:rec1664101798.mp3]",
+                        "rec1664101798.mp3",
+                        ""
+                    ],
+                    "guid": "l1/ga+d?|`",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ở đâu",
+                        "where",
+                        "N/A",
+                        "used with non-moving verbs",
+                        "[sound:rec1664101980.mp3]",
+                        "rec1664101980.mp3",
+                        ""
+                    ],
+                    "guid": "q_x2]j5#6}",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nam mỹ",
+                        "south america",
+                        "N/A",
+                        "",
+                        "[sound:rec1664102036.mp3]",
+                        "rec1664102036.mp3",
+                        ""
+                    ],
+                    "guid": "gnj;opIkj6",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "mọi người ",
+                        "everyone",
+                        "N/A",
+                        "",
+                        "[sound:rec1664102092.mp3]",
+                        "rec1664102092.mp3",
+                        ""
+                    ],
+                    "guid": "EiR[H;@:BH",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đồ uống",
+                        "drinks",
+                        "N/A",
+                        "",
+                        "[sound:rec1664102105.mp3]",
+                        "rec1664102105.mp3",
+                        ""
+                    ],
+                    "guid": "ib4p.iU>cA",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tốt lắm",
+                        "Well done",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342620.mp3]",
+                        "rec1664342620.mp3",
+                        ""
+                    ],
+                    "guid": "Lbp5(h+2kl",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::20"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đúng rồi",
+                        "that's correct",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342624.mp3]",
+                        "rec1664342624.mp3",
+                        ""
+                    ],
+                    "guid": "OY^f=[S+8#",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::20"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ở đây",
+                        "here",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342644.mp3]",
+                        "rec1664342644.mp3",
+                        ""
+                    ],
+                    "guid": "cVpi!eLx^{",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::20"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ở đấy",
+                        "there",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342648.mp3]",
+                        "rec1664342648.mp3",
+                        ""
+                    ],
+                    "guid": "b+d4,DAcK{",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::20"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cùng một lúc",
+                        "at the same time",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342654.mp3]",
+                        "rec1664342654.mp3",
+                        ""
+                    ],
+                    "guid": "NmG-W#%B?n",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "dạo này",
+                        "these days",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342684.mp3]",
+                        "rec1664342684.mp3",
+                        ""
+                    ],
+                    "guid": "ALdHq@sh3X",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ngủ ngon",
+                        "good night",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342723.mp3]",
+                        "rec1664342723.mp3",
+                        ""
+                    ],
+                    "guid": "c;7w]H<B?$",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bạn thân",
+                        "close friends",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342759.mp3]",
+                        "rec1664342759.mp3",
+                        ""
+                    ],
+                    "guid": "A:72]p[qZ!",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::23"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cả ngày",
+                        "all day long",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342817.mp3]",
+                        "rec1664342817.mp3",
+                        ""
+                    ],
+                    "guid": "H-X<QK_HO8",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::26"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "mấy giờ",
+                        "What time?",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342825.mp3]",
+                        "rec1664342825.mp3",
+                        ""
+                    ],
+                    "guid": "N<g[E4>[[>",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::26"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ăn sáng",
+                        "have breakfast",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342832.mp3]",
+                        "rec1664342832.mp3",
+                        ""
+                    ],
+                    "guid": "kF>WTbuE!F",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ăn trưa ",
+                        "to have lunch",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342836.mp3]",
+                        "rec1664342836.mp3",
+                        ""
+                    ],
+                    "guid": "oS#V_O58P;",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ăn tối ",
+                        "to have dinner",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342839.mp3]",
+                        "rec1664342839.mp3",
+                        ""
+                    ],
+                    "guid": "j)^{sdsO`1",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "dậy sớm",
+                        "to get up early",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342842.mp3]",
+                        "rec1664342842.mp3",
+                        ""
+                    ],
+                    "guid": "Pwj(,Szx%U",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "buổi sáng",
+                        " in the morning",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342845.mp3]",
+                        "rec1664342845.mp3",
+                        ""
+                    ],
+                    "guid": "H8oKjw?E4S",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "buổi trưa",
+                        "noon",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342848.mp3]",
+                        "rec1664342848.mp3",
+                        ""
+                    ],
+                    "guid": "B6xjl/}I~s",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "buổi chiều",
+                        "afternoon",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342852.mp3]",
+                        "rec1664342852.mp3",
+                        ""
+                    ],
+                    "guid": "KnL9)f~16R",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "buổi tối",
+                        "evening",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342855.mp3]",
+                        "rec1664342855.mp3",
+                        ""
+                    ],
+                    "guid": "iqHBk2pi2,",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ngủ trưa ",
+                        "lunch nap",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342875.mp3]",
+                        "rec1664342875.mp3",
+                        ""
+                    ],
+                    "guid": "opzfG4-@su",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tắc đường ",
+                        "traffic jam",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342888.mp3]",
+                        "rec1664342888.mp3",
+                        ""
+                    ],
+                    "guid": "pm<oI73!83",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sau đấy",
+                        "after that",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342904.mp3]",
+                        "rec1664342904.mp3",
+                        ""
+                    ],
+                    "guid": "Mjx7nG.xyD",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "một lúc ",
+                        "a while",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342907.mp3]",
+                        "rec1664342907.mp3",
+                        ""
+                    ],
+                    "guid": "GZDRr?{/b]",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sáng nay",
+                        "this morning",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342913.mp3]",
+                        "rec1664342913.mp3",
+                        ""
+                    ],
+                    "guid": "PjV]4,@dH(",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "trưa nay",
+                        "this noon",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342916.mp3]",
+                        "rec1664342916.mp3",
+                        ""
+                    ],
+                    "guid": "FxnbgBlTK+",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chiều nay",
+                        "this afternoon",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342920.mp3]",
+                        "rec1664342920.mp3",
+                        ""
+                    ],
+                    "guid": "lwaHNhz,hF",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tối nay",
+                        "this evening",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342923.mp3]",
+                        "rec1664342923.mp3",
+                        ""
+                    ],
+                    "guid": "j3hIbKbI%Y",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đêm nay",
+                        "tonight",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342934.mp3]",
+                        "rec1664342934.mp3",
+                        ""
+                    ],
+                    "guid": "QQbP-hO9,%",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bia rượu ",
+                        "alcohol",
+                        "N/A",
+                        "",
+                        "[sound:rec1664342951.mp3]",
+                        "rec1664342951.mp3",
+                        ""
+                    ],
+                    "guid": "dZ+$g>ww,r",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đi du lịch",
+                        "to travel",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343012.mp3]",
+                        "rec1664343012.mp3",
+                        ""
+                    ],
+                    "guid": "jZ`N`t`9]_",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_8::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đi du học",
+                        "to go study abroad",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343026.mp3]",
+                        "rec1664343026.mp3",
+                        ""
+                    ],
+                    "guid": "nm#pX=?s9$",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_8::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "người khác",
+                        "other people",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343033.mp3]",
+                        "rec1664343033.mp3",
+                        ""
+                    ],
+                    "guid": "O>wfliSwVf",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_8::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "người nước ngoài",
+                        "foreigner",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343036.mp3]",
+                        "rec1664343036.mp3",
+                        ""
+                    ],
+                    "guid": "IQO6EM<EhL",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_8::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đi bộ",
+                        "to walk",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343046.mp3]",
+                        "rec1664343046.mp3",
+                        ""
+                    ],
+                    "guid": "sM:el2vX~K",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bữa ăn",
+                        "a meal",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343050.mp3]",
+                        "rec1664343050.mp3",
+                        ""
+                    ],
+                    "guid": "m9%XB6@,]4",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bữa sáng",
+                        "breakfast",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343053.mp3]",
+                        "rec1664343053.mp3",
+                        ""
+                    ],
+                    "guid": "w=HT1U)P:i",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đồ ăn sáng",
+                        "breakfast food",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343056.mp3]",
+                        "rec1664343056.mp3",
+                        ""
+                    ],
+                    "guid": "MegDIBf%Ey",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "quán ăn",
+                        "food stall / small food vendor",
+                        "N/A",
+                        "",
+                        "[sound:rec1664343107.mp3]",
+                        "rec1664343107.mp3",
+                        ""
+                    ],
+                    "guid": "IfyT]{w`jT",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::thang_9::4"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "dễ gần",
+                        "easy-going",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439218.mp3]",
+                        "rec1664439218.mp3",
+                        ""
+                    ],
+                    "guid": "lRhj3aV-f_",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::tính_cach"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "có nhiều hoài bão",
+                        "have big dreams (ambitious)",
+                        "N/A",
+                        "formal/written language",
+                        "[sound:rec1664439244.mp3]",
+                        "rec1664439244.mp3",
+                        ""
+                    ],
+                    "guid": "e<gHNi]F<=",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::tính_cach"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ít nói",
+                        "quiet",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439326.mp3]",
+                        "rec1664439326.mp3",
+                        ""
+                    ],
+                    "guid": "MAYHe+0}Xm",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::tính_cach"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nói chuyện nhỏ nhẹ",
+                        "soft-spoken",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439335.mp3]",
+                        "rec1664439335.mp3",
+                        ""
+                    ],
+                    "guid": "hFHctuG!#X",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::tính_cach"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chăm học",
+                        "studious",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439424.mp3]",
+                        "rec1664439424.mp3",
+                        ""
+                    ],
+                    "guid": "ba<o%yGSGE",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::tính_cach"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đáng tin cậy",
+                        "trustworthy",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439530.mp3]",
+                        "rec1664439530.mp3",
+                        ""
+                    ],
+                    "guid": "GQEmi57)PP",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::tính_cach"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thân hình cân đối",
+                        "fit body",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439587.mp3]",
+                        "rec1664439587.mp3",
+                        ""
+                    ],
+                    "guid": "E1!J(GpCwA",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thân hình lý tưởng",
+                        "ideal figure",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439591.mp3]",
+                        "rec1664439591.mp3",
+                        ""
+                    ],
+                    "guid": "jpPW5Q{A,n",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thân hình nóng bỏng",
+                        "sexy body",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439595.mp3]",
+                        "rec1664439595.mp3",
+                        ""
+                    ],
+                    "guid": "ndc1l@3xHA",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thân hình mảnh khảnh",
+                        "slim figure",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439599.mp3]",
+                        "rec1664439599.mp3",
+                        ""
+                    ],
+                    "guid": "K=`PB*ox)f",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thân hình vạm vỡ",
+                        "muscular figure",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439603.mp3]",
+                        "rec1664439603.mp3",
+                        ""
+                    ],
+                    "guid": "t*/h&HOr<S",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gương mặt tròn",
+                        "round face",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439618.mp3]",
+                        "rec1664439618.mp3",
+                        ""
+                    ],
+                    "guid": "pd=(aS##Cf",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gương mặt trái xoan",
+                        " oval face",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439622.mp3]",
+                        "rec1664439622.mp3",
+                        ""
+                    ],
+                    "guid": "Nq$TpF4gv.",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gương mặt sáng",
+                        "bright face",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439625.mp3]",
+                        "rec1664439625.mp3",
+                        ""
+                    ],
+                    "guid": "P!k|T*hc7O",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "gương mặt ưa nhìn",
+                        "pleasant looking face",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439630.mp3]",
+                        "rec1664439630.mp3",
+                        ""
+                    ],
+                    "guid": "gkaPYF2^lk",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ăn mặc đẹp",
+                        "to dress well",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439633.mp3]",
+                        "rec1664439633.mp3",
+                        ""
+                    ],
+                    "guid": "rrj}PqT^Gq",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ăn mặc lịch sự",
+                        "to dress appropriately",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439637.mp3]",
+                        "rec1664439637.mp3",
+                        ""
+                    ],
+                    "guid": "hc924)Z-M)",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ăn mặc sang trọng",
+                        "to dress classy",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439641.mp3]",
+                        "rec1664439641.mp3",
+                        ""
+                    ],
+                    "guid": "rx;m67W1Y[",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thừa cân",
+                        "overweight",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439654.mp3]",
+                        "rec1664439654.mp3",
+                        ""
+                    ],
+                    "guid": ".=xB);`S_",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nhẹ cân",
+                        "underweight",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439658.mp3]",
+                        "rec1664439658.mp3",
+                        ""
+                    ],
+                    "guid": "j>IuP_]AJY",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "giảm cân",
+                        "to lose weight",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439661.mp3]",
+                        "rec1664439661.mp3",
+                        ""
+                    ],
+                    "guid": "l0},G=`6fa",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tăng cân",
+                        "to gain weight",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439664.mp3]",
+                        "rec1664439664.mp3",
+                        ""
+                    ],
+                    "guid": "B6YQ(ZMOOh",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cân nặng",
+                        "weight",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439672.mp3]",
+                        "rec1664439672.mp3",
+                        ""
+                    ],
+                    "guid": "QtIZJI8ISL",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "béo ú",
+                        "fat",
+                        "N/A",
+                        "very informal; northern dialect",
+                        "[sound:rec1664439696.mp3]",
+                        "rec1664439696.mp3",
+                        ""
+                    ],
+                    "guid": "wCRZ]shuvl",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chiều cao",
+                        "height",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439738.mp3]",
+                        "rec1664439738.mp3",
+                        ""
+                    ],
+                    "guid": "G@EBQod)fb",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "cao to",
+                        "person who is big and tall",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439741.mp3]",
+                        "rec1664439741.mp3",
+                        ""
+                    ],
+                    "guid": "wI7C><u2S!",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "đẹp gái",
+                        "beautiful",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439749.mp3]",
+                        "rec1664439749.mp3",
+                        ""
+                    ],
+                    "guid": "EFyAS(wD/]",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        " đầu hói",
+                        "bald head",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439783.mp3]",
+                        "rec1664439783.mp3",
+                        ""
+                    ],
+                    "guid": "C>]ED3swV6",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tóc bạc",
+                        "gray hair",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439788.mp3]",
+                        "rec1664439788.mp3",
+                        ""
+                    ],
+                    "guid": "tn<<r$}wS4",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tóc xơ rối",
+                        "frizzy hair",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439793.mp3]",
+                        "rec1664439793.mp3",
+                        ""
+                    ],
+                    "guid": "XlzCp8~.A",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tóc nhuộm",
+                        "dyed hair",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439796.mp3]",
+                        "rec1664439796.mp3",
+                        ""
+                    ],
+                    "guid": "s:(X44Z(hU",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tóc duỗi",
+                        "straightened hair",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439800.mp3]",
+                        "rec1664439800.mp3",
+                        ""
+                    ],
+                    "guid": "r*z==?.ie`",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tóc xoăn",
+                        "curly hair",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439803.mp3]",
+                        "rec1664439803.mp3",
+                        ""
+                    ],
+                    "guid": "HL@.@>*q<",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tóc ngang vai",
+                        "shoulder-length hair",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439807.mp3]",
+                        "rec1664439807.mp3",
+                        ""
+                    ],
+                    "guid": "Q4R93s75V.",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tóc ngắn",
+                        "short hair",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439811.mp3]",
+                        "rec1664439811.mp3",
+                        ""
+                    ],
+                    "guid": "gE&1T/*b^*",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tóc dài",
+                        "long hair",
+                        "N/A",
+                        "",
+                        "[sound:rec1664439825.mp3]",
+                        "rec1664439825.mp3",
+                        ""
+                    ],
+                    "guid": "rEl7q!A+j;",
+                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
+                    "tags": [
+                        "tiengviet::meta::pos::na",
+                        "tiengviet::meta::processed",
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "9b9a483c-3c24-11ed-8813-79fe18cd4603",
             "deck_config_uuid": "4ea7d936-30f8-11ed-9bbf-2f560b994ad5",
             "desc": "",
@@ -864,9 +2459,7 @@
                 "rec1664101774.mp3",
                 "rec1664101779.mp3",
                 "rec1664101783.mp3",
-                "rec1664101788.mp3",
                 "rec1664101793.mp3",
-                "rec1664101798.mp3",
                 "rec1664101802.mp3",
                 "rec1664101806.mp3",
                 "rec1664101855.mp3",
@@ -886,7 +2479,6 @@
                 "rec1664101957.mp3",
                 "rec1664101961.mp3",
                 "rec1664101976.mp3",
-                "rec1664101980.mp3",
                 "rec1664101984.mp3",
                 "rec1664101991.mp3",
                 "rec1664101995.mp3",
@@ -894,16 +2486,13 @@
                 "rec1664102014.mp3",
                 "rec1664102018.mp3",
                 "rec1664102022.mp3",
-                "rec1664102036.mp3",
                 "rec1664102040.mp3",
                 "rec1664102043.mp3",
                 "rec1664102047.mp3",
                 "rec1664102050.mp3",
                 "rec1664102054.mp3",
                 "rec1664102088.mp3",
-                "rec1664102092.mp3",
                 "rec1664102095.mp3",
-                "rec1664102105.mp3",
                 "rec1664102119.mp3",
                 "rec1664102123.mp3",
                 "rec1664102126.mp3",
@@ -946,24 +2535,18 @@
                 "rec1664342610.mp3",
                 "rec1664342613.mp3",
                 "rec1664342617.mp3",
-                "rec1664342620.mp3",
-                "rec1664342624.mp3",
                 "rec1664342627.mp3",
                 "rec1664342631.mp3",
                 "rec1664342634.mp3",
                 "rec1664342637.mp3",
                 "rec1664342641.mp3",
-                "rec1664342644.mp3",
-                "rec1664342648.mp3",
                 "rec1664342651.mp3",
-                "rec1664342654.mp3",
                 "rec1664342658.mp3",
                 "rec1664342662.mp3",
                 "rec1664342665.mp3",
                 "rec1664342672.mp3",
                 "rec1664342677.mp3",
                 "rec1664342681.mp3",
-                "rec1664342684.mp3",
                 "rec1664342688.mp3",
                 "rec1664342692.mp3",
                 "rec1664342696.mp3",
@@ -973,7 +2556,6 @@
                 "rec1664342712.mp3",
                 "rec1664342716.mp3",
                 "rec1664342719.mp3",
-                "rec1664342723.mp3",
                 "rec1664342727.mp3",
                 "rec1664342730.mp3",
                 "rec1664342733.mp3",
@@ -984,7 +2566,6 @@
                 "rec1664342749.mp3",
                 "rec1664342752.mp3",
                 "rec1664342756.mp3",
-                "rec1664342759.mp3",
                 "rec1664342762.mp3",
                 "rec1664342766.mp3",
                 "rec1664342771.mp3",
@@ -998,44 +2579,24 @@
                 "rec1664342801.mp3",
                 "rec1664342808.mp3",
                 "rec1664342813.mp3",
-                "rec1664342817.mp3",
                 "rec1664342821.mp3",
-                "rec1664342825.mp3",
                 "rec1664342829.mp3",
-                "rec1664342832.mp3",
-                "rec1664342836.mp3",
-                "rec1664342839.mp3",
-                "rec1664342842.mp3",
-                "rec1664342845.mp3",
-                "rec1664342848.mp3",
-                "rec1664342852.mp3",
-                "rec1664342855.mp3",
                 "rec1664342858.mp3",
                 "rec1664342861.mp3",
                 "rec1664342865.mp3",
                 "rec1664342868.mp3",
                 "rec1664342872.mp3",
-                "rec1664342875.mp3",
                 "rec1664342878.mp3",
                 "rec1664342883.mp3",
                 "rec1664342885.mp3",
-                "rec1664342888.mp3",
                 "rec1664342891.mp3",
                 "rec1664342895.mp3",
                 "rec1664342898.mp3",
                 "rec1664342901.mp3",
-                "rec1664342904.mp3",
-                "rec1664342907.mp3",
                 "rec1664342910.mp3",
-                "rec1664342913.mp3",
-                "rec1664342916.mp3",
-                "rec1664342920.mp3",
-                "rec1664342923.mp3",
                 "rec1664342929.mp3",
-                "rec1664342934.mp3",
                 "rec1664342939.mp3",
                 "rec1664342948.mp3",
-                "rec1664342951.mp3",
                 "rec1664342955.mp3",
                 "rec1664342958.mp3",
                 "rec1664342962.mp3",
@@ -1051,17 +2612,9 @@
                 "rec1664343002.mp3",
                 "rec1664343005.mp3",
                 "rec1664343008.mp3",
-                "rec1664343012.mp3",
-                "rec1664343026.mp3",
                 "rec1664343029.mp3",
-                "rec1664343033.mp3",
-                "rec1664343036.mp3",
                 "rec1664343040.mp3",
                 "rec1664343044.mp3",
-                "rec1664343046.mp3",
-                "rec1664343050.mp3",
-                "rec1664343053.mp3",
-                "rec1664343056.mp3",
                 "rec1664343060.mp3",
                 "rec1664343063.mp3",
                 "rec1664343066.mp3",
@@ -1073,7 +2626,6 @@
                 "rec1664343094.mp3",
                 "rec1664343101.mp3",
                 "rec1664343104.mp3",
-                "rec1664343107.mp3",
                 "rec1664343110.mp3",
                 "rec1664343113.mp3",
                 "rec1664343116.mp3",
@@ -1092,23 +2644,19 @@
                 "rec1664439205.mp3",
                 "rec1664439211.mp3",
                 "rec1664439214.mp3",
-                "rec1664439218.mp3",
                 "rec1664439222.mp3",
                 "rec1664439225.mp3",
                 "rec1664439229.mp3",
                 "rec1664439233.mp3",
                 "rec1664439236.mp3",
                 "rec1664439239.mp3",
-                "rec1664439244.mp3",
                 "rec1664439303.mp3",
                 "rec1664439307.mp3",
                 "rec1664439311.mp3",
                 "rec1664439315.mp3",
                 "rec1664439319.mp3",
                 "rec1664439322.mp3",
-                "rec1664439326.mp3",
                 "rec1664439330.mp3",
-                "rec1664439335.mp3",
                 "rec1664439340.mp3",
                 "rec1664439344.mp3",
                 "rec1664439348.mp3",
@@ -1118,7 +2666,6 @@
                 "rec1664439362.mp3",
                 "rec1664439366.mp3",
                 "rec1664439396.mp3",
-                "rec1664439424.mp3",
                 "rec1664439431.mp3",
                 "rec1664439434.mp3",
                 "rec1664439438.mp3",
@@ -1135,7 +2682,6 @@
                 "rec1664439519.mp3",
                 "rec1664439523.mp3",
                 "rec1664439526.mp3",
-                "rec1664439530.mp3",
                 "rec1664439533.mp3",
                 "rec1664439537.mp3",
                 "rec1664439540.mp3",
@@ -1151,44 +2697,23 @@
                 "rec1664439575.mp3",
                 "rec1664439579.mp3",
                 "rec1664439583.mp3",
-                "rec1664439587.mp3",
-                "rec1664439591.mp3",
-                "rec1664439595.mp3",
-                "rec1664439599.mp3",
-                "rec1664439603.mp3",
                 "rec1664439607.mp3",
                 "rec1664439611.mp3",
                 "rec1664439615.mp3",
-                "rec1664439618.mp3",
-                "rec1664439622.mp3",
-                "rec1664439625.mp3",
-                "rec1664439630.mp3",
-                "rec1664439633.mp3",
-                "rec1664439637.mp3",
-                "rec1664439641.mp3",
                 "rec1664439645.mp3",
-                "rec1664439654.mp3",
-                "rec1664439658.mp3",
-                "rec1664439661.mp3",
-                "rec1664439664.mp3",
                 "rec1664439668.mp3",
-                "rec1664439672.mp3",
                 "rec1664439675.mp3",
                 "rec1664439678.mp3",
                 "rec1664439682.mp3",
                 "rec1664439686.mp3",
                 "rec1664439689.mp3",
                 "rec1664439693.mp3",
-                "rec1664439696.mp3",
                 "rec1664439699.mp3",
                 "rec1664439703.mp3",
                 "rec1664439707.mp3",
                 "rec1664439710.mp3",
                 "rec1664439732.mp3",
-                "rec1664439738.mp3",
-                "rec1664439741.mp3",
                 "rec1664439745.mp3",
-                "rec1664439749.mp3",
                 "rec1664439753.mp3",
                 "rec1664439756.mp3",
                 "rec1664439762.mp3",
@@ -1197,15 +2722,6 @@
                 "rec1664439773.mp3",
                 "rec1664439776.mp3",
                 "rec1664439779.mp3",
-                "rec1664439783.mp3",
-                "rec1664439788.mp3",
-                "rec1664439793.mp3",
-                "rec1664439796.mp3",
-                "rec1664439800.mp3",
-                "rec1664439803.mp3",
-                "rec1664439807.mp3",
-                "rec1664439811.mp3",
-                "rec1664439825.mp3",
                 "rec1664619683.mp3",
                 "rec1665052614.mp3",
                 "rec1665052732.mp3"
@@ -1635,25 +3151,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "còn anh?",
-                        "and you?",
-                        "N/A",
-                        "",
-                        "[sound:rec1664101788.mp3]",
-                        "rec1664101788.mp3",
-                        ""
-                    ],
-                    "guid": "kz/FH>q:>/",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "cũng",
                         "also",
                         "adverb",
@@ -1666,25 +3163,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::adverb",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bạn anh",
-                        "my friend",
-                        "N/A",
-                        "",
-                        "[sound:rec1664101798.mp3]",
-                        "rec1664101798.mp3",
-                        ""
-                    ],
-                    "guid": "l1/ga+d?|`",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::7"
                     ]
@@ -2075,25 +3553,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ở đâu",
-                        "where",
-                        "N/A",
-                        "used with non-moving verbs",
-                        "[sound:rec1664101980.mp3]",
-                        "rec1664101980.mp3",
-                        ""
-                    ],
-                    "guid": "q_x2]j5#6}",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "đâu",
                         "where",
                         "adverb",
@@ -2230,25 +3689,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nam mỹ",
-                        "south america",
-                        "N/A",
-                        "",
-                        "[sound:rec1664102036.mp3]",
-                        "rec1664102036.mp3",
-                        ""
-                    ],
-                    "guid": "gnj;opIkj6",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Việt Nam",
                         "Vietnam",
                         "proper_noun",
@@ -2363,25 +3803,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "mọi người ",
-                        "everyone",
-                        "N/A",
-                        "",
-                        "[sound:rec1664102092.mp3]",
-                        "rec1664102092.mp3",
-                        ""
-                    ],
-                    "guid": "EiR[H;@:BH",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "hiểu",
                         "understand",
                         "verb",
@@ -2394,25 +3815,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đồ uống",
-                        "drinks",
-                        "N/A",
-                        "",
-                        "[sound:rec1664102105.mp3]",
-                        "rec1664102105.mp3",
-                        ""
-                    ],
-                    "guid": "ib4p.iU>cA",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::12"
                     ]
@@ -3239,44 +4641,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "tốt lắm",
-                        "Well done",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342620.mp3]",
-                        "rec1664342620.mp3",
-                        ""
-                    ],
-                    "guid": "Lbp5(h+2kl",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::20"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đúng rồi",
-                        "that's correct",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342624.mp3]",
-                        "rec1664342624.mp3",
-                        ""
-                    ],
-                    "guid": "OY^f=[S+8#",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::20"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "nhớ",
                         "to miss (someone/something) emotionally",
                         "verb",
@@ -3372,44 +4736,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ở đây",
-                        "here",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342644.mp3]",
-                        "rec1664342644.mp3",
-                        ""
-                    ],
-                    "guid": "cVpi!eLx^{",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::20"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ở đấy",
-                        "there",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342648.mp3]",
-                        "rec1664342648.mp3",
-                        ""
-                    ],
-                    "guid": "b+d4,DAcK{",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::20"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "khoảng",
                         "approximately",
                         "common_noun",
@@ -3424,25 +4750,6 @@
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::20"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cùng một lúc",
-                        "at the same time",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342654.mp3]",
-                        "rec1664342654.mp3",
-                        ""
-                    ],
-                    "guid": "NmG-W#%B?n",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::22"
                     ]
                 },
                 {
@@ -3555,25 +4862,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::22"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "dạo này",
-                        "these days",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342684.mp3]",
-                        "rec1664342684.mp3",
-                        ""
-                    ],
-                    "guid": "ALdHq@sh3X",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::22"
                     ]
@@ -3745,25 +5033,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::adjective",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::22"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ngủ ngon",
-                        "good night",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342723.mp3]",
-                        "rec1664342723.mp3",
-                        ""
-                    ],
-                    "guid": "c;7w]H<B?$",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::22"
                     ]
@@ -3956,25 +5225,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::23"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bạn thân",
-                        "close friends",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342759.mp3]",
-                        "rec1664342759.mp3",
-                        ""
-                    ],
-                    "guid": "A:72]p[qZ!",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::23"
                     ]
@@ -4230,25 +5480,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cả ngày",
-                        "all day long",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342817.mp3]",
-                        "rec1664342817.mp3",
-                        ""
-                    ],
-                    "guid": "H-X<QK_HO8",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::26"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "phần lớn",
                         "mainly",
                         "common_noun",
@@ -4268,25 +5499,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "mấy giờ",
-                        "What time?",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342825.mp3]",
-                        "rec1664342825.mp3",
-                        ""
-                    ],
-                    "guid": "N<g[E4>[[>",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::26"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "trên",
                         "on",
                         "adjective",
@@ -4299,158 +5511,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::adjective",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ăn sáng",
-                        "have breakfast",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342832.mp3]",
-                        "rec1664342832.mp3",
-                        ""
-                    ],
-                    "guid": "kF>WTbuE!F",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ăn trưa ",
-                        "to have lunch",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342836.mp3]",
-                        "rec1664342836.mp3",
-                        ""
-                    ],
-                    "guid": "oS#V_O58P;",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ăn tối ",
-                        "to have dinner",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342839.mp3]",
-                        "rec1664342839.mp3",
-                        ""
-                    ],
-                    "guid": "j)^{sdsO`1",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "dậy sớm",
-                        "to get up early",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342842.mp3]",
-                        "rec1664342842.mp3",
-                        ""
-                    ],
-                    "guid": "Pwj(,Szx%U",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "buổi sáng",
-                        " in the morning",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342845.mp3]",
-                        "rec1664342845.mp3",
-                        ""
-                    ],
-                    "guid": "H8oKjw?E4S",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "buổi trưa",
-                        "noon",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342848.mp3]",
-                        "rec1664342848.mp3",
-                        ""
-                    ],
-                    "guid": "B6xjl/}I~s",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "buổi chiều",
-                        "afternoon",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342852.mp3]",
-                        "rec1664342852.mp3",
-                        ""
-                    ],
-                    "guid": "KnL9)f~16R",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "buổi tối",
-                        "evening",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342855.mp3]",
-                        "rec1664342855.mp3",
-                        ""
-                    ],
-                    "guid": "iqHBk2pi2,",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::29"
                     ]
@@ -4553,25 +5613,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ngủ trưa ",
-                        "lunch nap",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342875.mp3]",
-                        "rec1664342875.mp3",
-                        ""
-                    ],
-                    "guid": "opzfG4-@su",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "cố gắng",
                         "to try",
                         "verb",
@@ -4623,25 +5664,6 @@
                     "tags": [
                         "tiengviet::marked_for_phrase",
                         "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tắc đường ",
-                        "traffic jam",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342888.mp3]",
-                        "rec1664342888.mp3",
-                        ""
-                    ],
-                    "guid": "pm<oI73!83",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::30"
                     ]
@@ -4725,44 +5747,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "sau đấy",
-                        "after that",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342904.mp3]",
-                        "rec1664342904.mp3",
-                        ""
-                    ],
-                    "guid": "Mjx7nG.xyD",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "một lúc ",
-                        "a while",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342907.mp3]",
-                        "rec1664342907.mp3",
-                        ""
-                    ],
-                    "guid": "GZDRr?{/b]",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "giúp",
                         "to help",
                         "verb",
@@ -4782,101 +5766,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "sáng nay",
-                        "this morning",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342913.mp3]",
-                        "rec1664342913.mp3",
-                        ""
-                    ],
-                    "guid": "PjV]4,@dH(",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "trưa nay",
-                        "this noon",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342916.mp3]",
-                        "rec1664342916.mp3",
-                        ""
-                    ],
-                    "guid": "FxnbgBlTK+",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chiều nay",
-                        "this afternoon",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342920.mp3]",
-                        "rec1664342920.mp3",
-                        ""
-                    ],
-                    "guid": "lwaHNhz,hF",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tối nay",
-                        "this evening",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342923.mp3]",
-                        "rec1664342923.mp3",
-                        ""
-                    ],
-                    "guid": "j3hIbKbI%Y",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đêm nay",
-                        "tonight",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342934.mp3]",
-                        "rec1664342934.mp3",
-                        ""
-                    ],
-                    "guid": "QQbP-hO9,%",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ghét",
                         "to hate",
                         "verb",
@@ -4889,25 +5778,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bia rượu ",
-                        "alcohol",
-                        "N/A",
-                        "",
-                        "[sound:rec1664342951.mp3]",
-                        "rec1664342951.mp3",
-                        ""
-                    ],
-                    "guid": "dZ+$g>ww,r",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_7::30"
                     ]
@@ -5201,44 +6071,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "đi du lịch",
-                        "to travel",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343012.mp3]",
-                        "rec1664343012.mp3",
-                        ""
-                    ],
-                    "guid": "jZ`N`t`9]_",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_8::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đi du học",
-                        "to go study abroad",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343026.mp3]",
-                        "rec1664343026.mp3",
-                        ""
-                    ],
-                    "guid": "nm#pX=?s9$",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_8::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "lí do",
                         "reason",
                         "common_noun",
@@ -5251,44 +6083,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_8::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "người khác",
-                        "other people",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343033.mp3]",
-                        "rec1664343033.mp3",
-                        ""
-                    ],
-                    "guid": "O>wfliSwVf",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_8::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "người nước ngoài",
-                        "foreigner",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343036.mp3]",
-                        "rec1664343036.mp3",
-                        ""
-                    ],
-                    "guid": "IQO6EM<EhL",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_8::12"
                     ]
@@ -5327,82 +6121,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đi bộ",
-                        "to walk",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343046.mp3]",
-                        "rec1664343046.mp3",
-                        ""
-                    ],
-                    "guid": "sM:el2vX~K",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bữa ăn",
-                        "a meal",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343050.mp3]",
-                        "rec1664343050.mp3",
-                        ""
-                    ],
-                    "guid": "m9%XB6@,]4",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bữa sáng",
-                        "breakfast",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343053.mp3]",
-                        "rec1664343053.mp3",
-                        ""
-                    ],
-                    "guid": "w=HT1U)P:i",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đồ ăn sáng",
-                        "breakfast food",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343056.mp3]",
-                        "rec1664343056.mp3",
-                        ""
-                    ],
-                    "guid": "MegDIBf%Ey",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_8::15"
                     ]
@@ -5612,25 +6330,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed",
-                        "tiengviet::thang_9::4"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "quán ăn",
-                        "food stall / small food vendor",
-                        "N/A",
-                        "",
-                        "[sound:rec1664343107.mp3]",
-                        "rec1664343107.mp3",
-                        ""
-                    ],
-                    "guid": "IfyT]{w`jT",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::thang_9::4"
                     ]
@@ -6018,25 +6717,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "dễ gần",
-                        "easy-going",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439218.mp3]",
-                        "rec1664439218.mp3",
-                        ""
-                    ],
-                    "guid": "lRhj3aV-f_",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::tính_cach"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "thân thiện   ",
                         "friendly",
                         "adjective",
@@ -6144,25 +6824,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::tính_cach"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "có nhiều hoài bão",
-                        "have big dreams (ambitious)",
-                        "N/A",
-                        "formal/written language",
-                        "[sound:rec1664439244.mp3]",
-                        "rec1664439244.mp3",
-                        ""
-                    ],
-                    "guid": "e<gHNi]F<=",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::people::tính_cach"
                     ]
@@ -6284,25 +6945,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ít nói",
-                        "quiet",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439326.mp3]",
-                        "rec1664439326.mp3",
-                        ""
-                    ],
-                    "guid": "MAYHe+0}Xm",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::tính_cach"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "hướng nội",
                         "introverted",
                         "common_noun",
@@ -6315,25 +6957,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::tính_cach"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nói chuyện nhỏ nhẹ",
-                        "soft-spoken",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439335.mp3]",
-                        "rec1664439335.mp3",
-                        ""
-                    ],
-                    "guid": "hFHctuG!#X",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::people::tính_cach"
                     ]
@@ -6505,25 +7128,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::tính_cach"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chăm học",
-                        "studious",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439424.mp3]",
-                        "rec1664439424.mp3",
-                        ""
-                    ],
-                    "guid": "ba<o%yGSGE",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::people::tính_cach"
                     ]
@@ -6835,25 +7439,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "đáng tin cậy",
-                        "trustworthy",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439530.mp3]",
-                        "rec1664439530.mp3",
-                        ""
-                    ],
-                    "guid": "GQEmi57)PP",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::tính_cach"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "chung thuỷ",
                         "faithful",
                         "common_noun",
@@ -7139,101 +7724,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "thân hình cân đối",
-                        "fit body",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439587.mp3]",
-                        "rec1664439587.mp3",
-                        ""
-                    ],
-                    "guid": "E1!J(GpCwA",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "thân hình lý tưởng",
-                        "ideal figure",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439591.mp3]",
-                        "rec1664439591.mp3",
-                        ""
-                    ],
-                    "guid": "jpPW5Q{A,n",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "thân hình nóng bỏng",
-                        "sexy body",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439595.mp3]",
-                        "rec1664439595.mp3",
-                        ""
-                    ],
-                    "guid": "ndc1l@3xHA",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "thân hình mảnh khảnh",
-                        "slim figure",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439599.mp3]",
-                        "rec1664439599.mp3",
-                        ""
-                    ],
-                    "guid": "K=`PB*ox)f",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "thân hình vạm vỡ",
-                        "muscular figure",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439603.mp3]",
-                        "rec1664439603.mp3",
-                        ""
-                    ],
-                    "guid": "t*/h&HOr<S",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "vóc dáng",
                         "figure",
                         "common_noun",
@@ -7291,139 +7781,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "gương mặt tròn",
-                        "round face",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439618.mp3]",
-                        "rec1664439618.mp3",
-                        ""
-                    ],
-                    "guid": "pd=(aS##Cf",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "gương mặt trái xoan",
-                        " oval face",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439622.mp3]",
-                        "rec1664439622.mp3",
-                        ""
-                    ],
-                    "guid": "Nq$TpF4gv.",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "gương mặt sáng",
-                        "bright face",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439625.mp3]",
-                        "rec1664439625.mp3",
-                        ""
-                    ],
-                    "guid": "P!k|T*hc7O",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "gương mặt ưa nhìn",
-                        "pleasant looking face",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439630.mp3]",
-                        "rec1664439630.mp3",
-                        ""
-                    ],
-                    "guid": "gkaPYF2^lk",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ăn mặc đẹp",
-                        "to dress well",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439633.mp3]",
-                        "rec1664439633.mp3",
-                        ""
-                    ],
-                    "guid": "rrj}PqT^Gq",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ăn mặc lịch sự",
-                        "to dress appropriately",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439637.mp3]",
-                        "rec1664439637.mp3",
-                        ""
-                    ],
-                    "guid": "hc924)Z-M)",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ăn mặc sang trọng",
-                        "to dress classy",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439641.mp3]",
-                        "rec1664439641.mp3",
-                        ""
-                    ],
-                    "guid": "rx;m67W1Y[",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ăn mặc",
                         "to dress",
                         "verb",
@@ -7443,82 +7800,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "thừa cân",
-                        "overweight",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439654.mp3]",
-                        "rec1664439654.mp3",
-                        ""
-                    ],
-                    "guid": ".=xB);`S_",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nhẹ cân",
-                        "underweight",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439658.mp3]",
-                        "rec1664439658.mp3",
-                        ""
-                    ],
-                    "guid": "j>IuP_]AJY",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "giảm cân",
-                        "to lose weight",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439661.mp3]",
-                        "rec1664439661.mp3",
-                        ""
-                    ],
-                    "guid": "l0},G=`6fa",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tăng cân",
-                        "to gain weight",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439664.mp3]",
-                        "rec1664439664.mp3",
-                        ""
-                    ],
-                    "guid": "B6YQ(ZMOOh",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ăn kiêng",
                         "go on a diet",
                         "verb",
@@ -7531,25 +7812,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cân nặng",
-                        "weight",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439672.mp3]",
-                        "rec1664439672.mp3",
-                        ""
-                    ],
-                    "guid": "QtIZJI8ISL",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::people::vẻ_ngoài"
                     ]
@@ -7652,25 +7914,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "béo ú",
-                        "fat",
-                        "N/A",
-                        "very informal; northern dialect",
-                        "[sound:rec1664439696.mp3]",
-                        "rec1664439696.mp3",
-                        ""
-                    ],
-                    "guid": "wCRZ]shuvl",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "tròn",
                         "round",
                         "adjective",
@@ -7747,44 +7990,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chiều cao",
-                        "height",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439738.mp3]",
-                        "rec1664439738.mp3",
-                        ""
-                    ],
-                    "guid": "G@EBQod)fb",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cao to",
-                        "person who is big and tall",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439741.mp3]",
-                        "rec1664439741.mp3",
-                        ""
-                    ],
-                    "guid": "wI7C><u2S!",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "đẹp trai",
                         "handsome",
                         "adjective",
@@ -7797,25 +8002,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::adjective",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đẹp gái",
-                        "beautiful",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439749.mp3]",
-                        "rec1664439749.mp3",
-                        ""
-                    ],
-                    "guid": "EFyAS(wD/]",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::people::vẻ_ngoài"
                     ]
@@ -7968,177 +8154,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        " đầu hói",
-                        "bald head",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439783.mp3]",
-                        "rec1664439783.mp3",
-                        ""
-                    ],
-                    "guid": "C>]ED3swV6",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tóc bạc",
-                        "gray hair",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439788.mp3]",
-                        "rec1664439788.mp3",
-                        ""
-                    ],
-                    "guid": "tn<<r$}wS4",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tóc xơ rối",
-                        "frizzy hair",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439793.mp3]",
-                        "rec1664439793.mp3",
-                        ""
-                    ],
-                    "guid": "XlzCp8~.A",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tóc nhuộm",
-                        "dyed hair",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439796.mp3]",
-                        "rec1664439796.mp3",
-                        ""
-                    ],
-                    "guid": "s:(X44Z(hU",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tóc duỗi",
-                        "straightened hair",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439800.mp3]",
-                        "rec1664439800.mp3",
-                        ""
-                    ],
-                    "guid": "r*z==?.ie`",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tóc xoăn",
-                        "curly hair",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439803.mp3]",
-                        "rec1664439803.mp3",
-                        ""
-                    ],
-                    "guid": "HL@.@>*q<",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tóc ngang vai",
-                        "shoulder-length hair",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439807.mp3]",
-                        "rec1664439807.mp3",
-                        ""
-                    ],
-                    "guid": "Q4R93s75V.",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tóc ngắn",
-                        "short hair",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439811.mp3]",
-                        "rec1664439811.mp3",
-                        ""
-                    ],
-                    "guid": "gE&1T/*b^*",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
-                        "tiengviet::meta::processed",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tóc dài",
-                        "long hair",
-                        "N/A",
-                        "",
-                        "[sound:rec1664439825.mp3]",
-                        "rec1664439825.mp3",
-                        ""
-                    ],
-                    "guid": "rEl7q!A+j;",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::pos::na",
                         "tiengviet::meta::processed",
                         "tiengviet::people::vẻ_ngoài"
                     ]
@@ -8383,146 +8398,6 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-            "css": ":root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}*,:after,:before{box-sizing:border-box}html{font-family:-apple-system,BlinkMacSystemFont,Avenir,Avenir Next,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-size:15px;line-height:1.6;font-weight:400;color:var(--text-main);background:var(--background-body);-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;text-rendering:optimizeLegibility}body{margin:0;font-size:1em}::-webkit-input-placeholder{color:var(--form-placeholder)}::-moz-placeholder{color:var(--form-placeholder)}:-ms-input-placeholder{color:var(--form-placeholder)}::-ms-input-placeholder{color:var(--form-placeholder)}::placeholder{color:var(--form-placeholder)}::-moz-selection{background-color:var(--selection)}::selection{background-color:var(--selection)}th{text-align:start}th{padding:.5rem}th{background:hsla(0,0%,39.2%,.025)}h1,h2,h3,h4,h5,h6{font-weight:400;line-height:1.3em;margin:var(--heading-margin);color:var(--text-c,inherit)}h1{font-size:var(--typo-size-1)}h2{font-size:var(--typo-size-2)}h3{font-size:var(--typo-size-3)}h4{font-size:var(--typo-size-4)}h5{font-size:var(--typo-size-5)}h6{font-size:var(--typo-size-6);line-height:1.6em}a{color:var(--links);text-decoration:none}th{font-weight:700}:root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}[style*=\"--grad:\"]{background-image:linear-gradient(var(--grad),transparent,var(--grad-color,#000))}[style*=\"--grad-vars:\"]{background-image:linear-gradient(var(--grad-vars),var(--primary),var(--secondary))}[style*=\"--bg-pattern-squares:\"]{background-image:repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor),repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor);background-position:0 0,calc(var(--bg-pattern-squares)*1px) calc(var(--bg-pattern-squares)*1px);background-size:calc(var(--bg-pattern-squares)*2px) calc(var(--bg-pattern-squares)*2px)}[style*=\"--wrapper:\"]{max-width:var(--wrapper);margin-left:auto;margin-right:auto;padding-left:var(--gutter);padding-right:var(--gutter)}[style*=\"--inset:\"]{top:var(--inset);left:var(--inset);right:var(--inset);bottom:var(--inset)}[style*=\"--inset-top:\"]{top:var(--inset-top);left:var(--inset-top);right:var(--inset-top)}[style*=\"--inset-bottom:\"]{left:var(--inset-bottom);right:var(--inset-bottom);bottom:var(--inset-bottom)}[style*=\"--inset-top-left:\"]{top:var(--inset-top-left);left:var(--inset-top-left)}[style*=\"--inset-top-right:\"]{top:var(--inset-top-right);right:var(--inset-top-right)}[style*=\"--inset-bottom-left:\"]{bottom:var(--inset-bottom-left);left:var(--inset-bottom-left)}[style*=\"--inset-bottom-right:\"]{bottom:var(--inset-bottom-right);right:var(--inset-bottom-right)}[style*=\"--levitate:\"]{box-shadow:0 calc(var(--levitate)*.5px) calc(var(--levitate)*.6px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*1px) calc(var(--levitate)*1.2px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*2px) calc(var(--levitate)*2.4px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*4px) calc(var(--levitate)*4.4px) rgba(0,0,0,calc(var(--levitate)*.013));transform:translateY(calc(var(--levitate)*-1.2px))}[style*=\"--levitate-hvr:\"]{transition:var(--transition)}[style*=\"--levitate-hvr:\"]:focus,[style*=\"--levitate-hvr:\"]:hover{box-shadow:0 calc(var(--levitate-hvr)*.5px) calc(var(--levitate-hvr)*.6px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*1px) calc(var(--levitate-hvr)*1.2px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*2px) calc(var(--levitate-hvr)*2.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*4px) calc(var(--levitate-hvr)*4.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013));transform:translateY(calc(var(--levitate-hvr)*-1.2px))}[style*=\"--shadow:\"]{box-shadow:0 calc(var(--shadow)*.1px) calc(var(--shadow)*.2px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.2px) calc(var(--shadow)*.4px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.4px) calc(var(--shadow)*.8px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.8px) calc(var(--shadow)*1.6px) rgba(0,0,0,calc(var(--shadow)*.02))}[style*=\"--shadow-soft:\"]{box-shadow:0 calc(var(--shadow-soft)*.3px) calc(var(--shadow-soft)*1.1px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*.6px) calc(var(--shadow-soft)*1.2px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*1.2px) calc(var(--shadow-soft)*1.4px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*2.4px) calc(var(--shadow-soft)*1.6px) rgba(0,0,0,.1)}[style*=\"--shadow-hard:\"]{box-shadow:0 calc(var(--shadow-hard)*.75px) calc(var(--shadow-hard)*1.3px) rgba(0,0,0,calc(var(--shadow-hard)*.12))}[style*=\"--shadow-vert:\"]{box-shadow:0 calc(var(--shadow-vert)*1.4px) calc(var(--shadow-vert)*2px) calc(var(--shadow-vert)*-1.7px) rgba(0,0,0,calc(var(--shadow-vert)*.12))}[style*=\"--shadow-inset:\"]{box-shadow:inset 0 calc(var(--shadow-inset)*.1px) calc(var(--shadow-inset)*.2px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.2px) calc(var(--shadow-inset)*.4px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.4px) calc(var(--shadow-inset)*.8px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.8px) calc(var(--shadow-inset)*1.6px) rgba(0,0,0,calc(var(--shadow-inset)*.02))}[style*=\"--shadow-hvr:\"]{transition:var(--transition)}[style*=\"--shadow-hvr:\"]:focus,[style*=\"--shadow-hvr:\"]:hover{box-shadow:0 calc(var(--shadow-hvr)*.1px) calc(var(--shadow-hvr)*.2px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.2px) calc(var(--shadow-hvr)*.4px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.4px) calc(var(--shadow-hvr)*.8px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.8px) calc(var(--shadow-hvr)*1.6px) rgba(0,0,0,calc(var(--shadow-hvr)*.02))}[style*=\"--px:\"]{-webkit-padding-start:var(--px);padding-inline-start:var(--px);-webkit-padding-end:var(--px);padding-inline-end:var(--px)}[style*=\"--py:\"]{-webkit-padding-before:var(--py);padding-block-start:var(--py);-webkit-padding-after:var(--py);padding-block-end:var(--py)}[style*=\"--mx:\"]{-webkit-margin-start:var(--mx);margin-inline-start:var(--mx);-webkit-margin-end:var(--mx);margin-inline-end:var(--mx)}[style*=\"--my:\"]{-webkit-margin-before:var(--my);margin-block-start:var(--my);-webkit-margin-after:var(--my);margin-block-end:var(--my)}[style*=\"--rotate:\"],[style*=\"--scale:\"],[style*=\"--skew:\"],[style*=\"--translate:\"],[style*=\"--translatex:\"],[style*=\"--translatey:\"]{transform:translate(var(--translate,0)) translateX(var(--translatex,0)) translateY(var(--translatey,0)) scale(var(--scale,100%)) rotate(var(--rotate,0)) skew(var(--skew,0))}[style*=\"--rotate-hvr:\"],[style*=\"--scale-hvr:\"],[style*=\"--skew-hvr:\"],[style*=\"--translate-hvr:\"],[style*=\"--translatex-hvr:\"],[style*=\"--translatey-hvr:\"]{transition:var(--transition)}[style*=\"--rotate-hvr:\"]:hover,[style*=\"--scale-hvr:\"]:hover,[style*=\"--skew-hvr:\"]:hover,[style*=\"--translate-hvr:\"]:hover,[style*=\"--translatex-hvr:\"]:hover,[style*=\"--translatey-hvr:\"]:hover{transform:translate(var(--translate-hvr,0)) translateX(var(--translatex-hvr,0)) translateY(var(--translatey-hvr,0)) scale(var(--scale-hvr,100%)) rotate(var(--rotate-hvr,0)) skew(var(--skew-hvr,0))}[style*=\"--line-clamp:\"]{display:-webkit-box;-webkit-line-clamp:var(--line-clamp);-webkit-box-orient:vertical;overflow:hidden}[style*=\"--text-3d:\"]{text-shadow:6px 6px 10px hsla(0,0%,100%,.1),6px 6px var(--text-3d),5.75px 5.75px var(--text-3d),5.5px 5.5px var(--text-3d),5.25px 5.25px var(--text-3d),5px 5px var(--text-3d),4.75px 4.75px var(--text-3d),4.5px 4.5px var(--text-3d),4.25px 4.25px var(--text-3d),4px 4px var(--text-3d),3.75px 3.75px var(--text-3d),3.5px 3.5px var(--text-3d),3.25px 3.25px var(--text-3d),3px 3px var(--text-3d),2.75px 2.75px var(--text-3d),2.5px 2.5px var(--text-3d),2.25px 2.25px var(--text-3d),2px 2px var(--text-3d),1.75px 1.75px var(--text-3d),1.5px 1.5px var(--text-3d),1.25px 1.25px var(--text-3d),1px 1px var(--text-3d),.75px .75px var(--text-3d),.5px .5px var(--text-3d),.25px .25px var(--text-3d)}@media only screen and (min-width:640px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-sm)}}@media only screen and (min-width:768px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-md)}}@media only screen and (min-width:1024px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-lg)}}@media only screen and (min-width:1280px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-xl)}}\n\n.kard {\n display:flex;\n justify-content:center;\n text-align:center;\n}\n\n.kard-body {\n\tmargin-top:100px;\n  min-width:500px;\n  border-radius:10px;\n  padding-bottom:10px\n}\n\n.vn {\n\tfont-size:32px\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.en {\n\tfont-size:26px\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.target {\n\t\tcolor:rgb(255,130,255);\n\t\tfont-weight: 600;\n\t\t# border-bottom: 1px solid rgb(255,130,255);\n}",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Sentence",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 32,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Target",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Target Meaning",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Target Audio",
-                    "ord": 3,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Sentence Audio",
-                    "ord": 4,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "VN (and reversed typed with Audio) Phrase Cards",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0,
-                        1
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        1,
-                        2,
-                        4
-                    ]
-                ],
-                [
-                    2,
-                    "any",
-                    [
-                        1,
-                        3,
-                        4
-                    ]
-                ],
-                [
-                    3,
-                    "any",
-                    [
-                        0,
-                        4
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tmpls": [
-                {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"vn target\">{{Target}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t</div>\n</div>\n\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Meaning",
-                    "ord": 0,
-                    "qfmt": "<div style='display: none' id=\"sentence\">{{Sentence}}</div>\n<div style='display: none' id=\"target\">{{Target}}</div>\n\n<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Target Meaning</h5>\n\t\t<div class=\"vn\" id=\"content\"></div>\n\t</div>\n</div>\n\n\n<script>\nvar lookup={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var attrRE=/\\s([^'\"/\\s><]+?)[\\s/>]|([^\\s=]+)=\\s?(\".*?\"|'.*?')/g;function parseTag(tag){var res={type:\"tag\",name:\"\",voidElement:!1,attrs:{},children:[]};var tagMatch=tag.match(/<\\/?([^\\s]+?)[/\\s>]/);if(tagMatch){res.name=tagMatch[1];if(lookup[tagMatch[1]]||tag.charAt(tag.length-2)===\"/\"){res.voidElement=!0}\nif(res.name.startsWith(\"!--\")){var endIndex=tag.indexOf(\"-->\");return{type:\"comment\",comment:endIndex!==-1?tag.slice(4,endIndex):\"\"}}}\nvar reg=new RegExp(attrRE);var result=null;for(;;){result=reg.exec(tag);if(result===null){break}\nif(!result[0].trim()){continue}\nif(result[1]){var attr=result[1].trim();var arr=[attr,\"\"];if(attr.indexOf(\"=\")>-1){arr=attr.split(\"=\")}\nres.attrs[arr[0]]=arr[1];reg.lastIndex--}else if(result[2]){res.attrs[result[2]]=result[3].trim().substring(1,result[3].length-1)}}\nreturn res}\nvar tagRE=/<[a-zA-Z0-9\\-\\!\\/](?:\"[^\"]*\"|'[^']*'|[^'\">])*>/g;var whitespaceRE=/^\\s*$/;var empty=Object.create(null);function parse(html,options){options||(options={});options.components||(options.components=empty);var result=[];var arr=[];var current;var level=-1;var inComponent=!1;if(html.indexOf(\"<\")!==0){var end=html.indexOf(\"<\");result.push({type:\"text\",content:end===-1?html:html.substring(0,end)})}\nhtml.replace(tagRE,function(tag,index){if(inComponent){if(tag!==\"</\"+current.name+\">\"){return}else{inComponent=!1}}\nvar isOpen=tag.charAt(1)!==\"/\";var isComment=tag.startsWith(\"<!--\");var start=index+tag.length;var nextChar=html.charAt(start);var parent;if(isComment){var comment=parseTag(tag);if(level<0){result.push(comment);return result}\nparent=arr[level];parent.children.push(comment);return result}\nif(isOpen){level++;current=parseTag(tag);if(current.type===\"tag\"&&options.components[current.name]){current.type=\"component\";inComponent=!0}\nif(!current.voidElement&&!inComponent&&nextChar&&nextChar!==\"<\"){current.children.push({type:\"text\",content:html.slice(start,html.indexOf(\"<\",start))})}\nif(level===0){result.push(current)}\nparent=arr[level-1];if(parent){parent.children.push(current)}\narr[level]=current}\nif(!isOpen||current.voidElement){if(level>-1&&(current.voidElement||current.name===tag.slice(2,-1))){level--;current=level===-1?result:arr[level]}\nif(!inComponent&&nextChar!==\"<\"&&nextChar){parent=level===-1?result:arr[level].children;var _end=html.indexOf(\"<\",start);var content=html.slice(start,_end===-1?undefined:_end);if(whitespaceRE.test(content)){content=\" \"}\nif((_end>-1&&level+parent.length>=0)||content!==\" \"){parent.push({type:\"text\",content:content})}}}});return result}\nfunction attrString(attrs){var buff=[];for(var key in attrs){buff.push(key+'=\"'+attrs[key]+'\"')}\nif(!buff.length){return\"\"}\nreturn\" \"+buff.join(\" \")}\nfunction innerStringify(buff,doc){switch(doc.type){case \"text\":return buff+doc.content;case \"tag\":buff+=\"<\"+doc.name+(doc.attrs?attrString(doc.attrs):\"\")+(doc.voidElement?\"/>\":\">\");if(doc.voidElement){return buff}\nreturn buff+doc.children.reduce(innerStringify,\"\")+\"</\"+doc.name+\">\";case \"comment\":buff+=\"<!--\"+doc.comment+\"-->\";return buff}}\nfunction stringify(doc){return doc.reduce(function(token,rootEl){return token+innerStringify(\"\",rootEl)},\"\")}\nfunction checkNodes(arr,target){var isWrapper=target.includes(\" ... \");for(var x=0;x<arr.length;x++){var elem=arr[x];if(elem.type==\"text\"){if(isWrapper){var targets=target.split(\" ... \");var left=targets[0];var right=targets[1];if(elem.content.includes(left)&&elem.content.includes(right)){arr[x].content=elem.content.replace(left,createTargetTag(left)).replace(right,createTargetTag(right))}}\nif(elem.content.includes(target)){arr[x].content=elem.content.replace(target,createTargetTag(target))}}\nif(elem.type==\"tag\"&&elem.children.length>0)checkNodes(elem.children,target)}}\nfunction createTargetTag(target){return stringify([{type:\"tag\",name:\"span\",voidElement:!1,attrs:{class:\"target\"},children:[{type:\"text\",content:target}]}])}\nvar words=parse(document.getElementById(\"sentence\").innerHTML);checkNodes(words,document.getElementById(\"target\").innerHTML);document.getElementById(\"content\").innerHTML=stringify(words)\n</script>\n\n"
-                },
-                {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Target}}</div>\n\t</div>\n</div>\n\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Type Target",
-                    "ord": 1,
-                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t{{#Sentence Audio}}{{hint::Sentence Audio}}{{/Sentence Audio}}\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
-                },
-                {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t{{Target Audio}}\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Target}}</div>\n\t</div>\n</div>\n\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Type Target from Audio",
-                    "ord": 2,
-                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t<div class=\"en\">Play Sentence {{Sentence Audio}}</div>\n\t\t<div class=\"en\">Play Target{{Target Audio}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
-                },
-                {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t{{Sentence Audio}}\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Sentence}}</div>\n\t</div>\n</div>\n\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Type Sentence from Audio",
-                    "ord": 3,
-                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Sentence</h5>\n\t\t{{Sentence Audio}}\n\t</div>\n</div>\n{{type:Sentence}}\n\n"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
             "css": ":root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}*,:after,:before{box-sizing:border-box}html{font-family:-apple-system,BlinkMacSystemFont,Avenir,Avenir Next,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-size:15px;line-height:1.6;font-weight:400;color:var(--text-main);background:var(--background-body);-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;text-rendering:optimizeLegibility}body{margin:0;font-size:1em}::-webkit-input-placeholder{color:var(--form-placeholder)}::-moz-placeholder{color:var(--form-placeholder)}:-ms-input-placeholder{color:var(--form-placeholder)}::-ms-input-placeholder{color:var(--form-placeholder)}::placeholder{color:var(--form-placeholder)}::-moz-selection{background-color:var(--selection)}::selection{background-color:var(--selection)}th{text-align:start}th{padding:.5rem}th{background:hsla(0,0%,39.2%,.025)}h1,h2,h3,h4,h5,h6{font-weight:400;line-height:1.3em;margin:var(--heading-margin);color:var(--text-c,inherit)}h1{font-size:var(--typo-size-1)}h2{font-size:var(--typo-size-2)}h3{font-size:var(--typo-size-3)}h4{font-size:var(--typo-size-4)}h5{font-size:var(--typo-size-5)}h6{font-size:var(--typo-size-6);line-height:1.6em}a{color:var(--links);text-decoration:none}th{font-weight:700}:root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}[style*=\"--grad:\"]{background-image:linear-gradient(var(--grad),transparent,var(--grad-color,#000))}[style*=\"--grad-vars:\"]{background-image:linear-gradient(var(--grad-vars),var(--primary),var(--secondary))}[style*=\"--bg-pattern-squares:\"]{background-image:repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor),repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor);background-position:0 0,calc(var(--bg-pattern-squares)*1px) calc(var(--bg-pattern-squares)*1px);background-size:calc(var(--bg-pattern-squares)*2px) calc(var(--bg-pattern-squares)*2px)}[style*=\"--wrapper:\"]{max-width:var(--wrapper);margin-left:auto;margin-right:auto;padding-left:var(--gutter);padding-right:var(--gutter)}[style*=\"--inset:\"]{top:var(--inset);left:var(--inset);right:var(--inset);bottom:var(--inset)}[style*=\"--inset-top:\"]{top:var(--inset-top);left:var(--inset-top);right:var(--inset-top)}[style*=\"--inset-bottom:\"]{left:var(--inset-bottom);right:var(--inset-bottom);bottom:var(--inset-bottom)}[style*=\"--inset-top-left:\"]{top:var(--inset-top-left);left:var(--inset-top-left)}[style*=\"--inset-top-right:\"]{top:var(--inset-top-right);right:var(--inset-top-right)}[style*=\"--inset-bottom-left:\"]{bottom:var(--inset-bottom-left);left:var(--inset-bottom-left)}[style*=\"--inset-bottom-right:\"]{bottom:var(--inset-bottom-right);right:var(--inset-bottom-right)}[style*=\"--levitate:\"]{box-shadow:0 calc(var(--levitate)*.5px) calc(var(--levitate)*.6px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*1px) calc(var(--levitate)*1.2px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*2px) calc(var(--levitate)*2.4px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*4px) calc(var(--levitate)*4.4px) rgba(0,0,0,calc(var(--levitate)*.013));transform:translateY(calc(var(--levitate)*-1.2px))}[style*=\"--levitate-hvr:\"]{transition:var(--transition)}[style*=\"--levitate-hvr:\"]:focus,[style*=\"--levitate-hvr:\"]:hover{box-shadow:0 calc(var(--levitate-hvr)*.5px) calc(var(--levitate-hvr)*.6px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*1px) calc(var(--levitate-hvr)*1.2px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*2px) calc(var(--levitate-hvr)*2.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*4px) calc(var(--levitate-hvr)*4.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013));transform:translateY(calc(var(--levitate-hvr)*-1.2px))}[style*=\"--shadow:\"]{box-shadow:0 calc(var(--shadow)*.1px) calc(var(--shadow)*.2px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.2px) calc(var(--shadow)*.4px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.4px) calc(var(--shadow)*.8px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.8px) calc(var(--shadow)*1.6px) rgba(0,0,0,calc(var(--shadow)*.02))}[style*=\"--shadow-soft:\"]{box-shadow:0 calc(var(--shadow-soft)*.3px) calc(var(--shadow-soft)*1.1px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*.6px) calc(var(--shadow-soft)*1.2px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*1.2px) calc(var(--shadow-soft)*1.4px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*2.4px) calc(var(--shadow-soft)*1.6px) rgba(0,0,0,.1)}[style*=\"--shadow-hard:\"]{box-shadow:0 calc(var(--shadow-hard)*.75px) calc(var(--shadow-hard)*1.3px) rgba(0,0,0,calc(var(--shadow-hard)*.12))}[style*=\"--shadow-vert:\"]{box-shadow:0 calc(var(--shadow-vert)*1.4px) calc(var(--shadow-vert)*2px) calc(var(--shadow-vert)*-1.7px) rgba(0,0,0,calc(var(--shadow-vert)*.12))}[style*=\"--shadow-inset:\"]{box-shadow:inset 0 calc(var(--shadow-inset)*.1px) calc(var(--shadow-inset)*.2px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.2px) calc(var(--shadow-inset)*.4px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.4px) calc(var(--shadow-inset)*.8px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.8px) calc(var(--shadow-inset)*1.6px) rgba(0,0,0,calc(var(--shadow-inset)*.02))}[style*=\"--shadow-hvr:\"]{transition:var(--transition)}[style*=\"--shadow-hvr:\"]:focus,[style*=\"--shadow-hvr:\"]:hover{box-shadow:0 calc(var(--shadow-hvr)*.1px) calc(var(--shadow-hvr)*.2px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.2px) calc(var(--shadow-hvr)*.4px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.4px) calc(var(--shadow-hvr)*.8px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.8px) calc(var(--shadow-hvr)*1.6px) rgba(0,0,0,calc(var(--shadow-hvr)*.02))}[style*=\"--px:\"]{-webkit-padding-start:var(--px);padding-inline-start:var(--px);-webkit-padding-end:var(--px);padding-inline-end:var(--px)}[style*=\"--py:\"]{-webkit-padding-before:var(--py);padding-block-start:var(--py);-webkit-padding-after:var(--py);padding-block-end:var(--py)}[style*=\"--mx:\"]{-webkit-margin-start:var(--mx);margin-inline-start:var(--mx);-webkit-margin-end:var(--mx);margin-inline-end:var(--mx)}[style*=\"--my:\"]{-webkit-margin-before:var(--my);margin-block-start:var(--my);-webkit-margin-after:var(--my);margin-block-end:var(--my)}[style*=\"--rotate:\"],[style*=\"--scale:\"],[style*=\"--skew:\"],[style*=\"--translate:\"],[style*=\"--translatex:\"],[style*=\"--translatey:\"]{transform:translate(var(--translate,0)) translateX(var(--translatex,0)) translateY(var(--translatey,0)) scale(var(--scale,100%)) rotate(var(--rotate,0)) skew(var(--skew,0))}[style*=\"--rotate-hvr:\"],[style*=\"--scale-hvr:\"],[style*=\"--skew-hvr:\"],[style*=\"--translate-hvr:\"],[style*=\"--translatex-hvr:\"],[style*=\"--translatey-hvr:\"]{transition:var(--transition)}[style*=\"--rotate-hvr:\"]:hover,[style*=\"--scale-hvr:\"]:hover,[style*=\"--skew-hvr:\"]:hover,[style*=\"--translate-hvr:\"]:hover,[style*=\"--translatex-hvr:\"]:hover,[style*=\"--translatey-hvr:\"]:hover{transform:translate(var(--translate-hvr,0)) translateX(var(--translatex-hvr,0)) translateY(var(--translatey-hvr,0)) scale(var(--scale-hvr,100%)) rotate(var(--rotate-hvr,0)) skew(var(--skew-hvr,0))}[style*=\"--line-clamp:\"]{display:-webkit-box;-webkit-line-clamp:var(--line-clamp);-webkit-box-orient:vertical;overflow:hidden}[style*=\"--text-3d:\"]{text-shadow:6px 6px 10px hsla(0,0%,100%,.1),6px 6px var(--text-3d),5.75px 5.75px var(--text-3d),5.5px 5.5px var(--text-3d),5.25px 5.25px var(--text-3d),5px 5px var(--text-3d),4.75px 4.75px var(--text-3d),4.5px 4.5px var(--text-3d),4.25px 4.25px var(--text-3d),4px 4px var(--text-3d),3.75px 3.75px var(--text-3d),3.5px 3.5px var(--text-3d),3.25px 3.25px var(--text-3d),3px 3px var(--text-3d),2.75px 2.75px var(--text-3d),2.5px 2.5px var(--text-3d),2.25px 2.25px var(--text-3d),2px 2px var(--text-3d),1.75px 1.75px var(--text-3d),1.5px 1.5px var(--text-3d),1.25px 1.25px var(--text-3d),1px 1px var(--text-3d),.75px .75px var(--text-3d),.5px .5px var(--text-3d),.25px .25px var(--text-3d)}@media only screen and (min-width:640px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-sm)}}@media only screen and (min-width:768px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-md)}}@media only screen and (min-width:1024px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-lg)}}@media only screen and (min-width:1280px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-xl)}}\n\n.kard {\n display:flex;\n justify-content:center;\n text-align:center;\n}\n\n.kard-body {\n\tmargin-top:100px;\n  min-width:800px;\n  border-radius:10px;\n  padding-bottom:10px\n}\n\n.vn {\n\tfont-size:32px\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.en {\n\tfont-size:26px\n}\n\n.ctx {\n  border: 1px solid #075aae;\n\tflex-direction: column;\n  font-size: 1.25rem;\n  margin: 1rem auto 1rem;\n\tborder-radius: 1.15rem;\n  line-height: 1.25;\n  max-width: 45%;\n  padding: 0.5rem .875rem;\n  word-wrap: break-word;\n\tbackground-color: #075aae;\n  color: #fff; \n}\n",
             "flds": [
@@ -8672,6 +8547,146 @@
                     "name": "Meaning from Audio",
                     "ord": 3,
                     "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Meaning</h5>\n\t\t<div>{{Audio}}</div>\n\t</div>\n</div>\n"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+            "css": ":root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}*,:after,:before{box-sizing:border-box}html{font-family:-apple-system,BlinkMacSystemFont,Avenir,Avenir Next,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-size:15px;line-height:1.6;font-weight:400;color:var(--text-main);background:var(--background-body);-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;text-rendering:optimizeLegibility}body{margin:0;font-size:1em}::-webkit-input-placeholder{color:var(--form-placeholder)}::-moz-placeholder{color:var(--form-placeholder)}:-ms-input-placeholder{color:var(--form-placeholder)}::-ms-input-placeholder{color:var(--form-placeholder)}::placeholder{color:var(--form-placeholder)}::-moz-selection{background-color:var(--selection)}::selection{background-color:var(--selection)}th{text-align:start}th{padding:.5rem}th{background:hsla(0,0%,39.2%,.025)}h1,h2,h3,h4,h5,h6{font-weight:400;line-height:1.3em;margin:var(--heading-margin);color:var(--text-c,inherit)}h1{font-size:var(--typo-size-1)}h2{font-size:var(--typo-size-2)}h3{font-size:var(--typo-size-3)}h4{font-size:var(--typo-size-4)}h5{font-size:var(--typo-size-5)}h6{font-size:var(--typo-size-6);line-height:1.6em}a{color:var(--links);text-decoration:none}th{font-weight:700}:root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}[style*=\"--grad:\"]{background-image:linear-gradient(var(--grad),transparent,var(--grad-color,#000))}[style*=\"--grad-vars:\"]{background-image:linear-gradient(var(--grad-vars),var(--primary),var(--secondary))}[style*=\"--bg-pattern-squares:\"]{background-image:repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor),repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor);background-position:0 0,calc(var(--bg-pattern-squares)*1px) calc(var(--bg-pattern-squares)*1px);background-size:calc(var(--bg-pattern-squares)*2px) calc(var(--bg-pattern-squares)*2px)}[style*=\"--wrapper:\"]{max-width:var(--wrapper);margin-left:auto;margin-right:auto;padding-left:var(--gutter);padding-right:var(--gutter)}[style*=\"--inset:\"]{top:var(--inset);left:var(--inset);right:var(--inset);bottom:var(--inset)}[style*=\"--inset-top:\"]{top:var(--inset-top);left:var(--inset-top);right:var(--inset-top)}[style*=\"--inset-bottom:\"]{left:var(--inset-bottom);right:var(--inset-bottom);bottom:var(--inset-bottom)}[style*=\"--inset-top-left:\"]{top:var(--inset-top-left);left:var(--inset-top-left)}[style*=\"--inset-top-right:\"]{top:var(--inset-top-right);right:var(--inset-top-right)}[style*=\"--inset-bottom-left:\"]{bottom:var(--inset-bottom-left);left:var(--inset-bottom-left)}[style*=\"--inset-bottom-right:\"]{bottom:var(--inset-bottom-right);right:var(--inset-bottom-right)}[style*=\"--levitate:\"]{box-shadow:0 calc(var(--levitate)*.5px) calc(var(--levitate)*.6px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*1px) calc(var(--levitate)*1.2px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*2px) calc(var(--levitate)*2.4px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*4px) calc(var(--levitate)*4.4px) rgba(0,0,0,calc(var(--levitate)*.013));transform:translateY(calc(var(--levitate)*-1.2px))}[style*=\"--levitate-hvr:\"]{transition:var(--transition)}[style*=\"--levitate-hvr:\"]:focus,[style*=\"--levitate-hvr:\"]:hover{box-shadow:0 calc(var(--levitate-hvr)*.5px) calc(var(--levitate-hvr)*.6px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*1px) calc(var(--levitate-hvr)*1.2px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*2px) calc(var(--levitate-hvr)*2.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*4px) calc(var(--levitate-hvr)*4.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013));transform:translateY(calc(var(--levitate-hvr)*-1.2px))}[style*=\"--shadow:\"]{box-shadow:0 calc(var(--shadow)*.1px) calc(var(--shadow)*.2px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.2px) calc(var(--shadow)*.4px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.4px) calc(var(--shadow)*.8px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.8px) calc(var(--shadow)*1.6px) rgba(0,0,0,calc(var(--shadow)*.02))}[style*=\"--shadow-soft:\"]{box-shadow:0 calc(var(--shadow-soft)*.3px) calc(var(--shadow-soft)*1.1px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*.6px) calc(var(--shadow-soft)*1.2px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*1.2px) calc(var(--shadow-soft)*1.4px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*2.4px) calc(var(--shadow-soft)*1.6px) rgba(0,0,0,.1)}[style*=\"--shadow-hard:\"]{box-shadow:0 calc(var(--shadow-hard)*.75px) calc(var(--shadow-hard)*1.3px) rgba(0,0,0,calc(var(--shadow-hard)*.12))}[style*=\"--shadow-vert:\"]{box-shadow:0 calc(var(--shadow-vert)*1.4px) calc(var(--shadow-vert)*2px) calc(var(--shadow-vert)*-1.7px) rgba(0,0,0,calc(var(--shadow-vert)*.12))}[style*=\"--shadow-inset:\"]{box-shadow:inset 0 calc(var(--shadow-inset)*.1px) calc(var(--shadow-inset)*.2px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.2px) calc(var(--shadow-inset)*.4px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.4px) calc(var(--shadow-inset)*.8px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.8px) calc(var(--shadow-inset)*1.6px) rgba(0,0,0,calc(var(--shadow-inset)*.02))}[style*=\"--shadow-hvr:\"]{transition:var(--transition)}[style*=\"--shadow-hvr:\"]:focus,[style*=\"--shadow-hvr:\"]:hover{box-shadow:0 calc(var(--shadow-hvr)*.1px) calc(var(--shadow-hvr)*.2px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.2px) calc(var(--shadow-hvr)*.4px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.4px) calc(var(--shadow-hvr)*.8px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.8px) calc(var(--shadow-hvr)*1.6px) rgba(0,0,0,calc(var(--shadow-hvr)*.02))}[style*=\"--px:\"]{-webkit-padding-start:var(--px);padding-inline-start:var(--px);-webkit-padding-end:var(--px);padding-inline-end:var(--px)}[style*=\"--py:\"]{-webkit-padding-before:var(--py);padding-block-start:var(--py);-webkit-padding-after:var(--py);padding-block-end:var(--py)}[style*=\"--mx:\"]{-webkit-margin-start:var(--mx);margin-inline-start:var(--mx);-webkit-margin-end:var(--mx);margin-inline-end:var(--mx)}[style*=\"--my:\"]{-webkit-margin-before:var(--my);margin-block-start:var(--my);-webkit-margin-after:var(--my);margin-block-end:var(--my)}[style*=\"--rotate:\"],[style*=\"--scale:\"],[style*=\"--skew:\"],[style*=\"--translate:\"],[style*=\"--translatex:\"],[style*=\"--translatey:\"]{transform:translate(var(--translate,0)) translateX(var(--translatex,0)) translateY(var(--translatey,0)) scale(var(--scale,100%)) rotate(var(--rotate,0)) skew(var(--skew,0))}[style*=\"--rotate-hvr:\"],[style*=\"--scale-hvr:\"],[style*=\"--skew-hvr:\"],[style*=\"--translate-hvr:\"],[style*=\"--translatex-hvr:\"],[style*=\"--translatey-hvr:\"]{transition:var(--transition)}[style*=\"--rotate-hvr:\"]:hover,[style*=\"--scale-hvr:\"]:hover,[style*=\"--skew-hvr:\"]:hover,[style*=\"--translate-hvr:\"]:hover,[style*=\"--translatex-hvr:\"]:hover,[style*=\"--translatey-hvr:\"]:hover{transform:translate(var(--translate-hvr,0)) translateX(var(--translatex-hvr,0)) translateY(var(--translatey-hvr,0)) scale(var(--scale-hvr,100%)) rotate(var(--rotate-hvr,0)) skew(var(--skew-hvr,0))}[style*=\"--line-clamp:\"]{display:-webkit-box;-webkit-line-clamp:var(--line-clamp);-webkit-box-orient:vertical;overflow:hidden}[style*=\"--text-3d:\"]{text-shadow:6px 6px 10px hsla(0,0%,100%,.1),6px 6px var(--text-3d),5.75px 5.75px var(--text-3d),5.5px 5.5px var(--text-3d),5.25px 5.25px var(--text-3d),5px 5px var(--text-3d),4.75px 4.75px var(--text-3d),4.5px 4.5px var(--text-3d),4.25px 4.25px var(--text-3d),4px 4px var(--text-3d),3.75px 3.75px var(--text-3d),3.5px 3.5px var(--text-3d),3.25px 3.25px var(--text-3d),3px 3px var(--text-3d),2.75px 2.75px var(--text-3d),2.5px 2.5px var(--text-3d),2.25px 2.25px var(--text-3d),2px 2px var(--text-3d),1.75px 1.75px var(--text-3d),1.5px 1.5px var(--text-3d),1.25px 1.25px var(--text-3d),1px 1px var(--text-3d),.75px .75px var(--text-3d),.5px .5px var(--text-3d),.25px .25px var(--text-3d)}@media only screen and (min-width:640px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-sm)}}@media only screen and (min-width:768px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-md)}}@media only screen and (min-width:1024px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-lg)}}@media only screen and (min-width:1280px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-xl)}}\n\n.kard {\n display:flex;\n justify-content:center;\n text-align:center;\n}\n\n.kard-body {\n\tmargin-top:100px;\n  min-width:500px;\n  border-radius:10px;\n  padding-bottom:10px\n}\n\n.vn {\n\tfont-size:32px\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.en {\n\tfont-size:26px\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.target {\n\t\tcolor:rgb(255,130,255);\n\t\tfont-weight: 600;\n\t\t# border-bottom: 1px solid rgb(255,130,255);\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Sentence",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 32,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Target",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Target Meaning",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Target Audio",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Sentence Audio",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "VN (and reversed typed with Audio) Phrase Cards",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1,
+                        2,
+                        4
+                    ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        1,
+                        3,
+                        4
+                    ]
+                ],
+                [
+                    3,
+                    "any",
+                    [
+                        0,
+                        4
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"vn target\">{{Target}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t</div>\n</div>\n\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Meaning",
+                    "ord": 0,
+                    "qfmt": "<div style='display: none' id=\"sentence\">{{Sentence}}</div>\n<div style='display: none' id=\"target\">{{Target}}</div>\n\n<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Target Meaning</h5>\n\t\t<div class=\"vn\" id=\"content\"></div>\n\t</div>\n</div>\n\n\n<script>\nvar lookup={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var attrRE=/\\s([^'\"/\\s><]+?)[\\s/>]|([^\\s=]+)=\\s?(\".*?\"|'.*?')/g;function parseTag(tag){var res={type:\"tag\",name:\"\",voidElement:!1,attrs:{},children:[]};var tagMatch=tag.match(/<\\/?([^\\s]+?)[/\\s>]/);if(tagMatch){res.name=tagMatch[1];if(lookup[tagMatch[1]]||tag.charAt(tag.length-2)===\"/\"){res.voidElement=!0}\nif(res.name.startsWith(\"!--\")){var endIndex=tag.indexOf(\"-->\");return{type:\"comment\",comment:endIndex!==-1?tag.slice(4,endIndex):\"\"}}}\nvar reg=new RegExp(attrRE);var result=null;for(;;){result=reg.exec(tag);if(result===null){break}\nif(!result[0].trim()){continue}\nif(result[1]){var attr=result[1].trim();var arr=[attr,\"\"];if(attr.indexOf(\"=\")>-1){arr=attr.split(\"=\")}\nres.attrs[arr[0]]=arr[1];reg.lastIndex--}else if(result[2]){res.attrs[result[2]]=result[3].trim().substring(1,result[3].length-1)}}\nreturn res}\nvar tagRE=/<[a-zA-Z0-9\\-\\!\\/](?:\"[^\"]*\"|'[^']*'|[^'\">])*>/g;var whitespaceRE=/^\\s*$/;var empty=Object.create(null);function parse(html,options){options||(options={});options.components||(options.components=empty);var result=[];var arr=[];var current;var level=-1;var inComponent=!1;if(html.indexOf(\"<\")!==0){var end=html.indexOf(\"<\");result.push({type:\"text\",content:end===-1?html:html.substring(0,end)})}\nhtml.replace(tagRE,function(tag,index){if(inComponent){if(tag!==\"</\"+current.name+\">\"){return}else{inComponent=!1}}\nvar isOpen=tag.charAt(1)!==\"/\";var isComment=tag.startsWith(\"<!--\");var start=index+tag.length;var nextChar=html.charAt(start);var parent;if(isComment){var comment=parseTag(tag);if(level<0){result.push(comment);return result}\nparent=arr[level];parent.children.push(comment);return result}\nif(isOpen){level++;current=parseTag(tag);if(current.type===\"tag\"&&options.components[current.name]){current.type=\"component\";inComponent=!0}\nif(!current.voidElement&&!inComponent&&nextChar&&nextChar!==\"<\"){current.children.push({type:\"text\",content:html.slice(start,html.indexOf(\"<\",start))})}\nif(level===0){result.push(current)}\nparent=arr[level-1];if(parent){parent.children.push(current)}\narr[level]=current}\nif(!isOpen||current.voidElement){if(level>-1&&(current.voidElement||current.name===tag.slice(2,-1))){level--;current=level===-1?result:arr[level]}\nif(!inComponent&&nextChar!==\"<\"&&nextChar){parent=level===-1?result:arr[level].children;var _end=html.indexOf(\"<\",start);var content=html.slice(start,_end===-1?undefined:_end);if(whitespaceRE.test(content)){content=\" \"}\nif((_end>-1&&level+parent.length>=0)||content!==\" \"){parent.push({type:\"text\",content:content})}}}});return result}\nfunction attrString(attrs){var buff=[];for(var key in attrs){buff.push(key+'=\"'+attrs[key]+'\"')}\nif(!buff.length){return\"\"}\nreturn\" \"+buff.join(\" \")}\nfunction innerStringify(buff,doc){switch(doc.type){case \"text\":return buff+doc.content;case \"tag\":buff+=\"<\"+doc.name+(doc.attrs?attrString(doc.attrs):\"\")+(doc.voidElement?\"/>\":\">\");if(doc.voidElement){return buff}\nreturn buff+doc.children.reduce(innerStringify,\"\")+\"</\"+doc.name+\">\";case \"comment\":buff+=\"<!--\"+doc.comment+\"-->\";return buff}}\nfunction stringify(doc){return doc.reduce(function(token,rootEl){return token+innerStringify(\"\",rootEl)},\"\")}\nfunction checkNodes(arr,target){var isWrapper=target.includes(\" ... \");for(var x=0;x<arr.length;x++){var elem=arr[x];if(elem.type==\"text\"){if(isWrapper){var targets=target.split(\" ... \");var left=targets[0];var right=targets[1];if(elem.content.includes(left)&&elem.content.includes(right)){arr[x].content=elem.content.replace(left,createTargetTag(left)).replace(right,createTargetTag(right))}}\nif(elem.content.includes(target)){arr[x].content=elem.content.replace(target,createTargetTag(target))}}\nif(elem.type==\"tag\"&&elem.children.length>0)checkNodes(elem.children,target)}}\nfunction createTargetTag(target){return stringify([{type:\"tag\",name:\"span\",voidElement:!1,attrs:{class:\"target\"},children:[{type:\"text\",content:target}]}])}\nvar words=parse(document.getElementById(\"sentence\").innerHTML);checkNodes(words,document.getElementById(\"target\").innerHTML);document.getElementById(\"content\").innerHTML=stringify(words)\n</script>\n\n"
+                },
+                {
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Target}}</div>\n\t</div>\n</div>\n\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Type Target",
+                    "ord": 1,
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t{{#Sentence Audio}}{{hint::Sentence Audio}}{{/Sentence Audio}}\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
+                },
+                {
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t{{Target Audio}}\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Target}}</div>\n\t</div>\n</div>\n\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Type Target from Audio",
+                    "ord": 2,
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t<div class=\"en\">Play Sentence {{Sentence Audio}}</div>\n\t\t<div class=\"en\">Play Target{{Target Audio}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
+                },
+                {
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t{{Sentence Audio}}\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Sentence}}</div>\n\t</div>\n</div>\n\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Type Sentence from Audio",
+                    "ord": 3,
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Sentence</h5>\n\t\t{{Sentence Audio}}\n\t</div>\n</div>\n{{type:Sentence}}\n\n"
                 }
             ],
             "type": 0
