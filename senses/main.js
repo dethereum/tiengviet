@@ -10,6 +10,7 @@ const PHRASE_MODEL_UUID = "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6"
 const dictionary = vntk.dictionary();
 const vocab = deck['children'][2]['notes']
 
+// THESE VIET WORDS ARE DELETED IN THE DECK NOW
 const blacklist = [
     'thư giãn',
     'chảnh'
@@ -88,6 +89,11 @@ for (let index = 0; index < vocab.length; index++) {
             console.log(`MISS FOR ${note.fields[0]}`)
             note.tags.push('tiengviet::meta::missed_by_vntk')
         }
+    }
+
+    // if note is for proper noun tag it with one meaning
+    if (note.fields[2] == "proper_noun") {
+        note.tags.push('tiengviet::meta::meaning::monosemous')
     }
 
     note.tags = [...new Set(note.tags.map((tag) => tag == 'tiengviet::meta::processed' ? 'tiengviet::meta::processed_by_vntk' : tag))]
