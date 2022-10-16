@@ -5129,32 +5129,15 @@
                 "rec1664439769.mp3",
                 "rec1664439776.mp3",
                 "rec1664439779.mp3",
-                "rec1664619683.mp3"
+                "rec1664619683.mp3",
+                "rec1665913752.mp3",
+                "rec1665913778.mp3",
+                "rec1665913793.mp3",
+                "rec1665914131.mp3",
+                "rec1665914244.mp3"
             ],
             "name": "void",
             "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ông",
-                        "grandpa",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664101654.mp3]",
-                        "rec1664101654.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "FgIE7k2r2<",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::5"
-                    ]
-                },
                 {
                     "__type__": "Note",
                     "fields": [
@@ -9109,88 +9092,47 @@
                     "fields": [
                         "ông nội",
                         "ông",
-                        "người đàn ông sinh ra hoặc thuộc thế hệ sinh ra cha hoặc mẹ [có thể dùng để xưng gọi]",
+                        "paternal grandpa",
                         "[sound:rec1664101654.mp3]",
-                        ""
+                        "[sound:rec1665913793.mp3]"
                     ],
                     "guid": "ijOX26AWj9",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ông giáo",
-                        "ông",
-                        "từ dùng để chỉ hoặc gọi người đàn ông đứng tuổi hoặc được kính trọng",
+                        "Em có một ông anh sống ở Mỹ.",
+                        "ông anh",
+                        "(noun) to refer to an \"anh\" in a casual way",
                         "[sound:rec1664101654.mp3]",
-                        ""
-                    ],
-                    "guid": "MKZj27H7rt",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "mày sẽ biết tay ông!",
-                        "ông",
-                        "từ người đàn ông dùng để tự xưng khi tức giận, muốn tỏ vẻ trịch thượng hoặc hách dịch",
-                        "[sound:rec1664101654.mp3]",
-                        ""
-                    ],
-                    "guid": "U1jnd01iFW",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ông anh vợ",
-                        "ông",
-                        "từ dùng để gọi người đàn ông ngang hàng hoặc hàng dưới một cách thân mật",
-                        "[sound:rec1664101654.mp3]",
-                        ""
+                        "[sound:rec1665914131.mp3]"
                     ],
                     "guid": "Z55yMGrOQP",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Tại sao ông trời làm thế với em?!",
                         "ông trời",
-                        "ông",
-                        "từ dùng để gọi tôn vật được sùng bái hay kiêng sợ",
+                        "a higher power",
                         "[sound:rec1664101654.mp3]",
-                        ""
+                        "[sound:rec1665914244.mp3]"
                     ],
                     "guid": "bE6sV1MOgh",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -23177,6 +23119,38 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chăm",
                         "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ông ơi, hôm nay tôi không gặp ông được.",
+                        "ông",
+                        "pronouns used to call a male between friends who are exactly the same age&nbsp;",
+                        "[sound:rec1664101654.mp3]",
+                        "[sound:rec1665913778.mp3]"
+                    ],
+                    "guid": "l;x`|`i%0I",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::ông",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ông ngoại",
+                        "ông ngoại",
+                        "maternal grandpa",
+                        "[sound:rec1664101654.mp3]",
+                        "[sound:rec1665913752.mp3]"
+                    ],
+                    "guid": "uSn(>W9xZ`",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::ông",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 }
