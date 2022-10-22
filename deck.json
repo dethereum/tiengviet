@@ -9445,24 +9445,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ông chú bà thím",
-                        "chú",
-                        "em trai của cha [có thể dùng để xưng gọi]",
-                        "[sound:rec1664101692.mp3]",
-                        ""
-                    ],
-                    "guid": "0dv3pliG7F",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "chú bộ đội",
                         "chú",
                         "từ thiếu nhi dùng để chỉ hoặc gọi người đàn ông đáng bậc chú mình, với ý yêu mến, kính trọng",
@@ -9481,78 +9463,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chú bé thật láu lỉnh",
-                        "chú",
-                        "từ dùng để chỉ một cậu bé với ý yêu mến, thân mật",
-                        "[sound:rec1664101692.mp3]",
-                        ""
-                    ],
-                    "guid": "AARisc788C",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chú tiểu",
-                        "chú",
-                        "từ dùng để chỉ người con trai hoặc người đàn ông trẻ tuổi",
-                        "[sound:rec1664101692.mp3]",
-                        ""
-                    ],
-                    "guid": "PHRVVo2AXC",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chú dế mèn",
-                        "chú",
-                        "từ dùng để chỉ con vật theo lối nhân cách hoá, với ý hài hước",
-                        "[sound:rec1664101692.mp3]",
-                        ""
-                    ],
-                    "guid": "c4B5KVkUpO",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "mời chú uống nước",
-                        "chú",
-                        "từ dùng trong đối thoại để gọi người đàn ông coi như bậc chú của mình với ý yêu mến, kính trọng, hoặc để người đàn ông tự xưng một cách thân mật với người coi như hàng cháu của mình",
-                        "[sound:rec1664101692.mp3]",
-                        ""
-                    ],
-                    "guid": "Suj58JtB3m",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "chị báo cho chú biết tin này",
                         "chú",
                         "từ người đàn ông dùng trong đối thoại để gọi em trai [hay người phụ nữ dùng để gọi em trai chồng] đã lớn tuổi với ý coi trọng, hoặc để gọi một cách thân mật người đàn ông khác coi như vai em của mình [gọi theo cách gọi của con mình]",
@@ -9560,42 +9470,6 @@
                         ""
                     ],
                     "guid": "yloQRg6qtl",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tay ấn, miệng chú",
-                        "chú",
-                        "niệm thần chú",
-                        "[sound:rec1664101692.mp3]",
-                        ""
-                    ],
-                    "guid": "2Ih5Ix1CQn",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chú thêm cách đọc một từ nước ngoài",
-                        "chú",
-                        "ghi phụ thêm để làm cho rõ",
-                        "[sound:rec1664101692.mp3]",
-                        ""
-                    ],
-                    "guid": "dV-LQkxsfG",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
@@ -9913,42 +9787,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "hai ông cháu",
-                        "cháu",
-                        "người thuộc một thế hệ sau nhưng không phải là con, trong quan hệ với người thuộc thế hệ trước [có thể dùng để xưng gọi]",
-                        "[sound:rec1664101713.mp3]",
-                        ""
-                    ],
-                    "guid": "v24HAbHNHC",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cháu",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cháu xin ông tha lỗi",
-                        "cháu",
-                        "từ dùng trong đối thoại để gọi thân mật người coi như hàng cháu của mình, hoặc để tự xưng với người mình kính trọng, coi như bậc ông bà, chú bác của mình",
-                        "[sound:rec1664101713.mp3]",
-                        ""
-                    ],
-                    "guid": "GgSFzT4dsk",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cháu",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "anh chị được mấy cháu?",
                         "cháu",
                         "từ dùng trong đối thoại để chỉ con mình hoặc con người khác, còn nhỏ hoặc còn trẻ, coi như hàng cháu của mình hoặc của người cùng đối thoại với mình",
@@ -10068,24 +9906,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ơi",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bẫy chuột",
-                        "chuột",
-                        "thú gặm nhấm, mõm nhọn, tai bầu dục, đuôi thon dài, thường phá hại mùa màng và có thể truyền bệnh dịch hạch",
-                        "[sound:rec1664101736.mp3]",
-                        ""
-                    ],
-                    "guid": "c2CHcnh8Bo",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chuột",
                         "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
@@ -12044,24 +11864,6 @@
                         ""
                     ],
                     "guid": "DVGCoIiFru",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chán",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "vở kịch xem quá chán",
-                        "chán",
-                        "có tác dụng làm cho người ta chán",
-                        "[sound:rec1664101961.mp3]",
-                        ""
-                    ],
-                    "guid": "KZPN6QWa7-",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
@@ -17743,42 +17545,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "trời chưa sáng",
-                        "chưa",
-                        "từ biểu thị ý phủ định điều được nói đến là không có hoặc không xảy ra cho đến hiện tại hoặc đến một thời điểm nào đó được xem là mốc, trong quá khứ hoặc tương lai [nhưng sau đó có thể xảy ra]",
-                        "[sound:rec1664342733.mp3]",
-                        ""
-                    ],
-                    "guid": "okQYk_sxkl",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chưa",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tìm thấy nó chưa?",
-                        "chưa",
-                        "từ biểu thị ý muốn hỏi về điều mà cho đến một thời điểm được xác định nào đó không biết có xảy ra hay không",
-                        "[sound:rec1664342733.mp3]",
-                        ""
-                    ],
-                    "guid": "A3JYwj8YdL",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chưa",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "khổ thân chưa!",
                         "chưa",
                         "từ biểu thị ý khẳng định về một điều mà người nói cho là đã có biểu hiện hay tác động rõ ràng, và nêu ra như muốn hỏi lại để được sự đồng tình, đồng ý của người nghe",
@@ -20209,61 +19975,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "dưa chua",
-                        "chua",
-                        "có vị như vị của chanh, giấm",
-                        "[sound:rec1664343005.mp3]",
-                        ""
-                    ],
-                    "guid": "OF-xL0hKwv",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chua",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đồng chua nước mặn",
-                        "chua",
-                        "[đất trồng] có chứa nhiều chất acid",
-                        "[sound:rec1664343005.mp3]",
-                        ""
-                    ],
-                    "guid": "Y598GRMDKT",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chua",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "mùi chua của bỗng rượu",
-                        "chua",
-                        "có mùi của chất lên men như mùi của giấm",
-                        "[sound:rec1664343005.mp3]",
-                        ""
-                    ],
-                    "guid": "nfjQaYVK6N",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chua",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "giọng chua như mẻ",
+                        "giọng chua",
                         "chua",
                         "[giọng nói] cao the thé, nghe khó chịu",
                         "[sound:rec1664343005.mp3]",
@@ -23082,24 +22794,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "học rất chăm",
-                        "chăm",
-                        "có sự chú ý thường xuyên làm công việc gì đó [thường là việc có ích] một cách đều đặn",
-                        "[sound:rec1664342948.mp3]",
-                        ""
-                    ],
-                    "guid": "QbpkPTYbqq",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chăm",
                         "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
