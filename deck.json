@@ -1720,6 +1720,8 @@
                 "rec1664102082.mp3",
                 "rec1664102110.mp3",
                 "rec1664102115.mp3",
+                "rec1664102123.mp3",
+                "rec1664102186.mp3",
                 "rec1664102195.mp3",
                 "rec1664102200.mp3",
                 "rec1664102204.mp3",
@@ -1807,6 +1809,17 @@
                 "rec1666434325.mp3",
                 "rec1666434330.mp3",
                 "rec1666690777.mp3",
+                "rec1666690834.mp3",
+                "rec1666690954.mp3",
+                "rec1666691356.mp3",
+                "rec1666691362.mp3",
+                "rec1666691449.mp3",
+                "rec1666691748.mp3",
+                "rec1666691928.mp3",
+                "rec1666692101.mp3",
+                "rec1666692581.mp3",
+                "rec1666692596.mp3",
+                "rec1666692656.mp3",
                 "rec1666693009.mp3"
             ],
             "name": "phrases",
@@ -2739,6 +2752,159 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Anh biết chị ý.",
+                        "biết",
+                        "to know someone",
+                        "[sound:rec1664102123.mp3]",
+                        "[sound:rec1666690834.mp3]",
+                        "I know her."
+                    ],
+                    "guid": "ZygarEOnyB",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::biết",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh không biết nấu ăn.&nbsp;",
+                        "biết",
+                        "to know how to do something",
+                        "[sound:rec1664102123.mp3]",
+                        "[sound:rec1666690954.mp3]",
+                        "I don't know how to cook."
+                    ],
+                    "guid": "VP_1VmqJH3",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::biết",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ông ý rất biết nhìn người.",
+                        "biết nhìn người",
+                        "to be able to read people&nbsp;",
+                        "[sound:rec1666691356.mp3]",
+                        "[sound:rec1666691362.mp3]",
+                        "He really knows how to read people."
+                    ],
+                    "guid": "dD7sTGAYuW",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::biết",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chị ý đang buồn vì mới chia tay bạn trai.",
+                        "buồn",
+                        "sad",
+                        "[sound:rec1664102186.mp3]",
+                        "[sound:rec1666691449.mp3]",
+                        "She's sad because she just broke up with her boyfriend.&nbsp;"
+                    ],
+                    "guid": "DDCzCgwd1b",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::buồn",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Con buồn đi vệ sinh không?",
+                        "buồn",
+                        "to have the urge to pee/take a dump&nbsp;",
+                        "[sound:rec1664102186.mp3]",
+                        "[sound:rec1666691748.mp3]",
+                        "Do you feel like going to the bathroom?"
+                    ],
+                    "guid": "EZSRwqhxih",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::buồn",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em ý chẳng buồn ăn vì bố em ý mới mất.",
+                        "chẳng buồn&nbsp;",
+                        "to not have the desire to do something because you're sad/depressed/exhausted",
+                        "[sound:rec1664102186.mp3]",
+                        "[sound:rec1666691928.mp3]",
+                        "She has no desire to eat because her dad recently passed away."
+                    ],
+                    "guid": "XuccuaFUsD",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::buồn",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chuyến đi đấy là một kỉ niệm buồn.",
+                        "buồn",
+                        "sad (for things)",
+                        "[sound:rec1664102186.mp3]",
+                        "[sound:rec1666692101.mp3]",
+                        "That trip was a sad memory.&nbsp;"
+                    ],
+                    "guid": "v9_FypwjiM",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::buồn",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em hay bị buồn chân buồn tay.&nbsp;",
+                        "buồn",
+                        "a physical compulsion to do something&nbsp;",
+                        "[sound:rec1666692581.mp3]",
+                        "[sound:rec1666692596.mp3]",
+                        "I often have a physical compulsion to move."
+                    ],
+                    "guid": "i4U6P1LBbj",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::buồn",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em không bao giờ đi mát xa chân vì em bị buồn.",
+                        "buồn",
+                        "ticklish",
+                        "[sound:rec1664102186.mp3]",
+                        "[sound:rec1666692656.mp3]",
+                        "I never get a foot massage because I'm ticklish.&nbsp;"
+                    ],
+                    "guid": "Ke7sVC5fac",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::buồn",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "bao giờ thì mình đi?",
                         "bao giờ",
                         "when?",
@@ -2802,7 +2968,6 @@
                     "guid": "JfIV_UunFx",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::marked_for_correction",
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bi_quan",
                         "tiengviet::meta::processed_by_vntk"
@@ -5371,7 +5536,6 @@
                 "rec1664102095.mp3",
                 "rec1664102099.mp3",
                 "rec1664102119.mp3",
-                "rec1664102123.mp3",
                 "rec1664102126.mp3",
                 "rec1664102129.mp3",
                 "rec1664102133.mp3",
@@ -5387,7 +5551,6 @@
                 "rec1664102171.mp3",
                 "rec1664102179.mp3",
                 "rec1664102183.mp3",
-                "rec1664102186.mp3",
                 "rec1664102230.mp3",
                 "rec1664102235.mp3",
                 "rec1664102268.mp3",
@@ -5497,17 +5660,6 @@
                 "rec1664439776.mp3",
                 "rec1664439779.mp3",
                 "rec1664619683.mp3",
-                "rec1666690834.mp3",
-                "rec1666690954.mp3",
-                "rec1666691356.mp3",
-                "rec1666691362.mp3",
-                "rec1666691449.mp3",
-                "rec1666691748.mp3",
-                "rec1666691928.mp3",
-                "rec1666692101.mp3",
-                "rec1666692581.mp3",
-                "rec1666692596.mp3",
-                "rec1666692656.mp3",
                 "rec1666693285.mp3",
                 "rec1666693291.mp3",
                 "rec1666693323.mp3",
@@ -12878,57 +13030,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Anh biết chị ý.",
-                        "biết",
-                        "to know someone",
-                        "[sound:rec1664102123.mp3]",
-                        "[sound:rec1666690834.mp3]",
-                        "I know her."
-                    ],
-                    "guid": "ZygarEOnyB",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::biết",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh không biết nấu ăn.&nbsp;",
-                        "biết",
-                        "to know how to do something",
-                        "[sound:rec1664102123.mp3]",
-                        "[sound:rec1666690954.mp3]",
-                        "I don't know how to cook."
-                    ],
-                    "guid": "VP_1VmqJH3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::biết",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Ông ý rất biết nhìn người.",
-                        "biết nhìn người",
-                        "to be able to read people&nbsp;",
-                        "[sound:rec1666691356.mp3]",
-                        "[sound:rec1666691362.mp3]",
-                        "He really knows how to read people."
-                    ],
-                    "guid": "dD7sTGAYuW",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::biết",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "tiền giấy",
                         "tiền",
                         "vật đúc bằng kim loại hay in bằng giấy do ngân hàng nhà nước phát hành, dùng làm đơn vị tiền tệ [nói khái quát]",
@@ -15127,108 +15228,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::vui",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chị ý đang buồn vì mới chia tay bạn trai.",
-                        "buồn",
-                        "sad",
-                        "[sound:rec1664102186.mp3]",
-                        "[sound:rec1666691449.mp3]",
-                        "She's sad because she just broke up with her boyfriend.&nbsp;"
-                    ],
-                    "guid": "DDCzCgwd1b",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::buồn",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Con buồn đi vệ sinh không?",
-                        "buồn",
-                        "to have the urge to pee/take a dump&nbsp;",
-                        "[sound:rec1664102186.mp3]",
-                        "[sound:rec1666691748.mp3]",
-                        "Do you feel like going to the bathroom?"
-                    ],
-                    "guid": "EZSRwqhxih",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::buồn",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em ý chẳng buồn ăn vì bố em ý mới mất.",
-                        "chẳng buồn&nbsp;",
-                        "to not have the desire to do something because you're sad/depressed/exhausted",
-                        "[sound:rec1664102186.mp3]",
-                        "[sound:rec1666691928.mp3]",
-                        "She has no desire to eat because her dad recently passed away."
-                    ],
-                    "guid": "XuccuaFUsD",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::buồn",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chuyến đi đấy là một kỉ niệm buồn.",
-                        "buồn",
-                        "sad (for things)",
-                        "[sound:rec1664102186.mp3]",
-                        "[sound:rec1666692101.mp3]",
-                        "That trip was a sad memory.&nbsp;"
-                    ],
-                    "guid": "v9_FypwjiM",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::buồn",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em hay bị buồn chân buồn tay.&nbsp;",
-                        "buồn",
-                        "a physical compulsion to do something&nbsp;",
-                        "[sound:rec1666692581.mp3]",
-                        "[sound:rec1666692596.mp3]",
-                        "I often have a physical compulsion to move."
-                    ],
-                    "guid": "i4U6P1LBbj",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::buồn",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em không bao giờ đi mát xa chân vì em bị buồn.",
-                        "buồn",
-                        "ticklish",
-                        "[sound:rec1664102186.mp3]",
-                        "[sound:rec1666692656.mp3]",
-                        "I never get a foot massage because I'm ticklish.&nbsp;"
-                    ],
-                    "guid": "Ke7sVC5fac",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::buồn",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
