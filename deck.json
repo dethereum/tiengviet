@@ -1691,6 +1691,8 @@
                 "rec1664018686.mp3",
                 "rec1664018858.mp3",
                 "rec1664018871.mp3",
+                "rec1664101654.mp3",
+                "rec1664101664.mp3",
                 "rec1664101811.mp3",
                 "rec1664101818.mp3",
                 "rec1664101831.mp3",
@@ -1768,16 +1770,42 @@
                 "rec1664342584.mp3",
                 "rec1664342589.mp3",
                 "rec1664342593.mp3",
+                "rec1664342766.mp3",
                 "rec1664439078.mp3",
                 "rec1664439082.mp3",
                 "rec1664439088.mp3",
                 "rec1664439110.mp3",
+                "rec1664439497.mp3",
                 "rec1664621196.mp3",
                 "rec1664621524.mp3",
                 "rec1664621564.mp3",
                 "rec1664621645.mp3",
                 "rec1664621661.mp3",
-                "rec1664621738.mp3"
+                "rec1664621738.mp3",
+                "rec1665913752.mp3",
+                "rec1665913778.mp3",
+                "rec1665913793.mp3",
+                "rec1665914131.mp3",
+                "rec1665914244.mp3",
+                "rec1666432205.mp3",
+                "rec1666432279.mp3",
+                "rec1666432413.mp3",
+                "rec1666432773.mp3",
+                "rec1666432871.mp3",
+                "rec1666432923.mp3",
+                "rec1666433154.mp3",
+                "rec1666433159.mp3",
+                "rec1666433311.mp3",
+                "rec1666433315.mp3",
+                "rec1666433533.mp3",
+                "rec1666433676.mp3",
+                "rec1666433722.mp3",
+                "rec1666433813.mp3",
+                "rec1666433818.mp3",
+                "rec1666434133.mp3",
+                "rec1666434140.mp3",
+                "rec1666434325.mp3",
+                "rec1666434330.mp3"
             ],
             "name": "phrases",
             "notes": [
@@ -2548,6 +2576,303 @@
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ông nội",
+                        "ông",
+                        "paternal grandpa",
+                        "[sound:rec1664101654.mp3]",
+                        "[sound:rec1665913793.mp3]",
+                        ""
+                    ],
+                    "guid": "ijOX26AWj9",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::ông",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em có một ông anh sống ở Mỹ.",
+                        "ông anh",
+                        "(noun) to refer to an \"anh\" in a casual way",
+                        "[sound:rec1664101654.mp3]",
+                        "[sound:rec1665914131.mp3]",
+                        ""
+                    ],
+                    "guid": "Z55yMGrOQP",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::ông",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tại sao ông trời làm thế với em?!",
+                        "ông trời",
+                        "a higher power",
+                        "[sound:rec1664101654.mp3]",
+                        "[sound:rec1665914244.mp3]",
+                        ""
+                    ],
+                    "guid": "bE6sV1MOgh",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::ông",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Đây là anh ruột của em.",
+                        "anh",
+                        "your actual older brother",
+                        "[sound:rec1666432871.mp3]",
+                        "[sound:rec1666432923.mp3]",
+                        "This is my older brother."
+                    ],
+                    "guid": "kMsPbfQuaU",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::anh",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Có mấy anh công nhân đang hút thuốc.",
+                        "anh",
+                        "a classifier for some specific nouns",
+                        "[sound:rec1666433154.mp3]",
+                        "[sound:rec1666433159.mp3]",
+                        "There are some workers smoking."
+                    ],
+                    "guid": "tXnsMIzznZ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::anh",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh cần bao nhiêu thời gian?",
+                        "bao nhiêu",
+                        "how much/how many",
+                        "[sound:rec1666433813.mp3]",
+                        "[sound:rec1666433818.mp3]",
+                        "How much time do you need?"
+                    ],
+                    "guid": "3RYe835r6m",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bao_nhiêu",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em có bao nhiêu là thứ để học nhưng mà không có đủ thời gian.",
+                        "bao nhiêu là",
+                        "to emphasise the amount/quantity of something (used with a noun)",
+                        "[sound:rec1666434140.mp3]",
+                        "[sound:rec1666434133.mp3]",
+                        "I've got soooo much stuff to study but not enough time."
+                    ],
+                    "guid": "EL6BXUEBPB",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bao_nhiêu",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ai cũng được",
+                        "ai",
+                        "whoever&nbsp;",
+                        "[sound:rec1664101664.mp3]",
+                        "[sound:rec1666432205.mp3]",
+                        "Whoever is okay/fine."
+                    ],
+                    "guid": "53Q86QZjxu",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::ai",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ai biết đâu đấy!",
+                        "ai",
+                        "who (to refer to a random person, can be anyone, even yourself but you don't wanna say; not used as question)",
+                        "[sound:rec1666432413.mp3]",
+                        "[sound:rec1666432279.mp3]",
+                        "Who knows!"
+                    ],
+                    "guid": "qfCf37pd-D",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::ai",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bao giờ thì mình đi?",
+                        "bao giờ",
+                        "when?",
+                        "[sound:rec1666433311.mp3]",
+                        "[sound:rec1666433315.mp3]",
+                        "so when will we go?"
+                    ],
+                    "guid": "YbuvI4uluB",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::bao_giờ",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "hết từ bao giờ rồi còn hỏi!",
+                        "bao giờ",
+                        "been a long time / been forever",
+                        "[sound:rec1664342766.mp3]",
+                        "[sound:rec1666433533.mp3]",
+                        "We've run out of that since forever and now you're still asking!&nbsp;"
+                    ],
+                    "guid": "T67BLGt-IF",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::bao_giờ",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh ý không to tiếng với ai bao giờ.",
+                        "không ... bao giờ",
+                        "don't ... ever",
+                        "[sound:rec1666433722.mp3]",
+                        "[sound:rec1666433676.mp3]",
+                        "He doesn't yell at anyone ever."
+                    ],
+                    "guid": "O7ukQDg2CP",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bao_giờ",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "thái độ bi quan",
+                        "bi quan",
+                        "có cách nhìn nặng nề về mặt tiêu cực, không tin tưởng ở sự phát triển theo hướng tốt, ở tương lai",
+                        "[sound:rec1664439497.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "JfIV_UunFx",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::marked_for_correction",
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::bi_quan",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tình thế rất bi quan",
+                        "bi quan",
+                        "dire&nbsp;",
+                        "[sound:rec1666434325.mp3]",
+                        "[sound:rec1666434330.mp3]",
+                        "The situation is dire.&nbsp;"
+                    ],
+                    "guid": "i-2ZE463hr",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::bi_quan",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ông ơi, hôm nay tôi không gặp ông được.",
+                        "ông",
+                        "pronouns used to call a male between friends who are exactly the same age&nbsp;",
+                        "[sound:rec1664101654.mp3]",
+                        "[sound:rec1665913778.mp3]",
+                        ""
+                    ],
+                    "guid": "l;x`|`i%0I",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::ông",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ông ngoại",
+                        "ông ngoại",
+                        "maternal grandpa",
+                        "[sound:rec1664101654.mp3]",
+                        "[sound:rec1665913752.mp3]",
+                        ""
+                    ],
+                    "guid": "uSn(>W9xZ`",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::ông",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Ai muốn ăn pizza?",
+                        "ai",
+                        "who?",
+                        "[sound:rec1664101664.mp3]",
+                        "[sound:rec1666432773.mp3]",
+                        "Who wants to eat pizza?"
+                    ],
+                    "guid": "H%<%{&&<cg",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::ai",
+                        "tiengviet::meta::processed_by_vntk"
                     ]
                 }
             ]
@@ -4998,8 +5323,6 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "rec1664101654.mp3",
-                "rec1664101664.mp3",
                 "rec1664101669.mp3",
                 "rec1664101674.mp3",
                 "rec1664101678.mp3",
@@ -5100,7 +5423,6 @@
                 "rec1664342749.mp3",
                 "rec1664342752.mp3",
                 "rec1664342756.mp3",
-                "rec1664342766.mp3",
                 "rec1664342771.mp3",
                 "rec1664342775.mp3",
                 "rec1664342779.mp3",
@@ -5160,7 +5482,6 @@
                 "rec1664439366.mp3",
                 "rec1664439489.mp3",
                 "rec1664439494.mp3",
-                "rec1664439497.mp3",
                 "rec1664439501.mp3",
                 "rec1664439526.mp3",
                 "rec1664439537.mp3",
@@ -5175,31 +5496,7 @@
                 "rec1664439769.mp3",
                 "rec1664439776.mp3",
                 "rec1664439779.mp3",
-                "rec1664619683.mp3",
-                "rec1665913752.mp3",
-                "rec1665913778.mp3",
-                "rec1665913793.mp3",
-                "rec1665914131.mp3",
-                "rec1665914244.mp3",
-                "rec1666432205.mp3",
-                "rec1666432279.mp3",
-                "rec1666432413.mp3",
-                "rec1666432773.mp3",
-                "rec1666432871.mp3",
-                "rec1666432923.mp3",
-                "rec1666433154.mp3",
-                "rec1666433159.mp3",
-                "rec1666433311.mp3",
-                "rec1666433315.mp3",
-                "rec1666433533.mp3",
-                "rec1666433676.mp3",
-                "rec1666433722.mp3",
-                "rec1666433813.mp3",
-                "rec1666433818.mp3",
-                "rec1666434133.mp3",
-                "rec1666434140.mp3",
-                "rec1666434325.mp3",
-                "rec1666434330.mp3"
+                "rec1664619683.mp3"
             ],
             "name": "void",
             "notes": [
@@ -9045,58 +9342,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ông nội",
-                        "ông",
-                        "paternal grandpa",
-                        "[sound:rec1664101654.mp3]",
-                        "[sound:rec1665913793.mp3]",
-                        ""
-                    ],
-                    "guid": "ijOX26AWj9",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em có một ông anh sống ở Mỹ.",
-                        "ông anh",
-                        "(noun) to refer to an \"anh\" in a casual way",
-                        "[sound:rec1664101654.mp3]",
-                        "[sound:rec1665914131.mp3]",
-                        ""
-                    ],
-                    "guid": "Z55yMGrOQP",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tại sao ông trời làm thế với em?!",
-                        "ông trời",
-                        "a higher power",
-                        "[sound:rec1664101654.mp3]",
-                        "[sound:rec1665914244.mp3]",
-                        ""
-                    ],
-                    "guid": "bE6sV1MOgh",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "bà nội",
                         "bà",
                         "người đàn bà sinh ra cha, mẹ hoặc cùng thế hệ với người sinh ra cha, mẹ [có thể dùng để xưng gọi]",
@@ -9452,40 +9697,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chú",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Đây là anh ruột của em.",
-                        "anh",
-                        "your actual older brother",
-                        "[sound:rec1666432871.mp3]",
-                        "[sound:rec1666432923.mp3]",
-                        "This is my older brother."
-                    ],
-                    "guid": "kMsPbfQuaU",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::anh",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Có mấy anh công nhân đang hút thuốc.",
-                        "anh",
-                        "a classifier for some specific nouns",
-                        "[sound:rec1666433154.mp3]",
-                        "[sound:rec1666433159.mp3]",
-                        "There are some workers smoking."
-                    ],
-                    "guid": "tXnsMIzznZ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::anh",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -11183,40 +11394,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Anh cần bao nhiêu thời gian?",
-                        "bao nhiêu",
-                        "how much/how many",
-                        "[sound:rec1666433813.mp3]",
-                        "[sound:rec1666433818.mp3]",
-                        "How much time do you need?"
-                    ],
-                    "guid": "3RYe835r6m",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bao_nhiêu",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em có bao nhiêu là thứ để học nhưng mà không có đủ thời gian.",
-                        "bao nhiêu là",
-                        "to emphasise the amount/quantity of something (used with a noun)",
-                        "[sound:rec1666434140.mp3]",
-                        "[sound:rec1666434133.mp3]",
-                        "I've got soooo much stuff to study but not enough time."
-                    ],
-                    "guid": "EL6BXUEBPB",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bao_nhiêu",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "chỉ còn mấy tháng nữa là Tết",
                         "mấy",
                         "từ chỉ một số lượng nào đó không rõ, nhưng thường không nhiều, không lâu",
@@ -11971,42 +12148,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chán",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ai cũng được",
-                        "ai",
-                        "whoever&nbsp;",
-                        "[sound:rec1664101664.mp3]",
-                        "[sound:rec1666432205.mp3]",
-                        "Whoever is okay/fine."
-                    ],
-                    "guid": "53Q86QZjxu",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::ai",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ai biết đâu đấy!",
-                        "ai",
-                        "who (to refer to a random person, can be anyone, even yourself but you don't wanna say; not used as question)",
-                        "[sound:rec1666432413.mp3]",
-                        "[sound:rec1666432279.mp3]",
-                        "Who knows!"
-                    ],
-                    "guid": "qfCf37pd-D",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::ai",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -18169,59 +18310,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bao giờ thì mình đi?",
-                        "bao giờ",
-                        "when?",
-                        "[sound:rec1666433311.mp3]",
-                        "[sound:rec1666433315.mp3]",
-                        "so when will we go?"
-                    ],
-                    "guid": "YbuvI4uluB",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bao_giờ",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "hết từ bao giờ rồi còn hỏi!",
-                        "bao giờ",
-                        "been a long time / been forever",
-                        "[sound:rec1664342766.mp3]",
-                        "[sound:rec1666433533.mp3]",
-                        "We've run out of that since forever and now you're still asking!&nbsp;"
-                    ],
-                    "guid": "T67BLGt-IF",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bao_giờ",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh ý không to tiếng với ai bao giờ.",
-                        "không ... bao giờ",
-                        "don't ... ever",
-                        "[sound:rec1666433722.mp3]",
-                        "[sound:rec1666433676.mp3]",
-                        "He doesn't yell at anyone ever."
-                    ],
-                    "guid": "O7ukQDg2CP",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bao_giờ",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "nghỉ một lúc rồi hẵng làm",
                         "lúc",
                         "khoảng thời gian ngắn không xác định, thường có thể tính bằng phút",
@@ -22269,42 +22357,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "thái độ bi quan",
-                        "bi quan",
-                        "có cách nhìn nặng nề về mặt tiêu cực, không tin tưởng ở sự phát triển theo hướng tốt, ở tương lai",
-                        "[sound:rec1664439497.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "JfIV_UunFx",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bi_quan",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tình thế rất bi quan",
-                        "bi quan",
-                        "dire&nbsp;",
-                        "[sound:rec1666434325.mp3]",
-                        "[sound:rec1666434330.mp3]",
-                        "The situation is dire.&nbsp;"
-                    ],
-                    "guid": "i-2ZE463hr",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bi_quan",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "yếu tố tiêu cực",
                         "tiêu cực",
                         "có ý nghĩa, có tác dụng phủ định, làm trở ngại sự phát triển",
@@ -23477,57 +23529,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chăm",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ông ơi, hôm nay tôi không gặp ông được.",
-                        "ông",
-                        "pronouns used to call a male between friends who are exactly the same age&nbsp;",
-                        "[sound:rec1664101654.mp3]",
-                        "[sound:rec1665913778.mp3]",
-                        ""
-                    ],
-                    "guid": "l;x`|`i%0I",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ông ngoại",
-                        "ông ngoại",
-                        "maternal grandpa",
-                        "[sound:rec1664101654.mp3]",
-                        "[sound:rec1665913752.mp3]",
-                        ""
-                    ],
-                    "guid": "uSn(>W9xZ`",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::ông",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Ai muốn ăn pizza?",
-                        "ai",
-                        "who?",
-                        "[sound:rec1664101664.mp3]",
-                        "[sound:rec1666432773.mp3]",
-                        "Who wants to eat pizza?"
-                    ],
-                    "guid": "H%<%{&&<cg",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::ai",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 }
