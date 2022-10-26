@@ -1820,7 +1820,9 @@
                 "rec1666692581.mp3",
                 "rec1666692596.mp3",
                 "rec1666692656.mp3",
-                "rec1666693009.mp3"
+                "rec1666693009.mp3",
+                "rec1666769885.mp3",
+                "rec1666769890.mp3"
             ],
             "name": "phrases",
             "notes": [
@@ -3039,6 +3041,23 @@
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::by_word::ai",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh tên là gì ạ?",
+                        "anh",
+                        "(pronoun) to call a male who is a few years older than you",
+                        "[sound:rec1666769885.mp3]",
+                        "[sound:rec1666769890.mp3]",
+                        "What's your name?"
+                    ],
+                    "guid": "o&Dj)m.*?u",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::anh",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 }
@@ -5611,7 +5630,6 @@
                 "rec1664342972.mp3",
                 "rec1664342979.mp3",
                 "rec1664342982.mp3",
-                "rec1664343002.mp3",
                 "rec1664343005.mp3",
                 "rec1664343008.mp3",
                 "rec1664343060.mp3",
@@ -5651,7 +5669,6 @@
                 "rec1664439544.mp3",
                 "rec1664439561.mp3",
                 "rec1664439675.mp3",
-                "rec1664439689.mp3",
                 "rec1664439699.mp3",
                 "rec1664439707.mp3",
                 "rec1664439710.mp3",
@@ -5665,7 +5682,22 @@
                 "rec1666693323.mp3",
                 "rec1666693340.mp3",
                 "rec1666693564.mp3",
-                "rec1666693569.mp3"
+                "rec1666693569.mp3",
+                "rec1666770032.mp3",
+                "rec1666770036.mp3",
+                "rec1666770277.mp3",
+                "rec1666771364.mp3",
+                "rec1666771759.mp3",
+                "rec1666771764.mp3",
+                "rec1666772025.mp3",
+                "rec1666772029.mp3",
+                "rec1666772247.mp3",
+                "rec1666772268.mp3",
+                "rec1666772562.mp3",
+                "rec1666772579.mp3",
+                "rec1666772795.mp3",
+                "rec1666772802.mp3",
+                "rec1666772846.mp3"
             ],
             "name": "void",
             "notes": [
@@ -8282,28 +8314,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bình thường",
-                        "normal",
-                        "adjective",
-                        "",
-                        "[sound:rec1664343002.mp3]",
-                        "rec1664343002.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "pm74yQNoDi",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::bình_thường",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::adjective",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_8::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "chua",
                         "sour",
                         "adjective",
@@ -9340,28 +9350,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "béo",
-                        "fat",
-                        "adjective",
-                        "northern dialect",
-                        "[sound:rec1664439689.mp3]",
-                        "rec1664439689.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "h|Kkk3b5]X",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::adjective",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "chăm",
                         "hard-working",
                         "verb",
@@ -9439,12 +9427,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Bác ý không phải là bác ruột của em.",
                         "bác ruột",
-                        "bác",
-                        "anh của cha hoặc chị dâu của cha [có thể dùng để xưng gọi]",
-                        "[sound:rec1664101674.mp3]",
-                        "",
-                        ""
+                        "your actual older uncle/aunt&nbsp;",
+                        "[sound:rec1666770032.mp3]",
+                        "[sound:rec1666770036.mp3]",
+                        "He's not my actual older uncle."
                     ],
                     "guid": "rs4GxDVX2K",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
@@ -9458,12 +9446,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bác công nhân già",
-                        "bác",
-                        "từ dùng để chỉ người lớn tuổi với ý tôn trọng, hoặc chỉ người nhiều tuổi hơn cha mẹ mình",
+                        "Có một bác công nhân đang ăn trưa.&nbsp;",
+                        "bác&nbsp;",
+                        "a classifier for people to show that person's age/gender (in front of a noun)",
                         "[sound:rec1664101674.mp3]",
-                        "",
-                        ""
+                        "[sound:rec1666770277.mp3]",
+                        "There's an older worker having lunch."
                     ],
                     "guid": "XJWf5u-aXO",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
@@ -9477,95 +9465,17 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "mời bác lại nhà tôi chơi",
-                        "bác",
-                        "từ dùng để gọi nhau giữa người nhiều tuổi với ý kính trọng một cách thân mật",
+                        "Nếu anh đi Hà Nội thì anh phải thăm lăng Bác.",
+                        "Bác",
+                        "(always capitalised) Ho Chi Minh / Uncle Ho",
                         "[sound:rec1664101674.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "bGoCE1MK_q",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "vào lăng viếng Bác",
-                        "bác",
-                        "[viết hoa] từ nhân dân Việt Nam dùng để gọi Chủ tịch Hồ Chí Minh, tỏ lòng kính yêu",
-                        "[sound:rec1664101674.mp3]",
-                        "",
-                        ""
+                        "[sound:rec1666771364.mp3]",
+                        "If you go to Hanoi then you have to visit Ho Chi Minh Mausoleum."
                     ],
                     "guid": "-CHa3r55CZ",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bác trứng",
-                        "bác",
-                        "làm chín thức ăn mặn bằng cách đun nhỏ lửa và quấy cho đến khi sền sệt",
-                        "[sound:rec1664101674.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "K0h4TJ8S7k",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "anh đã bác lời vu cáo của hắn",
-                        "bác",
-                        "gạt bỏ ý kiến, quan điểm của người khác bằng lí lẽ",
-                        "[sound:rec1664101674.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "tCBKU05OBp",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "toà án đã bác đơn của bị cáo",
-                        "bác",
-                        "không chấp nhận yêu cầu hoặc đề nghị của ai",
-                        "[sound:rec1664101674.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "1E0OVuXoR3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -20345,38 +20255,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "sức khoẻ bình thường",
+                        "Sức khoẻ của anh ý vẫn bình thường.",
                         "bình thường",
-                        "không có gì khác thường, không có gì đặc biệt",
-                        "[sound:rec1664343002.mp3]",
-                        "",
-                        ""
+                        "normal",
+                        "[sound:rec1666772802.mp3]",
+                        "[sound:rec1666772795.mp3]",
+                        "His health is still normal."
                     ],
                     "guid": "SvA8u0Tizj",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bình_thường",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bình thường anh ấy dậy rất sớm",
+                        "Bình thường anh ý dậy rất sớm.",
                         "bình thường",
-                        "thường ngày",
-                        "[sound:rec1664343002.mp3]",
-                        "",
-                        ""
+                        "(adv) normally",
+                        "[sound:rec1666772802.mp3]",
+                        "[sound:rec1666772846.mp3]",
+                        "Normally he gets up very early."
                     ],
                     "guid": "ZKRRJYrzoY",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bình_thường",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -23214,31 +23120,29 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nó vừa béo má đứa bé",
+                        "Đừng béo má nó, nó đau!&nbsp;",
                         "béo",
-                        "véo",
-                        "[sound:rec1664439689.mp3]",
-                        "",
-                        ""
+                        "to pinch someone",
+                        "[sound:rec1666772025.mp3]",
+                        "[sound:rec1666772029.mp3]",
+                        "Don't pinch his cheeks, it hurts!"
                     ],
                     "guid": "h3WTOku0-c",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "con lợn béo",
+                        "Nhà em có hai con mèo béo.",
                         "béo",
-                        "[cơ thể người, động vật] có nhiều mỡ",
-                        "[sound:rec1664439689.mp3]",
-                        "",
-                        ""
+                        "(adj) fat&nbsp;",
+                        "[sound:rec1666771759.mp3]",
+                        "[sound:rec1666771764.mp3]",
+                        "My house has 2 fat cats."
                     ],
                     "guid": "GWZWOzix3T",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
@@ -23252,76 +23156,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Bơ có nhiều chất béo.",
                         "chất béo",
-                        "béo",
-                        "có tính chất của mỡ, của dầu thực vật",
-                        "[sound:rec1664439689.mp3]",
-                        "",
-                        ""
+                        "(noun) fat (in nuitrition/food)",
+                        "[sound:rec1666772268.mp3]",
+                        "[sound:rec1666772247.mp3]",
+                        "Butter has a lot of fat."
                     ],
                     "guid": "8efP0-tRc5",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "phở chan nhiều nước béo",
-                        "béo",
-                        "[thức ăn] có nhiều chất béo",
-                        "[sound:rec1664439689.mp3]",
-                        "",
-                        ""
+                        "Cho em một phở gà nhiều nước béo.",
+                        "nước béo",
+                        "fatty/oily broth in noodle soup dishes",
+                        "[sound:rec1666772562.mp3]",
+                        "[sound:rec1666772579.mp3]",
+                        "Can I have a chicken pho with a lot of fatty broth?"
                     ],
                     "guid": "_as4PeUujF",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đất béo",
-                        "béo",
-                        "[đất] màu mỡ",
-                        "[sound:rec1664439689.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "wXZSkC1msB",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chỉ béo bọn con buôn",
-                        "béo",
-                        "đem lại nhiều lợi ích [cho đối tượng không xứng đáng]",
-                        "[sound:rec1664439689.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "2RAwdozqVo",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
