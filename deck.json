@@ -5704,28 +5704,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bác",
-                        "older uncles/aunts",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664101674.mp3]",
-                        "rec1664101674.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "mokdXE4Y3A",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::5"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "cô",
                         "younger aunt",
                         "common_noun",
@@ -9439,7 +9417,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -9458,7 +9435,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -23149,7 +23125,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
