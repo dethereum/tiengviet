@@ -5761,28 +5761,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chị",
-                        "older sister",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664101700.mp3]",
-                        "rec1664101700.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "h|qUZ1YTC$",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::chị",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::5"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "em",
                         "younger sibling",
                         "common_noun",
@@ -5863,28 +5841,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::by_word::xin_lỗi",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cảm ơn",
-                        "thank you",
-                        "verb",
-                        "",
-                        "[sound:rec1664101721.mp3]",
-                        "rec1664101721.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "JdjoiCUi{p",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cảm_ơn",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::verb",
                         "tiengviet::meta::processed_by_vntk",
@@ -6071,28 +6027,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cũng",
-                        "also",
-                        "adverb",
-                        "",
-                        "[sound:rec1664101793.mp3]",
-                        "rec1664101793.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "b<YUPUfwwp",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cũng",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::adverb",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "tôi",
                         "I",
                         "verb",
@@ -6262,28 +6196,6 @@
                         "tiengviet::meta::by_word::gái",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cũ",
-                        "old",
-                        "adjective",
-                        "&gt;&lt; new",
-                        "[sound:rec1664101932.mp3]",
-                        "rec1664101932.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "y8n[CoBP@X",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cũ",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::adjective",
                         "tiengviet::meta::processed_by_vntk",
                         "tiengviet::thang_7::8"
                     ]
@@ -6859,28 +6771,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::by_word::gà",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cá",
-                        "fish",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664102168.mp3]",
-                        "rec1664102168.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "Njb=2wZi3X",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cá",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
@@ -9727,25 +9617,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chặt rễ con, chừa rễ cái",
-                        "con",
-                        "thuộc loại nhỏ, loại phụ, trong quan hệ với cái lớn, cái chính",
-                        "[sound:rec1664101709.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "XysLeVSE29",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "dao con",
                         "con",
                         "nhỏ, bé",
@@ -10791,25 +10662,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "tôi cũng thấy đẹp",
-                        "cũng",
-                        "từ biểu thị ý khẳng định trường hợp sắp nêu ra giống như mọi trường hợp thông thường khác [thường dùng trong trường hợp mà hoàn cảnh, điều kiện nêu ra là khác thường để làm tăng thêm ý khẳng định]",
-                        "[sound:rec1664101793.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "k5lSkjVY2S",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cũng",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "nó cũng khá đấy chứ",
                         "cũng",
                         "từ biểu thị ý nhận định trường hợp sắp nêu ra có phần giống như những trường hợp tương tự [theo chủ quan của người nói, dùng để làm cho lời nói bớt vẻ khẳng định]",
@@ -10818,25 +10670,6 @@
                         ""
                     ],
                     "guid": "0_doRPGJrg",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cũng",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "được tin ấy, tôi mừng, nhưng cũng thấy hơi lo",
-                        "cũng",
-                        "từ biểu thị ý khẳng định trường hợp sắp nêu ra đồng thời diễn ra trong cùng một hoàn cảnh với trường hợp vừa được nói đến",
-                        "[sound:rec1664101793.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "sx_0aErOEm",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
@@ -11528,44 +11361,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nhà xây theo kiểu cũ",
-                        "cũ",
-                        "thuộc về thời gian đã qua, nay không còn nữa hoặc không thích hợp nữa",
-                        "[sound:rec1664101932.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "JfE7QXASZB",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cũ",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bạn cũ",
-                        "cũ",
-                        "vốn đã có từ lâu hoặc vốn đã quen biết, gắn bó từ trước",
-                        "[sound:rec1664101932.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "rpp2iUPlef",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cũ",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "mặc bộ quần áo mới",
                         "mới",
                         "vừa được làm ra hay là chưa dùng hoặc dùng chưa lâu",
@@ -11920,44 +11715,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::thương",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tôi đã chán thịt mỡ",
-                        "chán",
-                        "ở trạng thái không còn thèm muốn, thích thú nữa, vì đã quá thoả mãn",
-                        "[sound:rec1664101961.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "Y0rxOdERiy",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chán",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ông chán cuộc sống tầm thường",
-                        "chán",
-                        "ở trạng thái không những không thấy thích thú mà còn muốn tránh, vì đã phải tiếp xúc kéo dài với cái mình không ưa",
-                        "[sound:rec1664101961.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "DVGCoIiFru",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chán",
                         "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
@@ -13884,82 +13641,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "gạo nếp có trong cái thùng gỗ",
-                        "có",
-                        "từ biểu thị trạng thái tồn tại nào đó nói chung",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "tIgj7-jnWV",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "người cày có ruộng",
-                        "có",
-                        "từ biểu thị trạng thái tồn tại trong mối quan hệ giữa người hoặc sự vật với cái thuộc quyền sở hữu, quyền chi phối [của chủ thể]",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "HZtvtZpBMM",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "anh ta có lòng tốt",
-                        "có",
-                        "từ biểu thị trạng thái tồn tại trong mối quan hệ giữa người hoặc sự vật với thuộc tính, tính chất, hoặc mối quan hệ tác động qua lại lẫn nhau, v.v.",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "CItNzrKgqk",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nhà có năm gian",
-                        "có",
-                        "từ biểu thị trạng thái tồn tại trong mối quan hệ giữa chỉnh thể với bộ phận",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "eLPwTWZoQT",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "chị ấy có một con",
                         "có",
                         "từ biểu thị trạng thái tồn tại trong mối quan hệ nguồn gốc, thân thuộc, tác động qua lại với nhau, v.v. nói chung",
@@ -13968,44 +13649,6 @@
                         ""
                     ],
                     "guid": "AObDIrqTgT",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "xác định số liệu bên có",
-                        "có",
-                        "phía bên trái của bản tổng kết tài sản, ghi số vốn hiện có [vốn cố định, vốn lưu động, v.v.]; đối lập với nợ",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "rF6u_jgUz3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bố mẹ có, con cái được nhờ",
-                        "có",
-                        "tương đối giàu",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "-eyICscxcD",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
@@ -14063,25 +13706,6 @@
                         ""
                     ],
                     "guid": "LTQaJ_FY_l",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "anh có đi thì tôi chờ",
-                        "có",
-                        "từ biểu thị ý nhấn mạnh thêm về giả thiết hoặc điều phỏng đoán",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "t3hvYQev9G",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
@@ -14587,25 +14211,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "xe bị trượt cá",
-                        "cá",
-                        "miếng sắt cứng cài vào cạnh đứng của răng trong bộ bánh cóc, để cho bánh răng chỉ quay được một chiều",
-                        "[sound:rec1664102168.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "HLHNXEhuik",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cá",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "cái Lan có nhà không hả bác?",
                         "cái",
                         "từ dùng để gọi người con gái ngang hàng hoặc hàng dưới một cách thân mật",
@@ -14633,25 +14238,6 @@
                         ""
                     ],
                     "guid": "FWZU1CO2DO",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "khôn ăn cái, dại ăn nước (tng)",
-                        "cái",
-                        "phần chất đặc, thường là phần chính trong món ăn có nước",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "lHIpHXnSPS",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
@@ -14747,63 +14333,6 @@
                         ""
                     ],
                     "guid": "loMGAtMjya",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "hoa mướp cái",
-                        "cái",
-                        "[hoa] không có nhị đực, chỉ có nhị cái, hoặc cây chỉ có hoa như thế",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "bpDvlpMwin",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cột cái",
-                        "cái",
-                        "thuộc loại to, thường là chính so với những cái khác, loại phụ hoặc nhỏ hơn",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "0IFHBDuBTP",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cái cây bưởi ấy rất sai quả",
-                        "cái",
-                        "từ biểu thị ý nhấn mạnh về sắc thái xác định của sự vật mà người nói muốn nêu nổi bật với tính chất, tính cách nào đó",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "uejbGIj_K7",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
@@ -16145,25 +15674,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ném còn",
-                        "còn",
-                        "quả cầu bằng vải có nhiều dải màu, dùng để tung, ném làm trò chơi trong ngày hội ở một số dân tộc miền núi",
-                        "[sound:rec1664342602.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "iRMS1YURAr",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ông ấy vẫn còn",
                         "còn",
                         "tiếp tục tồn tại",
@@ -17034,44 +16544,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cách đi đứng khoan thai",
-                        "cách",
-                        "toàn thể nói chung những gì cần thiết để tiến hành một hoạt động cụ thể, nhằm một mục đích nào đó",
-                        "[sound:rec1664342658.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "9WSMY5DK_w",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cách",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tiếng Nga có sáu cách",
-                        "cách",
-                        "phạm trù ngữ pháp gắn với danh ngữ trong một số ngôn ngữ, biểu thị chức năng cú pháp của danh ngữ đó trong câu",
-                        "[sound:rec1664342658.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "MoXs9NNV_N",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cách",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "nhà tôi cách trường 5 cây",
                         "cách",
                         "không tiếp nối nhau, vì ở giữa có một vật hoặc một khoảng không gian, thời gian nào đó",
@@ -17673,44 +17145,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chồng",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đã qua thời con gái",
-                        "con gái",
-                        "người thuộc giới nữ còn ít tuổi, chưa có chồng",
-                        "[sound:rec1664342749.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "AGCe4h9tVo",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::con_gái",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "lúa đang thì con gái",
-                        "con gái",
-                        "[cây lúa] thời kì đang độ phát triển mạnh, đẻ nhánh nhiều",
-                        "[sound:rec1664342749.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "fKYygBLhIu",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::con_gái",
                         "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
@@ -18360,25 +17794,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "tôi cho xe đi chậm lại",
-                        "cho",
-                        "tạo ra ở khách thể một hoạt động nào đó",
-                        "[sound:rec1664342801.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "IH6vvSIsi-",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "cho dầu vào máy",
                         "cho",
                         "chuyển sự vật đến một chỗ nào đó để phát huy tác dụng",
@@ -18463,25 +17878,6 @@
                         ""
                     ],
                     "guid": "LW3fNkKnMK",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "khôn cho người ta dái, dại cho người ta thương, dở dở ương ương tổ người ta ghét (tng)",
-                        "cho",
-                        "từ biểu thị điều sắp nêu ra là kết quả tự nhiên, hoặc là hệ quả tất yếu của điều vừa được nói đến",
-                        "[sound:rec1664342801.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "8p27Uh4niQ",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::auto_gen",
@@ -20674,25 +20070,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nhận cày mấy chục cao ruộng",
-                        "cao",
-                        "đơn vị cũ đo ruộng đất ở Nam Bộ, bằng khoảng 1/10 hecta",
-                        "[sound:rec1664343091.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "lYrp7Nb_KC",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cao",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "cao hổ cốt",
                         "cao",
                         "thuốc đông y chế bằng các dược liệu lấy từ một số động vật hay thực vật, chiết bằng rượu hoặc nước rồi cô lại ở một thể thích hợp",
@@ -21028,44 +20405,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::nhà_hàng",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "người dễ cảm xúc",
-                        "cảm xúc",
-                        "có tư tưởng, tình cảm nảy sinh do tiếp xúc với sự việc khách quan",
-                        "[sound:rec1664343113.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "2fk9PkGAVk",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cảm_xúc",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bày tỏ cảm xúc",
-                        "cảm xúc",
-                        "tình cảm nảy sinh do có sự rung động trong lòng",
-                        "[sound:rec1664343113.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "f1DLila7Tk",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cảm_xúc",
                         "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
