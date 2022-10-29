@@ -5528,7 +5528,6 @@
                 "rec1664101779.mp3",
                 "rec1664101783.mp3",
                 "rec1664101793.mp3",
-                "rec1664101802.mp3",
                 "rec1664101806.mp3",
                 "rec1664101855.mp3",
                 "rec1664101859.mp3",
@@ -5583,7 +5582,6 @@
                 "rec1664102326.mp3",
                 "rec1664102341.mp3",
                 "rec1664342602.mp3",
-                "rec1664342606.mp3",
                 "rec1664342610.mp3",
                 "rec1664342617.mp3",
                 "rec1664342627.mp3",
@@ -5697,7 +5695,22 @@
                 "rec1666772579.mp3",
                 "rec1666772795.mp3",
                 "rec1666772802.mp3",
-                "rec1666772846.mp3"
+                "rec1666772846.mp3",
+                "rec1667036975.mp3",
+                "rec1667037049.mp3",
+                "rec1667037493.mp3",
+                "rec1667037500.mp3",
+                "rec1667037710.mp3",
+                "rec1667037714.mp3",
+                "rec1667037830.mp3",
+                "rec1667037898.mp3",
+                "rec1667037904.mp3",
+                "rec1667038281.mp3",
+                "rec1667038285.mp3",
+                "rec1667038778.mp3",
+                "rec1667038790.mp3",
+                "rec1667038968.mp3",
+                "rec1667038980.mp3"
             ],
             "name": "void",
             "notes": [
@@ -6073,29 +6086,6 @@
                         "tiengviet::meta::by_word::cũng",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::adverb",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bạn",
-                        "friend",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664101802.mp3]",
-                        "rec1664101802.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "Fn^^,~+A[A",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::marked_for_phrase",
-                        "tiengviet::meta::by_word::bạn",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
                         "tiengviet::thang_7::7"
                     ]
@@ -7275,28 +7265,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bố",
-                        "dad",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664342606.mp3]",
-                        "rec1664342606.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "Dwri$Yl|{L",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::20"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "mẹ",
                         "mum",
                         "common_noun",
@@ -7822,28 +7790,6 @@
                         "tiengviet::meta::pos::adverb",
                         "tiengviet::meta::processed_by_vntk",
                         "tiengviet::thang_7::25"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bận",
-                        "busy",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664342787.mp3]",
-                        "rec1664342787.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "lFbwdL$[2N",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::bận",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::26"
                     ]
                 },
                 {
@@ -10902,76 +10848,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "đôi bạn thân",
-                        "bạn",
-                        "người quen biết và có quan hệ gần gũi, thân thiện với nhau",
-                        "[sound:rec1664101802.mp3]",
-                        "",
-                        ""
+                        "Em có 3 bạn thân.&nbsp;",
+                        "bạn&nbsp;",
+                        "friend",
+                        "[sound:rec1667036975.mp3]",
+                        "[sound:rec1667037049.mp3]",
+                        "I have 3 close friends."
                     ],
                     "guid": "OByvDzMajY",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bạn",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bạn đồng minh",
+                        "Việt Nam muốn gây ấn tượng với nước bạn trong chuyến thăm lần này.",
                         "bạn",
-                        "người đồng tình, ủng hộ",
-                        "[sound:rec1664101802.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "hiHfSBt85u",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bạn",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đội bạn",
-                        "bạn",
-                        "đơn vị, tổ chức có quan hệ gần gũi",
-                        "[sound:rec1664101802.mp3]",
-                        "",
-                        ""
+                        "(formal) used after a noun to refer to a country/team/organisation with whom you have a friendly relationship",
+                        "[sound:rec1667037493.mp3]",
+                        "[sound:rec1667037500.mp3]",
+                        "Vietnam wants to impress the other country during this visit."
                     ],
                     "guid": "VGABkeD84r",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bạn",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bạn với người tốt",
-                        "bạn",
-                        "kết bạn [nói tắt]",
-                        "[sound:rec1664101802.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "fxKvYET9z_",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bạn",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -16393,69 +16297,29 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bố nào con nấy",
+                        "Bố nào con nấy.",
                         "bố",
-                        "cha [có thể dùng để xưng gọi]",
-                        "[sound:rec1664342606.mp3]",
-                        "",
-                        ""
+                        "dad",
+                        "[sound:rec1667037898.mp3]",
+                        "[sound:rec1667037904.mp3]",
+                        "Like father, like son."
                     ],
                     "guid": "sGrmA-QQ2r",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "lựa chọn cá bố, cá mẹ",
+                        "Nghịch vừa vừa thôi bố ạ!",
                         "bố",
-                        "con vật đực thuộc thế hệ trước, trực tiếp sinh ra thế hệ sau",
-                        "[sound:rec1664342606.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "M-RgDDip_s",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "mời bố đến nhà con chơi",
-                        "bố",
-                        "từ dùng để gọi người lớn tuổi, đáng bậc cha [tỏ ý thân mật hoặc vui đùa]",
-                        "[sound:rec1664342606.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "4W345HXFCb",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nghịch vừa vừa thôi bố ạ!",
-                        "bố",
-                        "từ dùng để gọi người đàn ông cùng lứa hoặc trẻ em trai [hàm ý đùa nghịch hoặc trách cứ]",
-                        "[sound:rec1664342606.mp3]",
-                        "",
-                        ""
+                        "(slang) to call a younger male in a joking way&nbsp;",
+                        "[sound:rec1667038281.mp3]",
+                        "[sound:rec1667038285.mp3]",
+                        "Stop messing around, you!"
                     ],
                     "guid": "cZkpE-3Ezu",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
@@ -16469,38 +16333,17 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chai bố",
-                        "bố",
-                        "cỡ lớn, to [thường nói về chai lọ]",
-                        "[sound:rec1664342606.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "ANI3yFqT3U",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nói thế thì bố ai mà biết được",
-                        "bố",
-                        "từ dùng trong tiếng rủa, biểu thị ý hơi bực mình",
-                        "[sound:rec1664342606.mp3]",
-                        "",
-                        ""
+                        "Bố mày biết rồi.",
+                        "bố mày",
+                        "to insult others by calling yourself 'their father' (can be used between close friends or strangers)",
+                        "[sound:rec1667038778.mp3]",
+                        "[sound:rec1667038790.mp3]",
+                        "I know.&nbsp;"
                     ],
                     "guid": "tEOGrI5KdI",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -18293,76 +18136,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "hết bận này đến bận khác",
+                        "Anh bận áo này được không?",
                         "bận",
-                        "lần, lượt",
+                        "to wear",
                         "[sound:rec1664342787.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "w-PcIRMu7B",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bận",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "anh bận một bộ đồ tây",
-                        "bận",
-                        "khoác quần áo vào để che thân mình",
-                        "[sound:rec1664342787.mp3]",
-                        "",
-                        ""
+                        "[sound:rec1667037830.mp3]",
+                        "Can I wear this top?"
                     ],
                     "guid": "ZR4AOxmmzF",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bận",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "đang bận học",
+                        "Bây giờ anh đang bận học.",
                         "bận",
-                        "ở trạng thái đang phải làm việc gì đó nên không thể làm việc nào khác",
-                        "[sound:rec1664342787.mp3]",
-                        "",
-                        ""
+                        "busy",
+                        "[sound:rec1667037710.mp3]",
+                        "[sound:rec1667037714.mp3]",
+                        "Right now I'm busy studying."
                     ],
                     "guid": "ciqK883dpQ",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bận",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chuyện người ta bận gì đến mình?",
-                        "bận",
-                        "[sự việc] có liên quan và làm cho phải lo nghĩ đến",
-                        "[sound:rec1664342787.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "FcIO8hJadW",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bận",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -23212,6 +23013,23 @@
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::by_word::bà",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bố ai mà biết được!",
+                        "bố&nbsp;",
+                        "to add authority / condescension&nbsp;",
+                        "[sound:rec1667038968.mp3]",
+                        "[sound:rec1667038980.mp3]",
+                        "Who the hell knows?!"
+                    ],
+                    "guid": "O>.OXYuaj2",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bố",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 }
