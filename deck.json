@@ -92,6 +92,8 @@
                 "rec1664439825.mp3"
             ],
             "name": "complex_vocab",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -1673,7 +1675,9 @@
                         "tiengviet::people::vẻ_ngoài"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -1825,6 +1829,8 @@
                 "rec1666769890.mp3"
             ],
             "name": "phrases",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -3061,7 +3067,9 @@
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -3185,6 +3193,8 @@
                 "rec1665052732.mp3"
             ],
             "name": "vocab",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -5497,7 +5507,9 @@
                         "tiengviet::thang_7::30"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -5758,6 +5770,8 @@
                 "rec1667388358.mp3"
             ],
             "name": "void",
+            "newLimit": null,
+            "newLimitToday": null,
             "notes": [
                 {
                     "__type__": "Note",
@@ -13472,158 +13486,6 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::đến",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chị ấy có một con",
-                        "có",
-                        "từ biểu thị trạng thái tồn tại trong mối quan hệ nguồn gốc, thân thuộc, tác động qua lại với nhau, v.v. nói chung",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "AObDIrqTgT",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bệnh có phần thuyên giảm",
-                        "có",
-                        "từ biểu thị ý khẳng định trạng thái tồn tại, sự xảy ra của điều gì",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "Hgp9dVrFNl",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "từ đây đến đó có xa không?",
-                        "có",
-                        "từ biểu thị ý muốn hỏi về điều muốn được khẳng định là như thế [hay là trái lại]",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "ExvW-cCKLK",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chỉ có ngần ấy người tham gia",
-                        "có",
-                        "từ biểu thị ý nhấn mạnh thêm sắc thái khẳng định về số lượng, mức độ chỉ đến thế không hơn không kém",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "LTQaJ_FY_l",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tôi đâu có nói như vậy",
-                        "có",
-                        "từ biểu thị ý nhấn mạnh thêm về sắc thái khẳng định trong lời khuyên ngăn hoặc lời phủ nhận",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "izjZhXB8Y1",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tôi ăn cơm",
-                        "ăn",
-                        "tự cho vào cơ thể thức nuôi sống",
-                        "[sound:rec1664102150.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "SrwFlkj3b-",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::ăn",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "toàn dân đang ăn Tết",
-                        "ăn",
-                        "ăn uống nhân dịp gì",
-                        "[sound:rec1664102150.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "vnvlRbQSMZ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::ăn",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "loại xe này rất ăn xăng (tốn nhiều xăng hơn bình thường)",
-                        "ăn",
-                        "[máy móc, phương tiện vận tải] tiếp nhận cái cần thiết cho sự hoạt động",
-                        "[sound:rec1664102150.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "TYeHqHZxul",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::ăn",
                         "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
@@ -22130,6 +21992,158 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "chị ấy có một con",
+                        "có",
+                        "từ biểu thị trạng thái tồn tại trong mối quan hệ nguồn gốc, thân thuộc, tác động qua lại với nhau, v.v. nói chung",
+                        "[sound:rec1664102147.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "AObDIrqTgT",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::có",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "bệnh có phần thuyên giảm",
+                        "có",
+                        "từ biểu thị ý khẳng định trạng thái tồn tại, sự xảy ra của điều gì",
+                        "[sound:rec1664102147.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "Hgp9dVrFNl",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::có",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "từ đây đến đó có xa không?",
+                        "có",
+                        "từ biểu thị ý muốn hỏi về điều muốn được khẳng định là như thế [hay là trái lại]",
+                        "[sound:rec1664102147.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "ExvW-cCKLK",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::có",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "chỉ có ngần ấy người tham gia",
+                        "có",
+                        "từ biểu thị ý nhấn mạnh thêm sắc thái khẳng định về số lượng, mức độ chỉ đến thế không hơn không kém",
+                        "[sound:rec1664102147.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "LTQaJ_FY_l",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::có",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tôi đâu có nói như vậy",
+                        "có",
+                        "từ biểu thị ý nhấn mạnh thêm về sắc thái khẳng định trong lời khuyên ngăn hoặc lời phủ nhận",
+                        "[sound:rec1664102147.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "izjZhXB8Y1",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::có",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "tôi ăn cơm",
+                        "ăn",
+                        "tự cho vào cơ thể thức nuôi sống",
+                        "[sound:rec1664102150.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "SrwFlkj3b-",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::ăn",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "toàn dân đang ăn Tết",
+                        "ăn",
+                        "ăn uống nhân dịp gì",
+                        "[sound:rec1664102150.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "vnvlRbQSMZ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::ăn",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "loại xe này rất ăn xăng (tốn nhiều xăng hơn bình thường)",
+                        "ăn",
+                        "[máy móc, phương tiện vận tải] tiếp nhận cái cần thiết cho sự hoạt động",
+                        "[sound:rec1664102150.mp3]",
+                        "",
+                        ""
+                    ],
+                    "guid": "TYeHqHZxul",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::ăn",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Anh ý không cao lắm.",
                         "cao&nbsp;",
                         "tall",
@@ -22331,7 +22345,9 @@
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 }
-            ]
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         }
     ],
     "crowdanki_uuid": "a84e6ee8-3100-11ed-8b9a-599bb18c5ef7",
@@ -22417,6 +22433,8 @@
     "extendRev": 0,
     "media_files": [],
     "name": "tiengviet",
+    "newLimit": null,
+    "newLimitToday": null,
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -22732,5 +22750,7 @@
             "type": 0
         }
     ],
-    "notes": []
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
 }
