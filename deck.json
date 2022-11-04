@@ -1697,6 +1697,8 @@
                 "rec1664018871.mp3",
                 "rec1664101654.mp3",
                 "rec1664101664.mp3",
+                "rec1664101674.mp3",
+                "rec1664101700.mp3",
                 "rec1664101811.mp3",
                 "rec1664101818.mp3",
                 "rec1664101831.mp3",
@@ -1777,6 +1779,7 @@
                 "rec1664342589.mp3",
                 "rec1664342593.mp3",
                 "rec1664342766.mp3",
+                "rec1664342787.mp3",
                 "rec1664439078.mp3",
                 "rec1664439082.mp3",
                 "rec1664439088.mp3",
@@ -1825,8 +1828,123 @@
                 "rec1666692596.mp3",
                 "rec1666692656.mp3",
                 "rec1666693009.mp3",
+                "rec1666693285.mp3",
+                "rec1666693291.mp3",
+                "rec1666693323.mp3",
+                "rec1666693340.mp3",
+                "rec1666693564.mp3",
+                "rec1666693569.mp3",
                 "rec1666769885.mp3",
-                "rec1666769890.mp3"
+                "rec1666769890.mp3",
+                "rec1666770032.mp3",
+                "rec1666770036.mp3",
+                "rec1666770277.mp3",
+                "rec1666771364.mp3",
+                "rec1666771759.mp3",
+                "rec1666771764.mp3",
+                "rec1666772025.mp3",
+                "rec1666772029.mp3",
+                "rec1666772247.mp3",
+                "rec1666772268.mp3",
+                "rec1666772562.mp3",
+                "rec1666772579.mp3",
+                "rec1666772795.mp3",
+                "rec1666772802.mp3",
+                "rec1666772846.mp3",
+                "rec1667036975.mp3",
+                "rec1667037049.mp3",
+                "rec1667037493.mp3",
+                "rec1667037500.mp3",
+                "rec1667037710.mp3",
+                "rec1667037714.mp3",
+                "rec1667037830.mp3",
+                "rec1667037898.mp3",
+                "rec1667037904.mp3",
+                "rec1667038281.mp3",
+                "rec1667038285.mp3",
+                "rec1667038778.mp3",
+                "rec1667038790.mp3",
+                "rec1667038968.mp3",
+                "rec1667038980.mp3",
+                "rec1667122561.mp3",
+                "rec1667122707.mp3",
+                "rec1667122849.mp3",
+                "rec1667122903.mp3",
+                "rec1667123163.mp3",
+                "rec1667123166.mp3",
+                "rec1667123346.mp3",
+                "rec1667123350.mp3",
+                "rec1667123565.mp3",
+                "rec1667123720.mp3",
+                "rec1667123859.mp3",
+                "rec1667123892.mp3",
+                "rec1667124234.mp3",
+                "rec1667124465.mp3",
+                "rec1667124715.mp3",
+                "rec1667124904.mp3",
+                "rec1667125093.mp3",
+                "rec1667125520.mp3",
+                "rec1667125616.mp3",
+                "rec1667125620.mp3",
+                "rec1667375206.mp3",
+                "rec1667375211.mp3",
+                "rec1667375332.mp3",
+                "rec1667375428.mp3",
+                "rec1667375434.mp3",
+                "rec1667375504.mp3",
+                "rec1667375522.mp3",
+                "rec1667385727.mp3",
+                "rec1667385731.mp3",
+                "rec1667386385.mp3",
+                "rec1667386388.mp3",
+                "rec1667386452.mp3",
+                "rec1667386516.mp3",
+                "rec1667386735.mp3",
+                "rec1667386744.mp3",
+                "rec1667386827.mp3",
+                "rec1667386831.mp3",
+                "rec1667386942.mp3",
+                "rec1667386946.mp3",
+                "rec1667387047.mp3",
+                "rec1667387054.mp3",
+                "rec1667387130.mp3",
+                "rec1667387170.mp3",
+                "rec1667387604.mp3",
+                "rec1667387609.mp3",
+                "rec1667387834.mp3",
+                "rec1667388046.mp3",
+                "rec1667388049.mp3",
+                "rec1667388136.mp3",
+                "rec1667388140.mp3",
+                "rec1667388323.mp3",
+                "rec1667388358.mp3",
+                "rec1667555633.mp3",
+                "rec1667555637.mp3",
+                "rec1667555738.mp3",
+                "rec1667555827.mp3",
+                "rec1667555886.mp3",
+                "rec1667555891.mp3",
+                "rec1667555988.mp3",
+                "rec1667556024.mp3",
+                "rec1667556493.mp3",
+                "rec1667556980.mp3",
+                "rec1667556996.mp3",
+                "rec1667557034.mp3",
+                "rec1667557039.mp3",
+                "rec1667557134.mp3",
+                "rec1667557194.mp3",
+                "rec1667557200.mp3",
+                "rec1667557465.mp3",
+                "rec1667557571.mp3",
+                "rec1667557830.mp3",
+                "rec1667557845.mp3",
+                "rec1667558130.mp3",
+                "rec1667558134.mp3",
+                "rec1667558451.mp3",
+                "rec1667558663.mp3",
+                "rec1667558853.mp3",
+                "rec1667558862.mp3",
+                "rec1667558978.mp3"
             ],
             "name": "phrases",
             "newLimit": null,
@@ -2092,7 +2210,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "1. Hôm nay, mình đi ăn đồ Mexico được không?",
+                        "Hôm nay, mình đi ăn đồ Mexico được không?",
                         "được không?",
                         "Is it ok?",
                         "[sound:rec1664102195.mp3]",
@@ -2604,7 +2722,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Ông nội em mới mất hôm qua.",
+                        "ông nội em mới mất hôm qua.",
                         "ông",
                         "paternal grandpa",
                         "[sound:rec1664101654.mp3]",
@@ -2656,6 +2774,112 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Bà nội em không phải là người Hà Nội.",
+                        "bà nội",
+                        "paternal grandma",
+                        "[sound:rec1666693285.mp3]",
+                        "[sound:rec1666693291.mp3]",
+                        "My paternal grandma is not Hanoian."
+                    ],
+                    "guid": "3rgf5tnyN5",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bà",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bác ý không phải là bác ruột của em.",
+                        "bác ruột",
+                        "your actual older uncle/aunt&nbsp;",
+                        "[sound:rec1666770032.mp3]",
+                        "[sound:rec1666770036.mp3]",
+                        "He's not my actual older uncle."
+                    ],
+                    "guid": "rs4GxDVX2K",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::bác",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Có một bác công nhân đang ăn trưa.&nbsp;",
+                        "bác&nbsp;",
+                        "a classifier for people to show that person's age/gender (in front of a noun)",
+                        "[sound:rec1664101674.mp3]",
+                        "[sound:rec1666770277.mp3]",
+                        "There's an older worker having lunch."
+                    ],
+                    "guid": "XJWf5u-aXO",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::bác",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nếu anh đi Hà Nội thì anh phải thăm lăng Bác.",
+                        "Bác",
+                        "(always capitalised) Ho Chi Minh / Uncle Ho",
+                        "[sound:rec1664101674.mp3]",
+                        "[sound:rec1666771364.mp3]",
+                        "If you go to Hanoi then you have to visit Ho Chi Minh Mausoleum."
+                    ],
+                    "guid": "-CHa3r55CZ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bác",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Có mấy chú công nhân đang đứng ở ngoài.",
+                        "chú",
+                        "a classifier for some specific nouns to clarify their age and gender",
+                        "[sound:rec1667388136.mp3]",
+                        "[sound:rec1667388140.mp3]",
+                        "There are some workers standing outside."
+                    ],
+                    "guid": "AwWsoIyjRS",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chú",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chị nói với chú rồi mà chú không nghe chị!",
+                        "chú",
+                        "to address a younger male in a fairly condescending way (mainly used by older people)",
+                        "[sound:rec1667388323.mp3]",
+                        "[sound:rec1667388358.mp3]",
+                        "I already told you but you don't listen to me!"
+                    ],
+                    "guid": "yloQRg6qtl",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::chú",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Đây là anh ruột của em.",
                         "anh",
                         "your actual older brother",
@@ -2690,6 +2914,179 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Chị ruột em hơn em 15 tuổi.",
+                        "chị",
+                        "your actual older sister",
+                        "[sound:rec1667557034.mp3]",
+                        "[sound:rec1667557039.mp3]",
+                        "My older sister is 15 years older than me.&nbsp;"
+                    ],
+                    "guid": "jEQtdUqNLb",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chị",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chị bán hàng bảo là chị ý không có tiền lẻ.",
+                        "chị",
+                        "a classifier for some specific nouns to clarify their age and gender",
+                        "[sound:rec1664101700.mp3]",
+                        "[sound:rec1667557134.mp3]",
+                        "The seller said she didn't have change."
+                    ],
+                    "guid": "xOnfF4r3V3",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chị",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chó con thường rất là đáng yêu.",
+                        "con",
+                        "young, small (animal)",
+                        "[sound:rec1667558130.mp3]",
+                        "[sound:rec1667558134.mp3]",
+                        "Puppies are usually really cute."
+                    ],
+                    "guid": "pwCwLaIruq",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::con",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Con mèo nhà em không thích ăn cá.",
+                        "con",
+                        "a classifier for animals",
+                        "[sound:rec1667557830.mp3]",
+                        "[sound:rec1667557845.mp3]",
+                        "My family's cat doesn't like eating fish."
+                    ],
+                    "guid": "8qK1-Q3oeD",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::con",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nhìn mặt con đấy khó chịu vãi!",
+                        "con",
+                        "to refer to a female in a disrespectful/hateful/condescending way",
+                        "[sound:rec1667558130.mp3]",
+                        "[sound:rec1667558451.mp3]",
+                        "She looks so freaking annoying!"
+                    ],
+                    "guid": "irOsui2oe-",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::con",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em không thích kiểu đàn ông to con quá.",
+                        "con",
+                        "physique&nbsp;",
+                        "[sound:rec1667558130.mp3]",
+                        "[sound:rec1667558663.mp3]",
+                        "I don't like the type of men who are big and muscular."
+                    ],
+                    "guid": "9eBLTUFGQE",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::con",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh chị được mấy cháu?",
+                        "cháu",
+                        "used to refer to other people's children or your own when talking to other people (to be polite)",
+                        "[sound:rec1667387604.mp3]",
+                        "[sound:rec1667387834.mp3]",
+                        "How many kids do you have?"
+                    ],
+                    "guid": "YwaXJJQa_z",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cháu",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em mới mua chuột mới cho laptop của em.",
+                        "chuột",
+                        "mouse (for computers)",
+                        "[sound:rec1667386827.mp3]",
+                        "[sound:rec1667386831.mp3]",
+                        "I just bought a new mouse for my laptop."
+                    ],
+                    "guid": "qcPAOIbql6",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chuột",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em có 3 bạn thân.&nbsp;",
+                        "bạn&nbsp;",
+                        "friend",
+                        "[sound:rec1667036975.mp3]",
+                        "[sound:rec1667037049.mp3]",
+                        "I have 3 close friends."
+                    ],
+                    "guid": "OByvDzMajY",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bạn",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Việt Nam muốn gây ấn tượng với nước bạn trong chuyến thăm lần này.",
+                        "bạn",
+                        "(formal) used after a noun to refer to a country/team/organisation with whom you have a friendly relationship",
+                        "[sound:rec1667037493.mp3]",
+                        "[sound:rec1667037500.mp3]",
+                        "Vietnam wants to impress the other country during this visit."
+                    ],
+                    "guid": "VGABkeD84r",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bạn",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Anh cần bao nhiêu thời gian?",
                         "bao nhiêu",
                         "how much/how many",
@@ -2718,6 +3115,23 @@
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::by_word::bao_nhiêu",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Còn chán người giỏi.",
+                        "chán",
+                        "to emphasize the abundance of something to stop the listener from worrying",
+                        "[sound:rec1667375504.mp3]",
+                        "[sound:rec1667375522.mp3]",
+                        "There are still plentyyy of people with good skills."
+                    ],
+                    "guid": "kZt44yajjs",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chán",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -2913,6 +3327,127 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Bố nào con nấy.",
+                        "bố",
+                        "dad",
+                        "[sound:rec1667037898.mp3]",
+                        "[sound:rec1667037904.mp3]",
+                        "Like father, like son."
+                    ],
+                    "guid": "sGrmA-QQ2r",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bố",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nghịch vừa vừa thôi bố ạ!",
+                        "bố",
+                        "(slang) to call a younger male in a joking way&nbsp;",
+                        "[sound:rec1667038281.mp3]",
+                        "[sound:rec1667038285.mp3]",
+                        "Stop messing around, you!"
+                    ],
+                    "guid": "cZkpE-3Ezu",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::bố",
+                        "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bố mày biết rồi.",
+                        "bố mày",
+                        "to insult others by calling yourself 'their father' (can be used between close friends or strangers)",
+                        "[sound:rec1667038778.mp3]",
+                        "[sound:rec1667038790.mp3]",
+                        "I know.&nbsp;"
+                    ],
+                    "guid": "tEOGrI5KdI",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bố",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thấy chưa, em đã bảo rồi mà!",
+                        "chưa",
+                        "(final particle) to seek approval/agreement from the other listen for something obvious&nbsp;",
+                        "[sound:rec1667556980.mp3]",
+                        "[sound:rec1667556996.mp3]",
+                        "See, I told you so!"
+                    ],
+                    "guid": "tX0hfNeG_I",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chưa",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nó 35 tuổi rồi mà chưa lấy chồng.",
+                        "chồng",
+                        "husband",
+                        "[sound:rec1667557194.mp3]",
+                        "[sound:rec1667557200.mp3]",
+                        "She's 35 already but she's not married yet.&nbsp;"
+                    ],
+                    "guid": "9e93SAR3Mt",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chồng",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chú chồng cái thùng này lên cái thùng kia cho cháu nhé.&nbsp;",
+                        "chồng",
+                        "to stack&nbsp;",
+                        "[sound:rec1667557194.mp3]",
+                        "[sound:rec1667557465.mp3]",
+                        "Can you stack this box on top of the other one for me?"
+                    ],
+                    "guid": "UUeai7QH8i",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chồng",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em có 1 chồng sách cũ đang để ở ngoài.",
+                        "chồng",
+                        "a stack of something",
+                        "[sound:rec1667557194.mp3]",
+                        "[sound:rec1667557571.mp3]",
+                        "I have a stack of old books that I'm leaving outside."
+                    ],
+                    "guid": "bwioZ5YrDZ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chồng",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "bao giờ thì mình đi?",
                         "bao giờ",
                         "when?",
@@ -2966,6 +3501,329 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Anh bận áo này được không?",
+                        "bận",
+                        "to wear",
+                        "[sound:rec1664342787.mp3]",
+                        "[sound:rec1667037830.mp3]",
+                        "Can I wear this top?"
+                    ],
+                    "guid": "ZR4AOxmmzF",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bận",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bây giờ anh đang bận học.",
+                        "bận",
+                        "busy",
+                        "[sound:rec1667037710.mp3]",
+                        "[sound:rec1667037714.mp3]",
+                        "Right now I'm busy studying."
+                    ],
+                    "guid": "ciqK883dpQ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bận",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mẹ em không bao giờ cho em tiền.",
+                        "cho",
+                        "to give (permanently)",
+                        "[sound:rec1667123859.mp3]",
+                        "[sound:rec1667123892.mp3]",
+                        "My mum never gives me money."
+                    ],
+                    "guid": "iVDngmzcW3",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh phải cho dầu vào máy thì máy mới chạy được.",
+                        "cho",
+                        "to put something into something else for it to function",
+                        "[sound:rec1667123859.mp3]",
+                        "[sound:rec1667124465.mp3]",
+                        "Only when you put oil into the machine can it run.&nbsp;"
+                    ],
+                    "guid": "jgInBN0Dc7",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh ý lúc nào cũng tự cho mình là giỏi.",
+                        "cho",
+                        "to consider your own self as something",
+                        "[sound:rec1667123859.mp3]",
+                        "[sound:rec1667124715.mp3]",
+                        "He always considers himself to be good."
+                    ],
+                    "guid": "wWSZR86V8l",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em ơi, cho anh một bún bò Huế nhé!",
+                        "cho",
+                        "to order food/drinks at restaurants",
+                        "[sound:rec1667123859.mp3]",
+                        "[sound:rec1667124904.mp3]",
+                        "Hi, can I have a bún bò Huế?"
+                    ],
+                    "guid": "Cy64Dv0ICR",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em gửi cái này cho ai?",
+                        "cho",
+                        "(from..) to..",
+                        "[sound:rec1667123859.mp3]",
+                        "[sound:rec1667125093.mp3]",
+                        "Who are you sending this to?"
+                    ],
+                    "guid": "ftY_4QmVp0",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hôm nay em ý muốn trang điểm cho xinh.",
+                        "cho",
+                        "for + adj",
+                        "[sound:rec1667123859.mp3]",
+                        "[sound:rec1667125520.mp3]",
+                        "Today she wants to put on makeup to be pretty."
+                    ],
+                    "guid": "LW3fNkKnMK",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mặc cho mưa gió, em vẫn cứ đi.",
+                        "mặc cho",
+                        "despite&nbsp;",
+                        "[sound:rec1667125616.mp3]",
+                        "[sound:rec1667125620.mp3]",
+                        "Despite stormy weather, I'll still go."
+                    ],
+                    "guid": "bEM78rPYkv",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mẹ bảo sẽ đánh cho nó một trận vì nó hư.&nbsp;",
+                        "cho",
+                        "to refer to a negative action is done towards someone",
+                        "[sound:rec1667375206.mp3]",
+                        "[sound:rec1667375211.mp3]",
+                        "Mum says she will beat him because he's been naughty.&nbsp;"
+                    ],
+                    "guid": "yZF4xq63ex",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mong anh giúp cho.",
+                        "cho",
+                        "to ask for a favour, demand with the hope that the other person will be understanding&nbsp;&nbsp;",
+                        "[sound:rec1667375206.mp3]",
+                        "[sound:rec1667375332.mp3]",
+                        "I hope you can help (me)."
+                    ],
+                    "guid": "l0uVeIeS8s",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sức khoẻ của anh ý vẫn bình thường.",
+                        "bình thường",
+                        "normal",
+                        "[sound:rec1666772802.mp3]",
+                        "[sound:rec1666772795.mp3]",
+                        "His health is still normal."
+                    ],
+                    "guid": "SvA8u0Tizj",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bình_thường",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bình thường anh ý dậy rất sớm.",
+                        "bình thường",
+                        "(adv) normally",
+                        "[sound:rec1666772802.mp3]",
+                        "[sound:rec1666772846.mp3]",
+                        "Normally he gets up very early."
+                    ],
+                    "guid": "ZKRRJYrzoY",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bình_thường",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Có nhiều người Nhật giọng rất chua.&nbsp;",
+                        "chua",
+                        "to describe an annoyingly high-pitched voice",
+                        "[sound:rec1667386452.mp3]",
+                        "[sound:rec1667386516.mp3]",
+                        "There are many Japanese people with high-pitched voice.&nbsp;"
+                    ],
+                    "guid": "OWmsJDli1D",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chua",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nhà em chật lắm, không đủ chỗ cho 5 người đâu!",
+                        "chật",
+                        "narrow, small (for space)",
+                        "[sound:rec1667555633.mp3]",
+                        "[sound:rec1667555827.mp3]",
+                        "My house is really small, there's not enough space for 5 people!"
+                    ],
+                    "guid": "QT0eVMMh6x",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chật",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Người dân đứng chật hai bên đường vì tò mò.",
+                        "chật",
+                        "crowded / packed with people",
+                        "[sound:rec1667555633.mp3]",
+                        "[sound:rec1667555738.mp3]",
+                        "The sides of the street were packed with people standing there out of curiosity."
+                    ],
+                    "guid": "Ft7E2Ys2I0",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chật",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Có nhiều người Việt thích dùng cao hổ hoặc cao gấu để chữa bệnh.&nbsp;",
+                        "cao",
+                        "medicinal products made from tiger bones&nbsp;",
+                        "[sound:rec1667122849.mp3]",
+                        "[sound:rec1667122903.mp3]",
+                        "There are many Vietnamese people who like to use tiger or bear bone broth to cure diseases.&nbsp;"
+                    ],
+                    "guid": "rm5eKhOFOi",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cao",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Núi này rất cao.",
+                        "cao",
+                        "high&nbsp;",
+                        "[sound:rec1667123163.mp3]",
+                        "[sound:rec1667123166.mp3]",
+                        "This mountain is really&nbsp;high.&nbsp;"
+                    ],
+                    "guid": "LJ9CayINz9",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cao",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Món này rất tốt cho người cao tuổi.",
+                        "cao tuổi",
+                        "elderly/old age",
+                        "[sound:rec1667123346.mp3]",
+                        "[sound:rec1667123350.mp3]",
+                        "This dish is very good for elderly people."
+                    ],
+                    "guid": "0ldtWqe2jS",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cao",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Anh ý luôn luôn có một thái độ bi quan.",
                         "bi quan",
                         "pessimistic attitude",
@@ -2996,6 +3854,92 @@
                     "tags": [
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::bi_quan",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Đừng béo má nó, nó đau!&nbsp;",
+                        "béo",
+                        "to pinch someone",
+                        "[sound:rec1666772025.mp3]",
+                        "[sound:rec1666772029.mp3]",
+                        "Don't pinch his cheeks, it hurts!"
+                    ],
+                    "guid": "h3WTOku0-c",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::béo",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Nhà em có hai con mèo béo.",
+                        "béo",
+                        "(adj) fat&nbsp;",
+                        "[sound:rec1666771759.mp3]",
+                        "[sound:rec1666771764.mp3]",
+                        "My house has 2 fat cats."
+                    ],
+                    "guid": "GWZWOzix3T",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::auto_gen",
+                        "tiengviet::meta::by_word::béo",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bơ có nhiều chất béo.",
+                        "chất béo",
+                        "(noun) fat (in nuitrition/food)",
+                        "[sound:rec1666772268.mp3]",
+                        "[sound:rec1666772247.mp3]",
+                        "Butter has a lot of fat."
+                    ],
+                    "guid": "8efP0-tRc5",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::béo",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cho em một phở gà nhiều nước béo.",
+                        "nước béo",
+                        "fatty/oily broth in noodle soup dishes",
+                        "[sound:rec1666772562.mp3]",
+                        "[sound:rec1666772579.mp3]",
+                        "Can I have a chicken pho with a lot of fatty broth?"
+                    ],
+                    "guid": "_as4PeUujF",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::béo",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em phải về nhà bố mẹ để chăm bà em đang ốm.",
+                        "chăm",
+                        "to take care of someone / something",
+                        "[sound:rec1667555988.mp3]",
+                        "[sound:rec1667556024.mp3]",
+                        "I have to go back to my parents' to take care of my grandma who's sick."
+                    ],
+                    "guid": "KZ5c6BNhO-",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chăm",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -3053,6 +3997,40 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Bà ngoại em không phải là người Hà Nội.",
+                        "bà ngoại",
+                        "maternal grandma",
+                        "[sound:rec1666693323.mp3]",
+                        "[sound:rec1666693340.mp3]",
+                        "My maternal grandma is not Hanoian."
+                    ],
+                    "guid": "Ai@45<CQXA",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bà",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bà ơi, hôm nay tôi không đi được với bà.",
+                        "bà&nbsp;",
+                        "a pronoun to call a friend who is exactly your age (casual)",
+                        "[sound:rec1666693564.mp3]",
+                        "[sound:rec1666693569.mp3]",
+                        "Hey, I can't go with you today."
+                    ],
+                    "guid": "Q1r0oBa^IP",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bà",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Anh tên là gì ạ?",
                         "anh",
                         "(pronoun) to call a male who is a few years older than you",
@@ -3065,6 +4043,318 @@
                     "tags": [
                         "tiengviet::meta::by_word::anh",
                         "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bố ai mà biết được!",
+                        "bố&nbsp;",
+                        "to add authority / condescension&nbsp;",
+                        "[sound:rec1667038968.mp3]",
+                        "[sound:rec1667038980.mp3]",
+                        "Who the hell knows?!"
+                    ],
+                    "guid": "O>.OXYuaj2",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::bố",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh ý không cao lắm.",
+                        "cao&nbsp;",
+                        "tall",
+                        "[sound:rec1667122561.mp3]",
+                        "[sound:rec1667122707.mp3]",
+                        "He's not very tall."
+                    ],
+                    "guid": "lB_R|FY}}u",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cao",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Để em làm cái này cho anh.",
+                        "cho",
+                        "for",
+                        "[sound:rec1667123565.mp3]",
+                        "[sound:rec1667123720.mp3]",
+                        "Let me do this for you."
+                    ],
+                    "guid": "z~`R^c7UfV",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mẹ em không bao giờ cho em ngủ ở nhà bạn.",
+                        "cho",
+                        "to allow / to let somebody do something&nbsp;",
+                        "[sound:rec1667123859.mp3]",
+                        "[sound:rec1667124234.mp3]",
+                        "My mum never allows me to sleep at my friend's house."
+                    ],
+                    "guid": "OHL#kgpHsx",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cho",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em chán ăn thịt bò lắm rồi.",
+                        "chán",
+                        "to be sick of something / to fall out of love with/sick of someone",
+                        "[sound:rec1667375428.mp3]",
+                        "[sound:rec1667375434.mp3]",
+                        "I'm sick of eating beef already."
+                    ],
+                    "guid": "s#tq%1I45Y",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chán",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em ăn sáng chưa?",
+                        "chưa",
+                        "yet?",
+                        "[sound:rec1667385727.mp3]",
+                        "[sound:rec1667385731.mp3]",
+                        "Have you eaten breakfast yet?"
+                    ],
+                    "guid": "O_oP_X[cDR",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chưa",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chanh rất chua.",
+                        "chua",
+                        "sour",
+                        "[sound:rec1667386385.mp3]",
+                        "[sound:rec1667386388.mp3]",
+                        "Limes are really sour."
+                    ],
+                    "guid": "N|!7Xy&74f",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chua",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mùi mồ hôi của nó lúc nào cũng chua.",
+                        "chua",
+                        "a disgusting smell of sweat&nbsp;",
+                        "[sound:rec1667386735.mp3]",
+                        "[sound:rec1667386744.mp3]",
+                        "His sweat always smells disgusting."
+                    ],
+                    "guid": "pp.h)io~$A",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chua",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mèo thích ăn chuột.",
+                        "chuột",
+                        "mouse (animal)",
+                        "[sound:rec1667386942.mp3]",
+                        "[sound:rec1667386946.mp3]",
+                        "Cats like to eat mice."
+                    ],
+                    "guid": "fE|<mXH%#1",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chuột",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh đang chán quá!",
+                        "chán",
+                        "bored",
+                        "[sound:rec1667387047.mp3]",
+                        "[sound:rec1667387054.mp3]",
+                        "I'm so bored!"
+                    ],
+                    "guid": "x~w$|y8POs",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chán",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mấy người đấy toàn nói về những thứ rất là chán.&nbsp;",
+                        "chán",
+                        "boring",
+                        "[sound:rec1667387130.mp3]",
+                        "[sound:rec1667387170.mp3]",
+                        "Those people always talk about boring things."
+                    ],
+                    "guid": "eQ^(mk2A>N",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chán",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cháu mấy tuổi rồi?",
+                        "cháu",
+                        "a pronoun to refer to someone who's your niece/nephew/grandchild's age",
+                        "[sound:rec1667387604.mp3]",
+                        "[sound:rec1667387609.mp3]",
+                        "How old are you?"
+                    ],
+                    "guid": "s|S;Mc,9bX",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cháu",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chú ơi cho cháu một bún bò Huế.",
+                        "chú",
+                        "a pronoun for younger uncles",
+                        "[sound:rec1667388046.mp3]",
+                        "[sound:rec1667388049.mp3]",
+                        "Hey! Can I have a bún bò Huế?"
+                    ],
+                    "guid": "if#t:F=Q_{",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chú",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Áo này em mặc hơi chật.",
+                        "chật",
+                        "tight, small&nbsp;(for size) (negative)",
+                        "[sound:rec1667555633.mp3]",
+                        "[sound:rec1667555637.mp3]",
+                        "This top is a bit tight for me."
+                    ],
+                    "guid": "n4HIS)2vRA",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chật",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh ý chăm lắm, ngày nào cũng vừa đi học vừa đi làm.",
+                        "chăm",
+                        "hard-working",
+                        "[sound:rec1667555886.mp3]",
+                        "[sound:rec1667555891.mp3]",
+                        "He's really hard-working. He works and studies every day."
+                    ],
+                    "guid": "h:oQWIL#vn",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chăm",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em chưa ăn sáng.",
+                        "chưa",
+                        "not yet&nbsp;",
+                        "[sound:rec1667385727.mp3]",
+                        "[sound:rec1667556493.mp3]",
+                        "I've not had breakfast yet."
+                    ],
+                    "guid": "BNAK4Uc:yQ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chưa",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mọi người nghĩ con gái thường thích màu hồng.",
+                        "con gái",
+                        "girl",
+                        "[sound:rec1667558862.mp3]",
+                        "[sound:rec1667558853.mp3]",
+                        "People think that girls usually like pink."
+                    ],
+                    "guid": "e$m*^Ri*C?",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::con_gái",
+                        "tiengviet::meta::meaning::ambigious",
+                        "tiengviet::meta::pos::common_noun",
+                        "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chị gái em có một con gái.",
+                        "con gái",
+                        "daughter",
+                        "[sound:rec1667558862.mp3]",
+                        "[sound:rec1667558978.mp3]",
+                        "My older sister has a daughter."
+                    ],
+                    "guid": "Q,Fec/yF?a",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::con_gái",
+                        "tiengviet::meta::meaning::ambigious",
+                        "tiengviet::meta::pos::common_noun",
+                        "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::22"
                     ]
                 }
             ],
@@ -5521,9 +6811,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "rec1664101674.mp3",
                 "rec1664101678.mp3",
-                "rec1664101700.mp3",
                 "rec1664101705.mp3",
                 "rec1664101717.mp3",
                 "rec1664101721.mp3",
@@ -5610,7 +6898,6 @@
                 "rec1664342771.mp3",
                 "rec1664342775.mp3",
                 "rec1664342779.mp3",
-                "rec1664342787.mp3",
                 "rec1664342793.mp3",
                 "rec1664342797.mp3",
                 "rec1664342808.mp3",
@@ -5673,122 +6960,7 @@
                 "rec1664439769.mp3",
                 "rec1664439776.mp3",
                 "rec1664439779.mp3",
-                "rec1664619683.mp3",
-                "rec1666693285.mp3",
-                "rec1666693291.mp3",
-                "rec1666693323.mp3",
-                "rec1666693340.mp3",
-                "rec1666693564.mp3",
-                "rec1666693569.mp3",
-                "rec1666770032.mp3",
-                "rec1666770036.mp3",
-                "rec1666770277.mp3",
-                "rec1666771364.mp3",
-                "rec1666771759.mp3",
-                "rec1666771764.mp3",
-                "rec1666772025.mp3",
-                "rec1666772029.mp3",
-                "rec1666772247.mp3",
-                "rec1666772268.mp3",
-                "rec1666772562.mp3",
-                "rec1666772579.mp3",
-                "rec1666772795.mp3",
-                "rec1666772802.mp3",
-                "rec1666772846.mp3",
-                "rec1667036975.mp3",
-                "rec1667037049.mp3",
-                "rec1667037493.mp3",
-                "rec1667037500.mp3",
-                "rec1667037710.mp3",
-                "rec1667037714.mp3",
-                "rec1667037830.mp3",
-                "rec1667037898.mp3",
-                "rec1667037904.mp3",
-                "rec1667038281.mp3",
-                "rec1667038285.mp3",
-                "rec1667038778.mp3",
-                "rec1667038790.mp3",
-                "rec1667038968.mp3",
-                "rec1667038980.mp3",
-                "rec1667122561.mp3",
-                "rec1667122707.mp3",
-                "rec1667122849.mp3",
-                "rec1667122903.mp3",
-                "rec1667123163.mp3",
-                "rec1667123166.mp3",
-                "rec1667123346.mp3",
-                "rec1667123350.mp3",
-                "rec1667123565.mp3",
-                "rec1667123720.mp3",
-                "rec1667123859.mp3",
-                "rec1667123892.mp3",
-                "rec1667124234.mp3",
-                "rec1667124465.mp3",
-                "rec1667124715.mp3",
-                "rec1667124904.mp3",
-                "rec1667125093.mp3",
-                "rec1667125520.mp3",
-                "rec1667125616.mp3",
-                "rec1667125620.mp3",
-                "rec1667375206.mp3",
-                "rec1667375211.mp3",
-                "rec1667375332.mp3",
-                "rec1667375428.mp3",
-                "rec1667375434.mp3",
-                "rec1667375504.mp3",
-                "rec1667375522.mp3",
-                "rec1667385727.mp3",
-                "rec1667385731.mp3",
-                "rec1667386385.mp3",
-                "rec1667386388.mp3",
-                "rec1667386452.mp3",
-                "rec1667386516.mp3",
-                "rec1667386735.mp3",
-                "rec1667386744.mp3",
-                "rec1667386827.mp3",
-                "rec1667386831.mp3",
-                "rec1667386942.mp3",
-                "rec1667386946.mp3",
-                "rec1667387047.mp3",
-                "rec1667387054.mp3",
-                "rec1667387130.mp3",
-                "rec1667387170.mp3",
-                "rec1667387604.mp3",
-                "rec1667387609.mp3",
-                "rec1667387834.mp3",
-                "rec1667388046.mp3",
-                "rec1667388049.mp3",
-                "rec1667388136.mp3",
-                "rec1667388140.mp3",
-                "rec1667388323.mp3",
-                "rec1667388358.mp3",
-                "rec1667555633.mp3",
-                "rec1667555637.mp3",
-                "rec1667555738.mp3",
-                "rec1667555827.mp3",
-                "rec1667555886.mp3",
-                "rec1667555891.mp3",
-                "rec1667555988.mp3",
-                "rec1667556024.mp3",
-                "rec1667556493.mp3",
-                "rec1667556980.mp3",
-                "rec1667556996.mp3",
-                "rec1667557034.mp3",
-                "rec1667557039.mp3",
-                "rec1667557134.mp3",
-                "rec1667557194.mp3",
-                "rec1667557200.mp3",
-                "rec1667557465.mp3",
-                "rec1667557571.mp3",
-                "rec1667557830.mp3",
-                "rec1667557845.mp3",
-                "rec1667558130.mp3",
-                "rec1667558134.mp3",
-                "rec1667558451.mp3",
-                "rec1667558663.mp3",
-                "rec1667558853.mp3",
-                "rec1667558862.mp3",
-                "rec1667558978.mp3"
+                "rec1664619683.mp3"
             ],
             "name": "void",
             "newLimit": null,
@@ -8993,76 +10165,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Bà nội em không phải là người Hà Nội.",
-                        "bà nội",
-                        "paternal grandma",
-                        "[sound:rec1666693285.mp3]",
-                        "[sound:rec1666693291.mp3]",
-                        "My paternal grandma is not Hanoian."
-                    ],
-                    "guid": "3rgf5tnyN5",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bà",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bác ý không phải là bác ruột của em.",
-                        "bác ruột",
-                        "your actual older uncle/aunt&nbsp;",
-                        "[sound:rec1666770032.mp3]",
-                        "[sound:rec1666770036.mp3]",
-                        "He's not my actual older uncle."
-                    ],
-                    "guid": "rs4GxDVX2K",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Có một bác công nhân đang ăn trưa.&nbsp;",
-                        "bác&nbsp;",
-                        "a classifier for people to show that person's age/gender (in front of a noun)",
-                        "[sound:rec1664101674.mp3]",
-                        "[sound:rec1666770277.mp3]",
-                        "There's an older worker having lunch."
-                    ],
-                    "guid": "XJWf5u-aXO",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Nếu anh đi Hà Nội thì anh phải thăm lăng Bác.",
-                        "Bác",
-                        "(always capitalised) Ho Chi Minh / Uncle Ho",
-                        "[sound:rec1664101674.mp3]",
-                        "[sound:rec1666771364.mp3]",
-                        "If you go to Hanoi then you have to visit Ho Chi Minh Mausoleum."
-                    ],
-                    "guid": "-CHa3r55CZ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bác",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "hai cô cháu",
                         "cô",
                         "em gái hoặc chị của cha [có thể dùng để xưng gọi]",
@@ -9196,76 +10298,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Có mấy chú công nhân đang đứng ở ngoài.",
-                        "chú",
-                        "a classifier for some specific nouns to clarify their age and gender",
-                        "[sound:rec1667388136.mp3]",
-                        "[sound:rec1667388140.mp3]",
-                        "There are some workers standing outside."
-                    ],
-                    "guid": "AwWsoIyjRS",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chị nói với chú rồi mà chú không nghe chị!",
-                        "chú",
-                        "to address a younger male in a fairly condescending way (mainly used by older people)",
-                        "[sound:rec1667388323.mp3]",
-                        "[sound:rec1667388358.mp3]",
-                        "I already told you but you don't listen to me!"
-                    ],
-                    "guid": "yloQRg6qtl",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chị ruột em hơn em 15 tuổi.",
-                        "chị",
-                        "your actual older sister",
-                        "[sound:rec1667557034.mp3]",
-                        "[sound:rec1667557039.mp3]",
-                        "My older sister is 15 years older than me.&nbsp;"
-                    ],
-                    "guid": "jEQtdUqNLb",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chị",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chị bán hàng bảo là chị ý không có tiền lẻ.",
-                        "chị",
-                        "a classifier for some specific nouns to clarify their age and gender",
-                        "[sound:rec1664101700.mp3]",
-                        "[sound:rec1667557134.mp3]",
-                        "The seller said she didn't have change."
-                    ],
-                    "guid": "xOnfF4r3V3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chị",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "em gái ruột",
                         "em",
                         "người cùng một thế hệ trong gia đình, trong họ, nhưng thuộc hàng dưới [sinh sau, là con nhà chú, v.v.], trong quan hệ với anh, chị của mình [có thể dùng để xưng gọi]",
@@ -9336,94 +10368,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::em",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chó con thường rất là đáng yêu.",
-                        "con",
-                        "young, small (animal)",
-                        "[sound:rec1667558130.mp3]",
-                        "[sound:rec1667558134.mp3]",
-                        "Puppies are usually really cute."
-                    ],
-                    "guid": "pwCwLaIruq",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Con mèo nhà em không thích ăn cá.",
-                        "con",
-                        "a classifier for animals",
-                        "[sound:rec1667557830.mp3]",
-                        "[sound:rec1667557845.mp3]",
-                        "My family's cat doesn't like eating fish."
-                    ],
-                    "guid": "8qK1-Q3oeD",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Nhìn mặt con đấy khó chịu vãi!",
-                        "con",
-                        "to refer to a female in a disrespectful/hateful/condescending way",
-                        "[sound:rec1667558130.mp3]",
-                        "[sound:rec1667558451.mp3]",
-                        "She looks so freaking annoying!"
-                    ],
-                    "guid": "irOsui2oe-",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em không thích kiểu đàn ông to con quá.",
-                        "con",
-                        "physique&nbsp;",
-                        "[sound:rec1667558130.mp3]",
-                        "[sound:rec1667558663.mp3]",
-                        "I don't like the type of men who are big and muscular."
-                    ],
-                    "guid": "9eBLTUFGQE",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh chị được mấy cháu?",
-                        "cháu",
-                        "used to refer to other people's children or your own when talking to other people (to be polite)",
-                        "[sound:rec1667387604.mp3]",
-                        "[sound:rec1667387834.mp3]",
-                        "How many kids do you have?"
-                    ],
-                    "guid": "YwaXJJQa_z",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cháu",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -9538,23 +10482,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ơi",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em mới mua chuột mới cho laptop của em.",
-                        "chuột",
-                        "mouse (for computers)",
-                        "[sound:rec1667386827.mp3]",
-                        "[sound:rec1667386831.mp3]",
-                        "I just bought a new mouse for my laptop."
-                    ],
-                    "guid": "qcPAOIbql6",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chuột",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -10372,40 +11299,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cũng",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em có 3 bạn thân.&nbsp;",
-                        "bạn&nbsp;",
-                        "friend",
-                        "[sound:rec1667036975.mp3]",
-                        "[sound:rec1667037049.mp3]",
-                        "I have 3 close friends."
-                    ],
-                    "guid": "OByvDzMajY",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bạn",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Việt Nam muốn gây ấn tượng với nước bạn trong chuyến thăm lần này.",
-                        "bạn",
-                        "(formal) used after a noun to refer to a country/team/organisation with whom you have a friendly relationship",
-                        "[sound:rec1667037493.mp3]",
-                        "[sound:rec1667037500.mp3]",
-                        "Vietnam wants to impress the other country during this visit."
-                    ],
-                    "guid": "VGABkeD84r",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bạn",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -11413,23 +12306,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::thương",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Còn chán người giỏi.",
-                        "chán",
-                        "to emphasize the abundance of something to stop the listener from worrying",
-                        "[sound:rec1667375504.mp3]",
-                        "[sound:rec1667375522.mp3]",
-                        "There are still plentyyy of people with good skills."
-                    ],
-                    "guid": "kZt44yajjs",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chán",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -15312,59 +16188,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Bố nào con nấy.",
-                        "bố",
-                        "dad",
-                        "[sound:rec1667037898.mp3]",
-                        "[sound:rec1667037904.mp3]",
-                        "Like father, like son."
-                    ],
-                    "guid": "sGrmA-QQ2r",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Nghịch vừa vừa thôi bố ạ!",
-                        "bố",
-                        "(slang) to call a younger male in a joking way&nbsp;",
-                        "[sound:rec1667038281.mp3]",
-                        "[sound:rec1667038285.mp3]",
-                        "Stop messing around, you!"
-                    ],
-                    "guid": "cZkpE-3Ezu",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bố mày biết rồi.",
-                        "bố mày",
-                        "to insult others by calling yourself 'their father' (can be used between close friends or strangers)",
-                        "[sound:rec1667038778.mp3]",
-                        "[sound:rec1667038790.mp3]",
-                        "I know.&nbsp;"
-                    ],
-                    "guid": "tEOGrI5KdI",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "cha sinh mẹ dưỡng",
                         "mẹ",
                         "người phụ nữ có con, trong quan hệ với con [cũng dùng để xưng gọi]",
@@ -16581,74 +17404,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Thấy chưa, em đã bảo rồi mà!",
-                        "chưa",
-                        "(final particle) to seek approval/agreement from the other listen for something obvious&nbsp;",
-                        "[sound:rec1667556980.mp3]",
-                        "[sound:rec1667556996.mp3]",
-                        "See, I told you so!"
-                    ],
-                    "guid": "tX0hfNeG_I",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chưa",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Nó 35 tuổi rồi mà chưa lấy chồng.",
-                        "chồng",
-                        "husband",
-                        "[sound:rec1667557194.mp3]",
-                        "[sound:rec1667557200.mp3]",
-                        "She's 35 already but she's not married yet.&nbsp;"
-                    ],
-                    "guid": "9e93SAR3Mt",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chồng",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chú chồng cái thùng này lên cái thùng kia cho cháu nhé.&nbsp;",
-                        "chồng",
-                        "to stack&nbsp;",
-                        "[sound:rec1667557194.mp3]",
-                        "[sound:rec1667557465.mp3]",
-                        "Can you stack this box on top of the other one for me?"
-                    ],
-                    "guid": "UUeai7QH8i",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chồng",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em có 1 chồng sách cũ đang để ở ngoài.",
-                        "chồng",
-                        "a stack of something",
-                        "[sound:rec1667557194.mp3]",
-                        "[sound:rec1667557571.mp3]",
-                        "I have a stack of old books that I'm leaving outside."
-                    ],
-                    "guid": "bwioZ5YrDZ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chồng",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "tiến lên trước",
                         "trước",
                         "phía những vị trí mà mắt nhìn thẳng có thể thấy được",
@@ -17067,40 +17822,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Anh bận áo này được không?",
-                        "bận",
-                        "to wear",
-                        "[sound:rec1664342787.mp3]",
-                        "[sound:rec1667037830.mp3]",
-                        "Can I wear this top?"
-                    ],
-                    "guid": "ZR4AOxmmzF",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bận",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bây giờ anh đang bận học.",
-                        "bận",
-                        "busy",
-                        "[sound:rec1667037710.mp3]",
-                        "[sound:rec1667037714.mp3]",
-                        "Right now I'm busy studying."
-                    ],
-                    "guid": "ciqK883dpQ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bận",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "một ngày có 24 giờ",
                         "giờ",
                         "đơn vị đo thời gian, bằng 60 phút, 3.600 giây",
@@ -17247,159 +17968,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::mọi",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mẹ em không bao giờ cho em tiền.",
-                        "cho",
-                        "to give (permanently)",
-                        "[sound:rec1667123859.mp3]",
-                        "[sound:rec1667123892.mp3]",
-                        "My mum never gives me money."
-                    ],
-                    "guid": "iVDngmzcW3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh phải cho dầu vào máy thì máy mới chạy được.",
-                        "cho",
-                        "to put something into something else for it to function",
-                        "[sound:rec1667123859.mp3]",
-                        "[sound:rec1667124465.mp3]",
-                        "Only when you put oil into the machine can it run.&nbsp;"
-                    ],
-                    "guid": "jgInBN0Dc7",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh ý lúc nào cũng tự cho mình là giỏi.",
-                        "cho",
-                        "to consider your own self as something",
-                        "[sound:rec1667123859.mp3]",
-                        "[sound:rec1667124715.mp3]",
-                        "He always considers himself to be good."
-                    ],
-                    "guid": "wWSZR86V8l",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em ơi, cho anh một bún bò Huế nhé!",
-                        "cho",
-                        "to order food/drinks at restaurants",
-                        "[sound:rec1667123859.mp3]",
-                        "[sound:rec1667124904.mp3]",
-                        "Hi, can I have a bún bò Huế?"
-                    ],
-                    "guid": "Cy64Dv0ICR",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em gửi cái này cho ai?",
-                        "cho",
-                        "(from..) to..",
-                        "[sound:rec1667123859.mp3]",
-                        "[sound:rec1667125093.mp3]",
-                        "Who are you sending this to?"
-                    ],
-                    "guid": "ftY_4QmVp0",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Hôm nay em ý muốn trang điểm cho xinh.",
-                        "cho",
-                        "for + adj",
-                        "[sound:rec1667123859.mp3]",
-                        "[sound:rec1667125520.mp3]",
-                        "Today she wants to put on makeup to be pretty."
-                    ],
-                    "guid": "LW3fNkKnMK",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mặc cho mưa gió, em vẫn cứ đi.",
-                        "mặc cho",
-                        "despite&nbsp;",
-                        "[sound:rec1667125616.mp3]",
-                        "[sound:rec1667125620.mp3]",
-                        "Despite stormy weather, I'll still go."
-                    ],
-                    "guid": "bEM78rPYkv",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mẹ bảo sẽ đánh cho nó một trận vì nó hư.&nbsp;",
-                        "cho",
-                        "to refer to a negative action is done towards someone",
-                        "[sound:rec1667375206.mp3]",
-                        "[sound:rec1667375211.mp3]",
-                        "Mum says she will beat him because he's been naughty.&nbsp;"
-                    ],
-                    "guid": "yZF4xq63ex",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mong anh giúp cho.",
-                        "cho",
-                        "to ask for a favour, demand with the hope that the other person will be understanding&nbsp;&nbsp;",
-                        "[sound:rec1667375206.mp3]",
-                        "[sound:rec1667375332.mp3]",
-                        "I hope you can help (me)."
-                    ],
-                    "guid": "l0uVeIeS8s",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -18888,57 +19456,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Sức khoẻ của anh ý vẫn bình thường.",
-                        "bình thường",
-                        "normal",
-                        "[sound:rec1666772802.mp3]",
-                        "[sound:rec1666772795.mp3]",
-                        "His health is still normal."
-                    ],
-                    "guid": "SvA8u0Tizj",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bình_thường",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bình thường anh ý dậy rất sớm.",
-                        "bình thường",
-                        "(adv) normally",
-                        "[sound:rec1666772802.mp3]",
-                        "[sound:rec1666772846.mp3]",
-                        "Normally he gets up very early."
-                    ],
-                    "guid": "ZKRRJYrzoY",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bình_thường",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Có nhiều người Nhật giọng rất chua.&nbsp;",
-                        "chua",
-                        "to describe an annoyingly high-pitched voice",
-                        "[sound:rec1667386452.mp3]",
-                        "[sound:rec1667386516.mp3]",
-                        "There are many Japanese people with high-pitched voice.&nbsp;"
-                    ],
-                    "guid": "OWmsJDli1D",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chua",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "vắt sữa bò",
                         "sữa",
                         "chất lỏng màu trắng đục do tuyến vú của phụ nữ hoặc động vật có vú giống cái tiết ra để nuôi con",
@@ -19376,40 +19893,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Nhà em chật lắm, không đủ chỗ cho 5 người đâu!",
-                        "chật",
-                        "narrow, small (for space)",
-                        "[sound:rec1667555633.mp3]",
-                        "[sound:rec1667555827.mp3]",
-                        "My house is really small, there's not enough space for 5 people!"
-                    ],
-                    "guid": "QT0eVMMh6x",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chật",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Người dân đứng chật hai bên đường vì tò mò.",
-                        "chật",
-                        "crowded / packed with people",
-                        "[sound:rec1667555633.mp3]",
-                        "[sound:rec1667555738.mp3]",
-                        "The sides of the street were packed with people standing there out of curiosity."
-                    ],
-                    "guid": "Ft7E2Ys2I0",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chật",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "tấm vải dài 5 mét",
                         "dài",
                         "có khoảng cách bao nhiêu đó từ đầu này đến đầu kia, theo chiều nằm ngang và thường là có kích thước lớn nhất [gọi là chiều dài] của vật",
@@ -19518,57 +20001,6 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ngắn",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Có nhiều người Việt thích dùng cao hổ hoặc cao gấu để chữa bệnh.&nbsp;",
-                        "cao",
-                        "medicinal products made from tiger bones&nbsp;",
-                        "[sound:rec1667122849.mp3]",
-                        "[sound:rec1667122903.mp3]",
-                        "There are many Vietnamese people who like to use tiger or bear bone broth to cure diseases.&nbsp;"
-                    ],
-                    "guid": "rm5eKhOFOi",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cao",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Núi này rất cao.",
-                        "cao",
-                        "high&nbsp;",
-                        "[sound:rec1667123163.mp3]",
-                        "[sound:rec1667123166.mp3]",
-                        "This mountain is really&nbsp;high.&nbsp;"
-                    ],
-                    "guid": "LJ9CayINz9",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cao",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Món này rất tốt cho người cao tuổi.",
-                        "cao tuổi",
-                        "elderly/old age",
-                        "[sound:rec1667123346.mp3]",
-                        "[sound:rec1667123350.mp3]",
-                        "This dish is very good for elderly people."
-                    ],
-                    "guid": "0ldtWqe2jS",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cao",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -21646,143 +22078,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Đừng béo má nó, nó đau!&nbsp;",
-                        "béo",
-                        "to pinch someone",
-                        "[sound:rec1666772025.mp3]",
-                        "[sound:rec1666772029.mp3]",
-                        "Don't pinch his cheeks, it hurts!"
-                    ],
-                    "guid": "h3WTOku0-c",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Nhà em có hai con mèo béo.",
-                        "béo",
-                        "(adj) fat&nbsp;",
-                        "[sound:rec1666771759.mp3]",
-                        "[sound:rec1666771764.mp3]",
-                        "My house has 2 fat cats."
-                    ],
-                    "guid": "GWZWOzix3T",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bơ có nhiều chất béo.",
-                        "chất béo",
-                        "(noun) fat (in nuitrition/food)",
-                        "[sound:rec1666772268.mp3]",
-                        "[sound:rec1666772247.mp3]",
-                        "Butter has a lot of fat."
-                    ],
-                    "guid": "8efP0-tRc5",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Cho em một phở gà nhiều nước béo.",
-                        "nước béo",
-                        "fatty/oily broth in noodle soup dishes",
-                        "[sound:rec1666772562.mp3]",
-                        "[sound:rec1666772579.mp3]",
-                        "Can I have a chicken pho with a lot of fatty broth?"
-                    ],
-                    "guid": "_as4PeUujF",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::béo",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em phải về nhà bố mẹ để chăm bà em đang ốm.",
-                        "chăm",
-                        "to take care of someone / something",
-                        "[sound:rec1667555988.mp3]",
-                        "[sound:rec1667556024.mp3]",
-                        "I have to go back to my parents' to take care of my grandma who's sick."
-                    ],
-                    "guid": "KZ5c6BNhO-",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chăm",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bà ngoại em không phải là người Hà Nội.",
-                        "bà ngoại",
-                        "maternal grandma",
-                        "[sound:rec1666693323.mp3]",
-                        "[sound:rec1666693340.mp3]",
-                        "My maternal grandma is not Hanoian."
-                    ],
-                    "guid": "Ai@45<CQXA",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bà",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bà ơi, hôm nay tôi không đi được với bà.",
-                        "bà&nbsp;",
-                        "a pronoun to call a friend who is exactly your age (casual)",
-                        "[sound:rec1666693564.mp3]",
-                        "[sound:rec1666693569.mp3]",
-                        "Hey, I can't go with you today."
-                    ],
-                    "guid": "Q1r0oBa^IP",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bà",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bố ai mà biết được!",
-                        "bố&nbsp;",
-                        "to add authority / condescension&nbsp;",
-                        "[sound:rec1667038968.mp3]",
-                        "[sound:rec1667038980.mp3]",
-                        "Who the hell knows?!"
-                    ],
-                    "guid": "O>.OXYuaj2",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::bố",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "chị ấy có một con",
                         "có",
                         "từ biểu thị trạng thái tồn tại trong mối quan hệ nguồn gốc, thân thuộc, tác động qua lại với nhau, v.v. nói chung",
@@ -21930,301 +22225,6 @@
                         "tiengviet::meta::by_word::ăn",
                         "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh ý không cao lắm.",
-                        "cao&nbsp;",
-                        "tall",
-                        "[sound:rec1667122561.mp3]",
-                        "[sound:rec1667122707.mp3]",
-                        "He's not very tall."
-                    ],
-                    "guid": "lB_R|FY}}u",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cao",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Để em làm cái này cho anh.",
-                        "cho",
-                        "for",
-                        "[sound:rec1667123565.mp3]",
-                        "[sound:rec1667123720.mp3]",
-                        "Let me do this for you."
-                    ],
-                    "guid": "z~`R^c7UfV",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mẹ em không bao giờ cho em ngủ ở nhà bạn.",
-                        "cho",
-                        "to allow / to let somebody do something&nbsp;",
-                        "[sound:rec1667123859.mp3]",
-                        "[sound:rec1667124234.mp3]",
-                        "My mum never allows me to sleep at my friend's house."
-                    ],
-                    "guid": "OHL#kgpHsx",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cho",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em chán ăn thịt bò lắm rồi.",
-                        "chán",
-                        "to be sick of something / to fall out of love with/sick of someone",
-                        "[sound:rec1667375428.mp3]",
-                        "[sound:rec1667375434.mp3]",
-                        "I'm sick of eating beef already."
-                    ],
-                    "guid": "s#tq%1I45Y",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chán",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em ăn sáng chưa?",
-                        "chưa",
-                        "yet?",
-                        "[sound:rec1667385727.mp3]",
-                        "[sound:rec1667385731.mp3]",
-                        "Have you eaten breakfast yet?"
-                    ],
-                    "guid": "O_oP_X[cDR",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chưa",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chanh rất chua.",
-                        "chua",
-                        "sour",
-                        "[sound:rec1667386385.mp3]",
-                        "[sound:rec1667386388.mp3]",
-                        "Limes are really sour."
-                    ],
-                    "guid": "N|!7Xy&74f",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chua",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mùi mồ hôi của nó lúc nào cũng chua.",
-                        "chua",
-                        "a disgusting smell of sweat&nbsp;",
-                        "[sound:rec1667386735.mp3]",
-                        "[sound:rec1667386744.mp3]",
-                        "His sweat always smells disgusting."
-                    ],
-                    "guid": "pp.h)io~$A",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chua",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mèo thích ăn chuột.",
-                        "chuột",
-                        "mouse (animal)",
-                        "[sound:rec1667386942.mp3]",
-                        "[sound:rec1667386946.mp3]",
-                        "Cats like to eat mice."
-                    ],
-                    "guid": "fE|<mXH%#1",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chuột",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh đang chán quá!",
-                        "chán",
-                        "bored",
-                        "[sound:rec1667387047.mp3]",
-                        "[sound:rec1667387054.mp3]",
-                        "I'm so bored!"
-                    ],
-                    "guid": "x~w$|y8POs",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chán",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mấy người đấy toàn nói về những thứ rất là chán.&nbsp;",
-                        "chán",
-                        "boring",
-                        "[sound:rec1667387130.mp3]",
-                        "[sound:rec1667387170.mp3]",
-                        "Those people always talk about boring things."
-                    ],
-                    "guid": "eQ^(mk2A>N",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chán",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Cháu mấy tuổi rồi?",
-                        "cháu",
-                        "a pronoun to refer to someone who's your niece/nephew/grandchild's age",
-                        "[sound:rec1667387604.mp3]",
-                        "[sound:rec1667387609.mp3]",
-                        "How old are you?"
-                    ],
-                    "guid": "s|S;Mc,9bX",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::cháu",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chú ơi cho cháu một bún bò Huế.",
-                        "chú",
-                        "a pronoun for younger uncles",
-                        "[sound:rec1667388046.mp3]",
-                        "[sound:rec1667388049.mp3]",
-                        "Hey! Can I have a bún bò Huế?"
-                    ],
-                    "guid": "if#t:F=Q_{",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chú",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Áo này em mặc hơi chật.",
-                        "chật",
-                        "tight, small&nbsp;(for size) (negative)",
-                        "[sound:rec1667555633.mp3]",
-                        "[sound:rec1667555637.mp3]",
-                        "This top is a bit tight for me."
-                    ],
-                    "guid": "n4HIS)2vRA",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chật",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh ý chăm lắm, ngày nào cũng vừa đi học vừa đi làm.",
-                        "chăm",
-                        "hard-working",
-                        "[sound:rec1667555886.mp3]",
-                        "[sound:rec1667555891.mp3]",
-                        "He's really hard-working. He works and studies every day."
-                    ],
-                    "guid": "h:oQWIL#vn",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chăm",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em chưa ăn sáng.",
-                        "chưa",
-                        "not yet&nbsp;",
-                        "[sound:rec1667385727.mp3]",
-                        "[sound:rec1667556493.mp3]",
-                        "I've not had breakfast yet."
-                    ],
-                    "guid": "BNAK4Uc:yQ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::chưa",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mọi người nghĩ con gái thường thích màu hồng.",
-                        "con gái",
-                        "girl",
-                        "[sound:rec1667558862.mp3]",
-                        "[sound:rec1667558853.mp3]",
-                        "People think that girls usually like pink."
-                    ],
-                    "guid": "e$m*^Ri*C?",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::con_gái",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::22"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chị gái em có một con gái.",
-                        "con gái",
-                        "daughter",
-                        "[sound:rec1667558862.mp3]",
-                        "[sound:rec1667558978.mp3]",
-                        "My older sister has a daughter."
-                    ],
-                    "guid": "Q,Fec/yF?a",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::by_word::con_gái",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::22"
                     ]
                 }
             ],
@@ -22485,7 +22485,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-            "css": ":root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}*,:after,:before{box-sizing:border-box}html{font-family:-apple-system,BlinkMacSystemFont,Avenir,Avenir Next,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-size:15px;line-height:1.6;font-weight:400;color:var(--text-main);background:var(--background-body);-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;text-rendering:optimizeLegibility}body{margin:0;font-size:1em}::-webkit-input-placeholder{color:var(--form-placeholder)}::-moz-placeholder{color:var(--form-placeholder)}:-ms-input-placeholder{color:var(--form-placeholder)}::-ms-input-placeholder{color:var(--form-placeholder)}::placeholder{color:var(--form-placeholder)}::-moz-selection{background-color:var(--selection)}::selection{background-color:var(--selection)}th{text-align:start}th{padding:.5rem}th{background:hsla(0,0%,39.2%,.025)}h1,h2,h3,h4,h5,h6{font-weight:400;line-height:1.3em;margin:var(--heading-margin);color:var(--text-c,inherit)}h1{font-size:var(--typo-size-1)}h2{font-size:var(--typo-size-2)}h3{font-size:var(--typo-size-3)}h4{font-size:var(--typo-size-4)}h5{font-size:var(--typo-size-5)}h6{font-size:var(--typo-size-6);line-height:1.6em}a{color:var(--links);text-decoration:none}th{font-weight:700}:root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}[style*=\"--grad:\"]{background-image:linear-gradient(var(--grad),transparent,var(--grad-color,#000))}[style*=\"--grad-vars:\"]{background-image:linear-gradient(var(--grad-vars),var(--primary),var(--secondary))}[style*=\"--bg-pattern-squares:\"]{background-image:repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor),repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor);background-position:0 0,calc(var(--bg-pattern-squares)*1px) calc(var(--bg-pattern-squares)*1px);background-size:calc(var(--bg-pattern-squares)*2px) calc(var(--bg-pattern-squares)*2px)}[style*=\"--wrapper:\"]{max-width:var(--wrapper);margin-left:auto;margin-right:auto;padding-left:var(--gutter);padding-right:var(--gutter)}[style*=\"--inset:\"]{top:var(--inset);left:var(--inset);right:var(--inset);bottom:var(--inset)}[style*=\"--inset-top:\"]{top:var(--inset-top);left:var(--inset-top);right:var(--inset-top)}[style*=\"--inset-bottom:\"]{left:var(--inset-bottom);right:var(--inset-bottom);bottom:var(--inset-bottom)}[style*=\"--inset-top-left:\"]{top:var(--inset-top-left);left:var(--inset-top-left)}[style*=\"--inset-top-right:\"]{top:var(--inset-top-right);right:var(--inset-top-right)}[style*=\"--inset-bottom-left:\"]{bottom:var(--inset-bottom-left);left:var(--inset-bottom-left)}[style*=\"--inset-bottom-right:\"]{bottom:var(--inset-bottom-right);right:var(--inset-bottom-right)}[style*=\"--levitate:\"]{box-shadow:0 calc(var(--levitate)*.5px) calc(var(--levitate)*.6px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*1px) calc(var(--levitate)*1.2px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*2px) calc(var(--levitate)*2.4px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*4px) calc(var(--levitate)*4.4px) rgba(0,0,0,calc(var(--levitate)*.013));transform:translateY(calc(var(--levitate)*-1.2px))}[style*=\"--levitate-hvr:\"]{transition:var(--transition)}[style*=\"--levitate-hvr:\"]:focus,[style*=\"--levitate-hvr:\"]:hover{box-shadow:0 calc(var(--levitate-hvr)*.5px) calc(var(--levitate-hvr)*.6px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*1px) calc(var(--levitate-hvr)*1.2px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*2px) calc(var(--levitate-hvr)*2.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*4px) calc(var(--levitate-hvr)*4.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013));transform:translateY(calc(var(--levitate-hvr)*-1.2px))}[style*=\"--shadow:\"]{box-shadow:0 calc(var(--shadow)*.1px) calc(var(--shadow)*.2px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.2px) calc(var(--shadow)*.4px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.4px) calc(var(--shadow)*.8px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.8px) calc(var(--shadow)*1.6px) rgba(0,0,0,calc(var(--shadow)*.02))}[style*=\"--shadow-soft:\"]{box-shadow:0 calc(var(--shadow-soft)*.3px) calc(var(--shadow-soft)*1.1px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*.6px) calc(var(--shadow-soft)*1.2px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*1.2px) calc(var(--shadow-soft)*1.4px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*2.4px) calc(var(--shadow-soft)*1.6px) rgba(0,0,0,.1)}[style*=\"--shadow-hard:\"]{box-shadow:0 calc(var(--shadow-hard)*.75px) calc(var(--shadow-hard)*1.3px) rgba(0,0,0,calc(var(--shadow-hard)*.12))}[style*=\"--shadow-vert:\"]{box-shadow:0 calc(var(--shadow-vert)*1.4px) calc(var(--shadow-vert)*2px) calc(var(--shadow-vert)*-1.7px) rgba(0,0,0,calc(var(--shadow-vert)*.12))}[style*=\"--shadow-inset:\"]{box-shadow:inset 0 calc(var(--shadow-inset)*.1px) calc(var(--shadow-inset)*.2px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.2px) calc(var(--shadow-inset)*.4px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.4px) calc(var(--shadow-inset)*.8px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.8px) calc(var(--shadow-inset)*1.6px) rgba(0,0,0,calc(var(--shadow-inset)*.02))}[style*=\"--shadow-hvr:\"]{transition:var(--transition)}[style*=\"--shadow-hvr:\"]:focus,[style*=\"--shadow-hvr:\"]:hover{box-shadow:0 calc(var(--shadow-hvr)*.1px) calc(var(--shadow-hvr)*.2px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.2px) calc(var(--shadow-hvr)*.4px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.4px) calc(var(--shadow-hvr)*.8px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.8px) calc(var(--shadow-hvr)*1.6px) rgba(0,0,0,calc(var(--shadow-hvr)*.02))}[style*=\"--px:\"]{-webkit-padding-start:var(--px);padding-inline-start:var(--px);-webkit-padding-end:var(--px);padding-inline-end:var(--px)}[style*=\"--py:\"]{-webkit-padding-before:var(--py);padding-block-start:var(--py);-webkit-padding-after:var(--py);padding-block-end:var(--py)}[style*=\"--mx:\"]{-webkit-margin-start:var(--mx);margin-inline-start:var(--mx);-webkit-margin-end:var(--mx);margin-inline-end:var(--mx)}[style*=\"--my:\"]{-webkit-margin-before:var(--my);margin-block-start:var(--my);-webkit-margin-after:var(--my);margin-block-end:var(--my)}[style*=\"--rotate:\"],[style*=\"--scale:\"],[style*=\"--skew:\"],[style*=\"--translate:\"],[style*=\"--translatex:\"],[style*=\"--translatey:\"]{transform:translate(var(--translate,0)) translateX(var(--translatex,0)) translateY(var(--translatey,0)) scale(var(--scale,100%)) rotate(var(--rotate,0)) skew(var(--skew,0))}[style*=\"--rotate-hvr:\"],[style*=\"--scale-hvr:\"],[style*=\"--skew-hvr:\"],[style*=\"--translate-hvr:\"],[style*=\"--translatex-hvr:\"],[style*=\"--translatey-hvr:\"]{transition:var(--transition)}[style*=\"--rotate-hvr:\"]:hover,[style*=\"--scale-hvr:\"]:hover,[style*=\"--skew-hvr:\"]:hover,[style*=\"--translate-hvr:\"]:hover,[style*=\"--translatex-hvr:\"]:hover,[style*=\"--translatey-hvr:\"]:hover{transform:translate(var(--translate-hvr,0)) translateX(var(--translatex-hvr,0)) translateY(var(--translatey-hvr,0)) scale(var(--scale-hvr,100%)) rotate(var(--rotate-hvr,0)) skew(var(--skew-hvr,0))}[style*=\"--line-clamp:\"]{display:-webkit-box;-webkit-line-clamp:var(--line-clamp);-webkit-box-orient:vertical;overflow:hidden}[style*=\"--text-3d:\"]{text-shadow:6px 6px 10px hsla(0,0%,100%,.1),6px 6px var(--text-3d),5.75px 5.75px var(--text-3d),5.5px 5.5px var(--text-3d),5.25px 5.25px var(--text-3d),5px 5px var(--text-3d),4.75px 4.75px var(--text-3d),4.5px 4.5px var(--text-3d),4.25px 4.25px var(--text-3d),4px 4px var(--text-3d),3.75px 3.75px var(--text-3d),3.5px 3.5px var(--text-3d),3.25px 3.25px var(--text-3d),3px 3px var(--text-3d),2.75px 2.75px var(--text-3d),2.5px 2.5px var(--text-3d),2.25px 2.25px var(--text-3d),2px 2px var(--text-3d),1.75px 1.75px var(--text-3d),1.5px 1.5px var(--text-3d),1.25px 1.25px var(--text-3d),1px 1px var(--text-3d),.75px .75px var(--text-3d),.5px .5px var(--text-3d),.25px .25px var(--text-3d)}@media only screen and (min-width:640px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-sm)}}@media only screen and (min-width:768px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-md)}}@media only screen and (min-width:1024px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-lg)}}@media only screen and (min-width:1280px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-xl)}}\n\n.kard {\n display:flex;\n justify-content:center;\n text-align:center;\n}\n\n.kard-body {\n\tmargin-top:100px;\n  min-width:500px;\n  border-radius:10px;\n  padding-bottom:10px\n}\n\n.vn {\n\tfont-size:32px\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.en {\n\tfont-size:26px\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.target {\n\t\tcolor:rgb(255,130,255);\n\t\tfont-weight: 600;\n\t\t# border-bottom: 1px solid rgb(255,130,255);\n}",
+            "css": ":root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}*,:after,:before{box-sizing:border-box}html{font-family:-apple-system,BlinkMacSystemFont,Avenir,Avenir Next,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;font-size:15px;line-height:1.6;font-weight:400;color:var(--text-main);background:var(--background-body);-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%;text-rendering:optimizeLegibility}body{margin:0;font-size:1em}::-webkit-input-placeholder{color:var(--form-placeholder)}::-moz-placeholder{color:var(--form-placeholder)}:-ms-input-placeholder{color:var(--form-placeholder)}::-ms-input-placeholder{color:var(--form-placeholder)}::placeholder{color:var(--form-placeholder)}::-moz-selection{background-color:var(--selection)}::selection{background-color:var(--selection)}th{text-align:start}th{padding:.5rem}th{background:hsla(0,0%,39.2%,.025)}h1,h2,h3,h4,h5,h6{font-weight:400;line-height:1.3em;margin:var(--heading-margin);color:var(--text-c,inherit)}h1{font-size:var(--typo-size-1)}h2{font-size:var(--typo-size-2)}h3{font-size:var(--typo-size-3)}h4{font-size:var(--typo-size-4)}h5{font-size:var(--typo-size-5)}h6{font-size:var(--typo-size-6);line-height:1.6em}a{color:var(--links);text-decoration:none}th{font-weight:700}:root{--white:#fff;--grey:#e6e6e6;--black:#262626;--green:#06847d;--blue:#4a69bd;--orange:#a46313;--red:#e02e06;--primary:var(--blue);--secondary:var(--green);--background:#fff;--background-alt:#f8fafc;--selection:#9e9e9e;--text-main:#4a4a4a;--text-bright:#000;--text-muted:#707070;--links:var(--primary);--focus:rgba(74,105,189,0.35);--border:rgba(0,0,0,0.2);--border-radius:4px;--code:#000;--animation-duration:.1s;--button-hover:#ddd;--button-shadow:0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);--form-placeholder:#949494;--form-text:#000;--variable:#39a33c;--highlight:#ff0;--select-arrow:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-6 0L60 53 7 2a4 4 0 00-5 5l54 54 2 1c1 1 2 0 3-1l54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E\");--heading-margin:.5rem 0 .75rem;--typo-size-1:2.8rem;--typo-size-2:2.2rem;--typo-size-3:1.8rem;--typo-size-4:1.4rem;--typo-size-5:1.2rem;--typo-size-6:1rem;--wrapper:1280px;--transition:all ease .4s;--accent-border:0;--accent-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)}[style*=\"--grad:\"]{background-image:linear-gradient(var(--grad),transparent,var(--grad-color,#000))}[style*=\"--grad-vars:\"]{background-image:linear-gradient(var(--grad-vars),var(--primary),var(--secondary))}[style*=\"--bg-pattern-squares:\"]{background-image:repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor),repeating-linear-gradient(45deg,currentColor 25%,transparent 0,transparent 75%,currentColor 0,currentColor);background-position:0 0,calc(var(--bg-pattern-squares)*1px) calc(var(--bg-pattern-squares)*1px);background-size:calc(var(--bg-pattern-squares)*2px) calc(var(--bg-pattern-squares)*2px)}[style*=\"--wrapper:\"]{max-width:var(--wrapper);margin-left:auto;margin-right:auto;padding-left:var(--gutter);padding-right:var(--gutter)}[style*=\"--inset:\"]{top:var(--inset);left:var(--inset);right:var(--inset);bottom:var(--inset)}[style*=\"--inset-top:\"]{top:var(--inset-top);left:var(--inset-top);right:var(--inset-top)}[style*=\"--inset-bottom:\"]{left:var(--inset-bottom);right:var(--inset-bottom);bottom:var(--inset-bottom)}[style*=\"--inset-top-left:\"]{top:var(--inset-top-left);left:var(--inset-top-left)}[style*=\"--inset-top-right:\"]{top:var(--inset-top-right);right:var(--inset-top-right)}[style*=\"--inset-bottom-left:\"]{bottom:var(--inset-bottom-left);left:var(--inset-bottom-left)}[style*=\"--inset-bottom-right:\"]{bottom:var(--inset-bottom-right);right:var(--inset-bottom-right)}[style*=\"--levitate:\"]{box-shadow:0 calc(var(--levitate)*.5px) calc(var(--levitate)*.6px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*1px) calc(var(--levitate)*1.2px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*2px) calc(var(--levitate)*2.4px) rgba(0,0,0,calc(var(--levitate)*.013)),0 calc(var(--levitate)*4px) calc(var(--levitate)*4.4px) rgba(0,0,0,calc(var(--levitate)*.013));transform:translateY(calc(var(--levitate)*-1.2px))}[style*=\"--levitate-hvr:\"]{transition:var(--transition)}[style*=\"--levitate-hvr:\"]:focus,[style*=\"--levitate-hvr:\"]:hover{box-shadow:0 calc(var(--levitate-hvr)*.5px) calc(var(--levitate-hvr)*.6px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*1px) calc(var(--levitate-hvr)*1.2px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*2px) calc(var(--levitate-hvr)*2.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013)),0 calc(var(--levitate-hvr)*4px) calc(var(--levitate-hvr)*4.4px) rgba(0,0,0,calc(var(--levitate-hvr)*.013));transform:translateY(calc(var(--levitate-hvr)*-1.2px))}[style*=\"--shadow:\"]{box-shadow:0 calc(var(--shadow)*.1px) calc(var(--shadow)*.2px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.2px) calc(var(--shadow)*.4px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.4px) calc(var(--shadow)*.8px) rgba(0,0,0,calc(var(--shadow)*.02)),0 calc(var(--shadow)*.8px) calc(var(--shadow)*1.6px) rgba(0,0,0,calc(var(--shadow)*.02))}[style*=\"--shadow-soft:\"]{box-shadow:0 calc(var(--shadow-soft)*.3px) calc(var(--shadow-soft)*1.1px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*.6px) calc(var(--shadow-soft)*1.2px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*1.2px) calc(var(--shadow-soft)*1.4px) rgba(0,0,0,.1),0 calc(var(--shadow-soft)*2.4px) calc(var(--shadow-soft)*1.6px) rgba(0,0,0,.1)}[style*=\"--shadow-hard:\"]{box-shadow:0 calc(var(--shadow-hard)*.75px) calc(var(--shadow-hard)*1.3px) rgba(0,0,0,calc(var(--shadow-hard)*.12))}[style*=\"--shadow-vert:\"]{box-shadow:0 calc(var(--shadow-vert)*1.4px) calc(var(--shadow-vert)*2px) calc(var(--shadow-vert)*-1.7px) rgba(0,0,0,calc(var(--shadow-vert)*.12))}[style*=\"--shadow-inset:\"]{box-shadow:inset 0 calc(var(--shadow-inset)*.1px) calc(var(--shadow-inset)*.2px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.2px) calc(var(--shadow-inset)*.4px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.4px) calc(var(--shadow-inset)*.8px) rgba(0,0,0,calc(var(--shadow-inset)*.02)),inset 0 calc(var(--shadow-inset)*.8px) calc(var(--shadow-inset)*1.6px) rgba(0,0,0,calc(var(--shadow-inset)*.02))}[style*=\"--shadow-hvr:\"]{transition:var(--transition)}[style*=\"--shadow-hvr:\"]:focus,[style*=\"--shadow-hvr:\"]:hover{box-shadow:0 calc(var(--shadow-hvr)*.1px) calc(var(--shadow-hvr)*.2px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.2px) calc(var(--shadow-hvr)*.4px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.4px) calc(var(--shadow-hvr)*.8px) rgba(0,0,0,calc(var(--shadow-hvr)*.02)),0 calc(var(--shadow-hvr)*.8px) calc(var(--shadow-hvr)*1.6px) rgba(0,0,0,calc(var(--shadow-hvr)*.02))}[style*=\"--px:\"]{-webkit-padding-start:var(--px);padding-inline-start:var(--px);-webkit-padding-end:var(--px);padding-inline-end:var(--px)}[style*=\"--py:\"]{-webkit-padding-before:var(--py);padding-block-start:var(--py);-webkit-padding-after:var(--py);padding-block-end:var(--py)}[style*=\"--mx:\"]{-webkit-margin-start:var(--mx);margin-inline-start:var(--mx);-webkit-margin-end:var(--mx);margin-inline-end:var(--mx)}[style*=\"--my:\"]{-webkit-margin-before:var(--my);margin-block-start:var(--my);-webkit-margin-after:var(--my);margin-block-end:var(--my)}[style*=\"--rotate:\"],[style*=\"--scale:\"],[style*=\"--skew:\"],[style*=\"--translate:\"],[style*=\"--translatex:\"],[style*=\"--translatey:\"]{transform:translate(var(--translate,0)) translateX(var(--translatex,0)) translateY(var(--translatey,0)) scale(var(--scale,100%)) rotate(var(--rotate,0)) skew(var(--skew,0))}[style*=\"--rotate-hvr:\"],[style*=\"--scale-hvr:\"],[style*=\"--skew-hvr:\"],[style*=\"--translate-hvr:\"],[style*=\"--translatex-hvr:\"],[style*=\"--translatey-hvr:\"]{transition:var(--transition)}[style*=\"--rotate-hvr:\"]:hover,[style*=\"--scale-hvr:\"]:hover,[style*=\"--skew-hvr:\"]:hover,[style*=\"--translate-hvr:\"]:hover,[style*=\"--translatex-hvr:\"]:hover,[style*=\"--translatey-hvr:\"]:hover{transform:translate(var(--translate-hvr,0)) translateX(var(--translatex-hvr,0)) translateY(var(--translatey-hvr,0)) scale(var(--scale-hvr,100%)) rotate(var(--rotate-hvr,0)) skew(var(--skew-hvr,0))}[style*=\"--line-clamp:\"]{display:-webkit-box;-webkit-line-clamp:var(--line-clamp);-webkit-box-orient:vertical;overflow:hidden}[style*=\"--text-3d:\"]{text-shadow:6px 6px 10px hsla(0,0%,100%,.1),6px 6px var(--text-3d),5.75px 5.75px var(--text-3d),5.5px 5.5px var(--text-3d),5.25px 5.25px var(--text-3d),5px 5px var(--text-3d),4.75px 4.75px var(--text-3d),4.5px 4.5px var(--text-3d),4.25px 4.25px var(--text-3d),4px 4px var(--text-3d),3.75px 3.75px var(--text-3d),3.5px 3.5px var(--text-3d),3.25px 3.25px var(--text-3d),3px 3px var(--text-3d),2.75px 2.75px var(--text-3d),2.5px 2.5px var(--text-3d),2.25px 2.25px var(--text-3d),2px 2px var(--text-3d),1.75px 1.75px var(--text-3d),1.5px 1.5px var(--text-3d),1.25px 1.25px var(--text-3d),1px 1px var(--text-3d),.75px .75px var(--text-3d),.5px .5px var(--text-3d),.25px .25px var(--text-3d)}@media only screen and (min-width:640px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-sm)}}@media only screen and (min-width:768px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-md)}}@media only screen and (min-width:1024px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-lg)}}@media only screen and (min-width:1280px){[style*=\"--wrapper:\"]{--gutter:var(--gutter-xl)}}\n\n.kard {\n display:flex;\n justify-content:center;\n text-align:center;\n}\n\n.kard-body {\n\tmargin-top:100px;\n  min-width:500px;\n  border-radius:10px;\n  padding-bottom:10px;\n\tbackground: #000;\n}\n\n.vn {\n\tfont-size:32px;\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.en {\n\tfont-size:26px\n}\n\n.type {\n\tbackground-color: #AAFFAA\n}\n\n.target {\n\t\tcolor:rgb(255,130,255);\n\t\tfont-weight: 600;\n\t\t# border-bottom: 1px solid rgb(255,130,255);\n}",
             "flds": [
                 {
                     "description": "",
@@ -22559,8 +22559,6 @@
                     1,
                     "any",
                     [
-                        1,
-                        2,
                         4
                     ]
                 ],
@@ -22569,15 +22567,7 @@
                     "any",
                     [
                         1,
-                        3,
-                        4
-                    ]
-                ],
-                [
-                    3,
-                    "any",
-                    [
-                        0,
+                        2,
                         4
                     ]
                 ]
@@ -22591,9 +22581,20 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Meaning",
+                    "name": "Target Meaning",
                     "ord": 0,
                     "qfmt": "<div style='display: none' id=\"sentence\">{{Sentence}}</div>\n<div style='display: none' id=\"target\">{{Target}}</div>\n\n<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Target Meaning</h5>\n\t\t<div class=\"vn\" id=\"content\"></div>\n\t</div>\n</div>\n\n\n<script>\nvar lookup={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var attrRE=/\\s([^'\"/\\s><]+?)[\\s/>]|([^\\s=]+)=\\s?(\".*?\"|'.*?')/g;function parseTag(tag){var res={type:\"tag\",name:\"\",voidElement:!1,attrs:{},children:[]};var tagMatch=tag.match(/<\\/?([^\\s]+?)[/\\s>]/);if(tagMatch){res.name=tagMatch[1];if(lookup[tagMatch[1]]||tag.charAt(tag.length-2)===\"/\"){res.voidElement=!0}\nif(res.name.startsWith(\"!--\")){var endIndex=tag.indexOf(\"-->\");return{type:\"comment\",comment:endIndex!==-1?tag.slice(4,endIndex):\"\"}}}\nvar reg=new RegExp(attrRE);var result=null;for(;;){result=reg.exec(tag);if(result===null){break}\nif(!result[0].trim()){continue}\nif(result[1]){var attr=result[1].trim();var arr=[attr,\"\"];if(attr.indexOf(\"=\")>-1){arr=attr.split(\"=\")}\nres.attrs[arr[0]]=arr[1];reg.lastIndex--}else if(result[2]){res.attrs[result[2]]=result[3].trim().substring(1,result[3].length-1)}}\nreturn res}\nvar tagRE=/<[a-zA-Z0-9\\-\\!\\/](?:\"[^\"]*\"|'[^']*'|[^'\">])*>/g;var whitespaceRE=/^\\s*$/;var empty=Object.create(null);function parse(html,options){options||(options={});options.components||(options.components=empty);var result=[];var arr=[];var current;var level=-1;var inComponent=!1;if(html.indexOf(\"<\")!==0){var end=html.indexOf(\"<\");result.push({type:\"text\",content:end===-1?html:html.substring(0,end)})}\nhtml.replace(tagRE,function(tag,index){if(inComponent){if(tag!==\"</\"+current.name+\">\"){return}else{inComponent=!1}}\nvar isOpen=tag.charAt(1)!==\"/\";var isComment=tag.startsWith(\"<!--\");var start=index+tag.length;var nextChar=html.charAt(start);var parent;if(isComment){var comment=parseTag(tag);if(level<0){result.push(comment);return result}\nparent=arr[level];parent.children.push(comment);return result}\nif(isOpen){level++;current=parseTag(tag);if(current.type===\"tag\"&&options.components[current.name]){current.type=\"component\";inComponent=!0}\nif(!current.voidElement&&!inComponent&&nextChar&&nextChar!==\"<\"){current.children.push({type:\"text\",content:html.slice(start,html.indexOf(\"<\",start))})}\nif(level===0){result.push(current)}\nparent=arr[level-1];if(parent){parent.children.push(current)}\narr[level]=current}\nif(!isOpen||current.voidElement){if(level>-1&&(current.voidElement||current.name===tag.slice(2,-1))){level--;current=level===-1?result:arr[level]}\nif(!inComponent&&nextChar!==\"<\"&&nextChar){parent=level===-1?result:arr[level].children;var _end=html.indexOf(\"<\",start);var content=html.slice(start,_end===-1?undefined:_end);if(whitespaceRE.test(content)){content=\" \"}\nif((_end>-1&&level+parent.length>=0)||content!==\" \"){parent.push({type:\"text\",content:content})}}}});return result}\nfunction attrString(attrs){var buff=[];for(var key in attrs){buff.push(key+'=\"'+attrs[key]+'\"')}\nif(!buff.length){return\"\"}\nreturn\" \"+buff.join(\" \")}\nfunction innerStringify(buff,doc){switch(doc.type){case \"text\":return buff+doc.content;case \"tag\":buff+=\"<\"+doc.name+(doc.attrs?attrString(doc.attrs):\"\")+(doc.voidElement?\"/>\":\">\");if(doc.voidElement){return buff}\nreturn buff+doc.children.reduce(innerStringify,\"\")+\"</\"+doc.name+\">\";case \"comment\":buff+=\"<!--\"+doc.comment+\"-->\";return buff}}\nfunction stringify(doc){return doc.reduce(function(token,rootEl){return token+innerStringify(\"\",rootEl)},\"\")}\nfunction checkNodes(arr,target){var isWrapper=target.includes(\" ... \");for(var x=0;x<arr.length;x++){var elem=arr[x];if(elem.type==\"text\"){if(isWrapper){var targets=target.split(\" ... \");var left=targets[0];var right=targets[1];if(elem.content.includes(left)&&elem.content.includes(right)){arr[x].content=elem.content.replace(left,createTargetTag(left)).replace(right,createTargetTag(right))}}\nif(elem.content.includes(target)){arr[x].content=elem.content.replace(target,createTargetTag(target))}}\nif(elem.type==\"tag\"&&elem.children.length>0)checkNodes(elem.children,target)}}\nfunction createTargetTag(target){return stringify([{type:\"tag\",name:\"span\",voidElement:!1,attrs:{class:\"target\"},children:[{type:\"text\",content:target}]}])}\nvar words=parse(document.getElementById(\"sentence\").innerHTML);checkNodes(words,document.getElementById(\"target\").innerHTML);document.getElementById(\"content\").innerHTML=stringify(words)\n</script>\n\n"
+                },
+                {
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"vn\">{{Sentence}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Sentence meaning}}</div>\n\t</div>\n</div>\n\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Sentence Meaning",
+                    "ord": 1,
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Sentence Meaning</h5>\n\t\t<div class=\"vn\" id=\"content\">{{Sentence Audio}}</div>\n\t</div>\n</div>"
                 },
                 {
                     "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Target}}</div>\n\t</div>\n</div>\n\n",
@@ -22603,30 +22604,8 @@
                     "bsize": 0,
                     "did": null,
                     "name": "Type Target",
-                    "ord": 1,
-                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t{{#Sentence Audio}}{{hint::Sentence Audio}}{{/Sentence Audio}}\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
-                },
-                {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t{{Target Audio}}\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Target}}</div>\n\t</div>\n</div>\n\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Type Target from Audio",
                     "ord": 2,
-                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t<div class=\"en\">Play Sentence {{Sentence Audio}}</div>\n\t\t<div class=\"en\">Play Target{{Target Audio}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
-                },
-                {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t{{Sentence Audio}}\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"vn type\">{{type:Sentence}}</div>\n\t</div>\n</div>\n\n",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Type Sentence from Audio",
-                    "ord": 3,
-                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Sentence</h5>\n\t\t{{Sentence Audio}}\n\t</div>\n</div>\n{{type:Sentence}}\n\n"
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t{{#Sentence Audio}}{{hint::Sentence Audio}}{{/Sentence Audio}}\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
                 }
             ],
             "type": 0
