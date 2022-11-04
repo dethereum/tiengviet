@@ -5525,7 +5525,6 @@
                 "rec1664101678.mp3",
                 "rec1664101700.mp3",
                 "rec1664101705.mp3",
-                "rec1664101709.mp3",
                 "rec1664101717.mp3",
                 "rec1664101721.mp3",
                 "rec1664101725.mp3",
@@ -5606,9 +5605,6 @@
                 "rec1664342719.mp3",
                 "rec1664342727.mp3",
                 "rec1664342730.mp3",
-                "rec1664342733.mp3",
-                "rec1664342739.mp3",
-                "rec1664342749.mp3",
                 "rec1664342752.mp3",
                 "rec1664342756.mp3",
                 "rec1664342771.mp3",
@@ -5627,7 +5623,6 @@
                 "rec1664342898.mp3",
                 "rec1664342910.mp3",
                 "rec1664342929.mp3",
-                "rec1664342948.mp3",
                 "rec1664342955.mp3",
                 "rec1664342962.mp3",
                 "rec1664342965.mp3",
@@ -5640,7 +5635,6 @@
                 "rec1664343063.mp3",
                 "rec1664343066.mp3",
                 "rec1664343069.mp3",
-                "rec1664343072.mp3",
                 "rec1664343081.mp3",
                 "rec1664343084.mp3",
                 "rec1664343094.mp3",
@@ -5767,7 +5761,34 @@
                 "rec1667388136.mp3",
                 "rec1667388140.mp3",
                 "rec1667388323.mp3",
-                "rec1667388358.mp3"
+                "rec1667388358.mp3",
+                "rec1667555633.mp3",
+                "rec1667555637.mp3",
+                "rec1667555738.mp3",
+                "rec1667555827.mp3",
+                "rec1667555886.mp3",
+                "rec1667555891.mp3",
+                "rec1667555988.mp3",
+                "rec1667556024.mp3",
+                "rec1667556493.mp3",
+                "rec1667556980.mp3",
+                "rec1667556996.mp3",
+                "rec1667557034.mp3",
+                "rec1667557039.mp3",
+                "rec1667557134.mp3",
+                "rec1667557194.mp3",
+                "rec1667557200.mp3",
+                "rec1667557465.mp3",
+                "rec1667557571.mp3",
+                "rec1667557830.mp3",
+                "rec1667557845.mp3",
+                "rec1667558130.mp3",
+                "rec1667558134.mp3",
+                "rec1667558451.mp3",
+                "rec1667558663.mp3",
+                "rec1667558853.mp3",
+                "rec1667558862.mp3",
+                "rec1667558978.mp3"
             ],
             "name": "void",
             "newLimit": null,
@@ -5811,29 +5832,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::by_word::em",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::5"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "con",
-                        "niece/nephew/grandchild",
-                        "common_noun",
-                        "southern dialect",
-                        "[sound:rec1664101709.mp3]",
-                        "rec1664101709.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": ",LUuZyo_;",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::marked_for_phrase",
-                        "tiengviet::meta::by_word::con",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
@@ -6751,28 +6749,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cái",
-                        "female",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664102171.mp3]",
-                        "rec1664102171.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "P+9=!f_y<f",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "đất",
                         "land / soil",
                         "common_noun",
@@ -7480,28 +7456,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "con gái",
-                        "girl",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664342749.mp3]",
-                        "rec1664342749.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "sj<Rtf>YV&",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::con_gái",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::22"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "trước",
                         "before",
                         "adjective",
@@ -8133,28 +8087,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::by_word::rộng",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::adjective",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chật",
-                        "tight",
-                        "adjective",
-                        "",
-                        "[sound:rec1664343072.mp3]",
-                        "rec1664343072.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "yLg)}Z1o9@",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::chật",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::adjective",
                         "tiengviet::meta::processed_by_vntk",
@@ -9024,29 +8956,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chăm",
-                        "hard-working",
-                        "verb",
-                        "",
-                        "[sound:rec1664342948.mp3]",
-                        "rec1664342948.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "pHA9`tTt/b",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::chăm",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::people::tính_cach",
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "dạ",
                         "yes? (Sorry, what did you say?)",
                         "",
@@ -9323,57 +9232,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chị ruột",
+                        "Chị ruột em hơn em 15 tuổi.",
                         "chị",
                         "your actual older sister",
-                        "",
-                        "",
-                        ""
+                        "[sound:rec1667557034.mp3]",
+                        "[sound:rec1667557039.mp3]",
+                        "My older sister is 15 years older than me.&nbsp;"
                     ],
                     "guid": "jEQtdUqNLb",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chị",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chị bán hàng",
+                        "Chị bán hàng bảo là chị ý không có tiền lẻ.",
                         "chị",
-                        "từ dùng để chỉ hoặc gọi người phụ nữ lớn tuổi hơn mình, coi như chị,  với ý yêu mến",
+                        "a classifier for some specific nouns to clarify their age and gender",
                         "[sound:rec1664101700.mp3]",
-                        "",
-                        ""
+                        "[sound:rec1667557134.mp3]",
+                        "The seller said she didn't have change."
                     ],
                     "guid": "xOnfF4r3V3",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chị",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chị ngồi chơi để tôi gọi em nó về",
-                        "chị",
-                        "từ dùng để gọi người phụ nữ thuộc thế hệ sau mình một cách tôn trọng [theo cách gọi thay cho con của mình]",
-                        "[sound:rec1664101700.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "U3m7_ostS2",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::chị",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -9456,88 +9342,46 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "lợn nái đẻ được mười con",
+                        "Chó con thường rất là đáng yêu.",
                         "con",
-                        "người hoặc động vật thuộc thế hệ sau, trong quan hệ với người hoặc động vật trực tiếp sinh ra [có thể dùng để xưng gọi]",
-                        "[sound:rec1664101709.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "jQTF5jW6dM",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "dao con",
-                        "con",
-                        "nhỏ, bé",
-                        "[sound:rec1664101709.mp3]",
-                        "",
-                        ""
+                        "young, small (animal)",
+                        "[sound:rec1667558130.mp3]",
+                        "[sound:rec1667558134.mp3]",
+                        "Puppies are usually really cute."
                     ],
                     "guid": "pwCwLaIruq",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "con mèo",
+                        "Con mèo nhà em không thích ăn cá.",
                         "con",
-                        "từ dùng để chỉ từng đơn vị những cá thể động vật",
-                        "[sound:rec1664101709.mp3]",
-                        "",
-                        ""
+                        "a classifier for animals",
+                        "[sound:rec1667557830.mp3]",
+                        "[sound:rec1667557845.mp3]",
+                        "My family's cat doesn't like eating fish."
                     ],
                     "guid": "8qK1-Q3oeD",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "con tim",
+                        "Nhìn mặt con đấy khó chịu vãi!",
                         "con",
-                        "từ dùng để chỉ từng đơn vị một số vật, thường có đặc điểm hoạt động hoặc hình thể giống động vật",
-                        "[sound:rec1664101709.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "gvcfBSUQkM",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::con",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "con kia, lại đây tao bảo",
-                        "con",
-                        "từ dùng để chỉ từng cá nhân người đàn bà, con gái với ý không coi trọng hoặc thân mật",
-                        "[sound:rec1664101709.mp3]",
-                        "",
-                        ""
+                        "to refer to a female in a disrespectful/hateful/condescending way",
+                        "[sound:rec1667558130.mp3]",
+                        "[sound:rec1667558451.mp3]",
+                        "She looks so freaking annoying!"
                     ],
                     "guid": "irOsui2oe-",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
@@ -9551,17 +9395,16 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "dáng người to con",
+                        "Em không thích kiểu đàn ông to con quá.",
                         "con",
-                        "hình thể, vóc dáng của con người, nói chung",
-                        "[sound:rec1664101709.mp3]",
-                        "",
-                        ""
+                        "physique&nbsp;",
+                        "[sound:rec1667558130.mp3]",
+                        "[sound:rec1667558663.mp3]",
+                        "I don't like the type of men who are big and muscular."
                     ],
                     "guid": "9eBLTUFGQE",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::con",
                         "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
@@ -13930,44 +13773,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cái mẻ",
-                        "cái",
-                        "giống để gây ra một số chất chua",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "FWZU1CO2DO",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nhà cái",
-                        "cái",
-                        "vai chủ một ván bài, một đám bạc hay một bát họ",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "NI99n1atQJ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "đủ cả, không thiếu cái gì",
                         "cái",
                         "từ dùng để chỉ cá thể sự vật, sự việc với nghĩa rất khái quát",
@@ -16776,76 +16581,68 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "khổ thân chưa!",
+                        "Thấy chưa, em đã bảo rồi mà!",
                         "chưa",
-                        "",
-                        "[sound:rec1664342733.mp3]",
-                        "",
-                        ""
+                        "(final particle) to seek approval/agreement from the other listen for something obvious&nbsp;",
+                        "[sound:rec1667556980.mp3]",
+                        "[sound:rec1667556996.mp3]",
+                        "See, I told you so!"
                     ],
                     "guid": "tX0hfNeG_I",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chưa",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "lấy chồng",
+                        "Nó 35 tuổi rồi mà chưa lấy chồng.",
                         "chồng",
-                        "người đàn ông đã kết hôn, trong quan hệ với người phụ nữ kết hôn với mình [vợ]",
-                        "[sound:rec1664342739.mp3]",
-                        "",
-                        ""
+                        "husband",
+                        "[sound:rec1667557194.mp3]",
+                        "[sound:rec1667557200.mp3]",
+                        "She's 35 already but she's not married yet.&nbsp;"
                     ],
                     "guid": "9e93SAR3Mt",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chồng",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cái nọ chồng lên cái kia",
+                        "Chú chồng cái thùng này lên cái thùng kia cho cháu nhé.&nbsp;",
                         "chồng",
-                        "đặt cái nọ sát liền lên bên trên cái kia [thường nói về vật cùng loại]",
-                        "[sound:rec1664342739.mp3]",
-                        "",
-                        ""
+                        "to stack&nbsp;",
+                        "[sound:rec1667557194.mp3]",
+                        "[sound:rec1667557465.mp3]",
+                        "Can you stack this box on top of the other one for me?"
                     ],
                     "guid": "UUeai7QH8i",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chồng",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chồng sách cũ",
+                        "Em có 1 chồng sách cũ đang để ở ngoài.",
                         "chồng",
-                        "khối do nhiều vật cùng loại đặt chồng lên nhau",
-                        "[sound:rec1664342739.mp3]",
-                        "",
-                        ""
+                        "a stack of something",
+                        "[sound:rec1667557194.mp3]",
+                        "[sound:rec1667557571.mp3]",
+                        "I have a stack of old books that I'm leaving outside."
                     ],
                     "guid": "bwioZ5YrDZ",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chồng",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -19579,38 +19376,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nhà chật người đông",
+                        "Nhà em chật lắm, không đủ chỗ cho 5 người đâu!",
                         "chật",
-                        "có kích thước nhỏ so với vật cần bọc hoặc cần chứa bên trong",
-                        "[sound:rec1664343072.mp3]",
-                        "",
-                        ""
+                        "narrow, small (for space)",
+                        "[sound:rec1667555633.mp3]",
+                        "[sound:rec1667555827.mp3]",
+                        "My house is really small, there's not enough space for 5 people!"
                     ],
                     "guid": "QT0eVMMh6x",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chật",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "người xem đứng chật hai bên đường",
+                        "Người dân đứng chật hai bên đường vì tò mò.",
                         "chật",
-                        "nhiều, đông quá mức trong một phạm vi nhất định nào đó",
-                        "[sound:rec1664343072.mp3]",
-                        "",
-                        ""
+                        "crowded / packed with people",
+                        "[sound:rec1667555633.mp3]",
+                        "[sound:rec1667555738.mp3]",
+                        "The sides of the street were packed with people standing there out of curiosity."
                     ],
                     "guid": "Ft7E2Ys2I0",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chật",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -21922,19 +21715,17 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "y tá đang chăm người ốm",
+                        "Em phải về nhà bố mẹ để chăm bà em đang ốm.",
                         "chăm",
-                        "trông nom, săn sóc cẩn thận và thường xuyên",
-                        "[sound:rec1664342948.mp3]",
-                        "",
-                        ""
+                        "to take care of someone / something",
+                        "[sound:rec1667555988.mp3]",
+                        "[sound:rec1667556024.mp3]",
+                        "I have to go back to my parents' to take care of my grandma who's sick."
                     ],
                     "guid": "KZ5c6BNhO-",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::chăm",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -22343,6 +22134,97 @@
                     "tags": [
                         "tiengviet::meta::by_word::chú",
                         "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Áo này em mặc hơi chật.",
+                        "chật",
+                        "tight, small&nbsp;(for size) (negative)",
+                        "[sound:rec1667555633.mp3]",
+                        "[sound:rec1667555637.mp3]",
+                        "This top is a bit tight for me."
+                    ],
+                    "guid": "n4HIS)2vRA",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chật",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh ý chăm lắm, ngày nào cũng vừa đi học vừa đi làm.",
+                        "chăm",
+                        "hard-working",
+                        "[sound:rec1667555886.mp3]",
+                        "[sound:rec1667555891.mp3]",
+                        "He's really hard-working. He works and studies every day."
+                    ],
+                    "guid": "h:oQWIL#vn",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chăm",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em chưa ăn sáng.",
+                        "chưa",
+                        "not yet&nbsp;",
+                        "[sound:rec1667385727.mp3]",
+                        "[sound:rec1667556493.mp3]",
+                        "I've not had breakfast yet."
+                    ],
+                    "guid": "BNAK4Uc:yQ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::chưa",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mọi người nghĩ con gái thường thích màu hồng.",
+                        "con gái",
+                        "girl",
+                        "[sound:rec1667558862.mp3]",
+                        "[sound:rec1667558853.mp3]",
+                        "People think that girls usually like pink."
+                    ],
+                    "guid": "e$m*^Ri*C?",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::con_gái",
+                        "tiengviet::meta::meaning::ambigious",
+                        "tiengviet::meta::pos::common_noun",
+                        "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::22"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chị gái em có một con gái.",
+                        "con gái",
+                        "daughter",
+                        "[sound:rec1667558862.mp3]",
+                        "[sound:rec1667558978.mp3]",
+                        "My older sister has a daughter."
+                    ],
+                    "guid": "Q,Fec/yF?a",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::con_gái",
+                        "tiengviet::meta::meaning::ambigious",
+                        "tiengviet::meta::pos::common_noun",
+                        "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::22"
                     ]
                 }
             ],
