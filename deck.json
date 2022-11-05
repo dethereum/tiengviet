@@ -1689,108 +1689,15 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
-                "rec1664018310.mp3",
-                "rec1664018391.mp3",
-                "rec1664018653.mp3",
-                "rec1664018686.mp3",
-                "rec1664018858.mp3",
-                "rec1664018871.mp3",
                 "rec1664101654.mp3",
                 "rec1664101664.mp3",
                 "rec1664101674.mp3",
                 "rec1664101700.mp3",
-                "rec1664101811.mp3",
-                "rec1664101818.mp3",
-                "rec1664101831.mp3",
-                "rec1664101836.mp3",
-                "rec1664101842.mp3",
-                "rec1664101849.mp3",
-                "rec1664101863.mp3",
-                "rec1664101868.mp3",
-                "rec1664101874.mp3",
-                "rec1664101877.mp3",
-                "rec1664101883.mp3",
-                "rec1664101887.mp3",
-                "rec1664101940.mp3",
-                "rec1664101944.mp3",
-                "rec1664101957.mp3",
-                "rec1664101967.mp3",
-                "rec1664101972.mp3",
-                "rec1664102000.mp3",
-                "rec1664102005.mp3",
-                "rec1664102027.mp3",
-                "rec1664102031.mp3",
-                "rec1664102061.mp3",
-                "rec1664102069.mp3",
-                "rec1664102076.mp3",
-                "rec1664102082.mp3",
-                "rec1664102110.mp3",
-                "rec1664102115.mp3",
                 "rec1664102123.mp3",
                 "rec1664102186.mp3",
-                "rec1664102195.mp3",
-                "rec1664102200.mp3",
-                "rec1664102204.mp3",
-                "rec1664102208.mp3",
-                "rec1664102222.mp3",
-                "rec1664102226.mp3",
-                "rec1664102239.mp3",
-                "rec1664102245.mp3",
-                "rec1664102252.mp3",
-                "rec1664102256.mp3",
-                "rec1664102295.mp3",
-                "rec1664102298.mp3",
-                "rec1664102304.mp3",
-                "rec1664102308.mp3",
-                "rec1664102332.mp3",
-                "rec1664102336.mp3",
-                "rec1664342326.mp3",
-                "rec1664342340.mp3",
-                "rec1664342357.mp3",
-                "rec1664342362.mp3",
-                "rec1664342377.mp3",
-                "rec1664342382.mp3",
-                "rec1664342389.mp3",
-                "rec1664342407.mp3",
-                "rec1664342415.mp3",
-                "rec1664342424.mp3",
-                "rec1664342435.mp3",
-                "rec1664342443.mp3",
-                "rec1664342458.mp3",
-                "rec1664342481.mp3",
-                "rec1664342487.mp3",
-                "rec1664342491.mp3",
-                "rec1664342496.mp3",
-                "rec1664342503.mp3",
-                "rec1664342509.mp3",
-                "rec1664342516.mp3",
-                "rec1664342523.mp3",
-                "rec1664342529.mp3",
-                "rec1664342534.mp3",
-                "rec1664342539.mp3",
-                "rec1664342544.mp3",
-                "rec1664342548.mp3",
-                "rec1664342554.mp3",
-                "rec1664342559.mp3",
-                "rec1664342564.mp3",
-                "rec1664342574.mp3",
-                "rec1664342579.mp3",
-                "rec1664342584.mp3",
-                "rec1664342589.mp3",
-                "rec1664342593.mp3",
                 "rec1664342766.mp3",
                 "rec1664342787.mp3",
-                "rec1664439078.mp3",
-                "rec1664439082.mp3",
-                "rec1664439088.mp3",
-                "rec1664439110.mp3",
                 "rec1664439497.mp3",
-                "rec1664621196.mp3",
-                "rec1664621524.mp3",
-                "rec1664621564.mp3",
-                "rec1664621645.mp3",
-                "rec1664621661.mp3",
-                "rec1664621738.mp3",
                 "rec1665913752.mp3",
                 "rec1665913778.mp3",
                 "rec1665913793.mp3",
@@ -1953,775 +1860,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Em khoẻ không?\n<br>Em không khoẻ.",
-                        "khoẻ không?",
-                        "Are you well?",
-                        "[sound:rec1664018858.mp3]",
-                        "[sound:rec1664018871.mp3]",
-                        ""
-                    ],
-                    "guid": "C^qiHg0<y6",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Cô khoẻ. Còn con?  \n<br>Con cũng khoẻ.",
-                        "cũng",
-                        "also",
-                        "[sound:rec1664101811.mp3]",
-                        "[sound:rec1664101818.mp3]",
-                        ""
-                    ],
-                    "guid": "l~C~:SGcv9",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mèo của anh không dễ thương.",
-                        "không",
-                        "not",
-                        "[sound:rec1664101831.mp3]",
-                        "[sound:rec1664101836.mp3]",
-                        ""
-                    ],
-                    "guid": "yI<zV=d5@=",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mình là Derrick. Bạn khoẻ không?\n<br>Mình khoẻ.",
-                        "Bạn",
-                        "you",
-                        "[sound:rec1664101842.mp3]",
-                        "[sound:rec1664101849.mp3]",
-                        ""
-                    ],
-                    "guid": "q,HIsOSODQ",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Bạn rất giỏi",
-                        "rất",
-                        "very",
-                        "[sound:rec1664101868.mp3]",
-                        "[sound:rec1664101863.mp3]",
-                        ""
-                    ],
-                    "guid": "vRl{,nh>yC",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh nóng quá!",
-                        "quá",
-                        "very",
-                        "[sound:rec1664101874.mp3]",
-                        "[sound:rec1664101877.mp3]",
-                        ""
-                    ],
-                    "guid": "AreT*$H)Q#",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Hôm nay quá nóng.",
-                        "quá",
-                        "too",
-                        "[sound:rec1664101883.mp3]",
-                        "[sound:rec1664101887.mp3]",
-                        ""
-                    ],
-                    "guid": "EndD5odoQf",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em có bao nhiêu bạn trai cũ?",
-                        "có",
-                        "have",
-                        "[sound:rec1664101940.mp3]",
-                        "[sound:rec1664101944.mp3]",
-                        ""
-                    ],
-                    "guid": "FSn`T<Xw49",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em chán đến mức nào?",
-                        "đến mức nào?",
-                        "to what extent?",
-                        "[sound:rec1664101967.mp3]",
-                        "[sound:rec1664101972.mp3]",
-                        ""
-                    ],
-                    "guid": "g,iIn,>Rl`",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh thích Việt Nam không?\n<br>Có.",
-                        "Có",
-                        "yes",
-                        "[sound:rec1664102000.mp3]",
-                        "[sound:rec1664102005.mp3]",
-                        ""
-                    ],
-                    "guid": "A58d.jpUf|",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Hôm nay mình học tiếng Việt.",
-                        "mình",
-                        "we",
-                        "[sound:rec1664102027.mp3]",
-                        "[sound:rec1664102031.mp3]",
-                        ""
-                    ],
-                    "guid": "JEJt`hLrfG",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "question_for_teacher",
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh là người nước nào?\n<br>Anh là người gốc Tây Ban Nha",
-                        "người gốc Tây Ban Nha",
-                        "Hispanic",
-                        "[sound:rec1664102061.mp3]",
-                        "[sound:rec1664102069.mp3]",
-                        ""
-                    ],
-                    "guid": "l;S2MOtOK@",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh đến từ đâu?\n<br>Anh là người Mỹ gốc Peru",
-                        "người Mỹ gốc Peru",
-                        "Peruvian American",
-                        "[sound:rec1664102076.mp3]",
-                        "[sound:rec1664102082.mp3]",
-                        ""
-                    ],
-                    "guid": "oz={ps(r*-",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em là người nước nào?",
-                        "nước",
-                        "country",
-                        "[sound:rec1664102110.mp3]",
-                        "[sound:rec1664102115.mp3]",
-                        ""
-                    ],
-                    "guid": "NP8gu9H<|p",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Vì sao anh muốn học k8s?\n<br>Vì anh muốn có nhiều tiền hơn",
-                        "nhiều ... hơn",
-                        "more of",
-                        "[sound:rec1664018653.mp3]",
-                        "[sound:rec1664018686.mp3]",
-                        ""
-                    ],
-                    "guid": "Ki)zXL:K.O",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<span style=\"background-color: rgb(207, 226, 243);\">một khoảng thời gian nhất định để học tiếng&nbsp;</span>",
-                        "một khoảng thời gian",
-                        "a period of time",
-                        "[sound:rec1664018310.mp3]",
-                        "[sound:rec1664018391.mp3]",
-                        ""
-                    ],
-                    "guid": "I|{3cQv2me",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Hôm nay, mình đi ăn đồ Mexico được không?",
-                        "được không?",
-                        "Is it ok?",
-                        "[sound:rec1664102195.mp3]",
-                        "[sound:rec1664102200.mp3]",
-                        ""
-                    ],
-                    "guid": "gUj4}YdnY$",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Mình đi Hà Nội được không?",
-                        "được không",
-                        "is it possible",
-                        "[sound:rec1664102204.mp3]",
-                        "[sound:rec1664102208.mp3]",
-                        ""
-                    ],
-                    "guid": "wwWmt{3t[c",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em nói tiếng Anh được không?",
-                        "được không",
-                        "Can I?",
-                        "[sound:rec1664102222.mp3]",
-                        "[sound:rec1664102226.mp3]",
-                        ""
-                    ],
-                    "guid": "k#9(%K*m9g",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Đồ ăn Việt ở Philadelphia (có) đắt không?",
-                        "Đồ ăn Việt",
-                        "Vietnamese cuisine",
-                        "[sound:rec1664102239.mp3]",
-                        "[sound:rec1664102245.mp3]",
-                        ""
-                    ],
-                    "guid": "Q3(%.Ln1Pc",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh muốn sống ở Thái Lan à? ",
-                        "à",
-                        "strong but not certain belief in assumption",
-                        "[sound:rec1664102252.mp3]",
-                        "[sound:rec1664102256.mp3]",
-                        ""
-                    ],
-                    "guid": "l}}g0idLV3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::13"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh nói tiếng Việt được",
-                        "được",
-                        "can",
-                        "[sound:rec1664102295.mp3]",
-                        "[sound:rec1664102298.mp3]",
-                        ""
-                    ],
-                    "guid": "vSLBNv+d3;",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::19"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em không làm được.",
-                        "không ... được",
-                        "can't do",
-                        "[sound:rec1664102304.mp3]",
-                        "[sound:rec1664102308.mp3]",
-                        ""
-                    ],
-                    "guid": "g#z<N:7PQ3",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::19"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em không nói với anh điều đấy được.",
-                        "điều đấy",
-                        "that",
-                        "[sound:rec1664102332.mp3]",
-                        "[sound:rec1664102336.mp3]",
-                        ""
-                    ],
-                    "guid": "G5Fvmt9rZ$",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::19"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chắc chắn là anh không biết nói tiếng Việt.",
-                        "Chắc chắn là",
-                        "to be sure",
-                        "[sound:rec1664342326.mp3]",
-                        "[sound:rec1664342340.mp3]",
-                        ""
-                    ],
-                    "guid": "QN_ln(8_5F",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::19"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chắc là anh không biết nói tiếng Việt.",
-                        "Chắc là",
-                        "Maybe",
-                        "[sound:rec1664342357.mp3]",
-                        "[sound:rec1664342362.mp3]",
-                        ""
-                    ],
-                    "guid": "lmz*G8%:^e",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::19"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh học tiếng Việt bao lâu rồi?",
-                        "bao lâu rồi",
-                        "How long have you been ... ?",
-                        "[sound:rec1664342377.mp3]",
-                        "[sound:rec1664342382.mp3]",
-                        ""
-                    ],
-                    "guid": "h-$I0,_8.&",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::20"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được.",
-                        "về cơ bản là",
-                        "technically",
-                        "[sound:rec1664342389.mp3]",
-                        "[sound:rec1664342407.mp3]",
-                        ""
-                    ],
-                    "guid": "n#/WX:QLKS",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::26"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được.",
-                        "từ ... đến",
-                        "from ... to ...",
-                        "[sound:rec1664342415.mp3]",
-                        "[sound:rec1664342424.mp3]",
-                        ""
-                    ],
-                    "guid": "Gwr1fW]&q)",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::26"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được. ",
-                        "lúc nào cũng được",
-                        "whenever",
-                        "[sound:rec1664342435.mp3]",
-                        "[sound:rec1664342443.mp3]",
-                        ""
-                    ],
-                    "guid": "fX_lMtK87D",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::26"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "sau khi học tiếng việt anh sẽ học tiếng thái",
-                        "sau khi",
-                        "after",
-                        "[sound:rec1664342481.mp3]",
-                        "[sound:rec1664342458.mp3]",
-                        ""
-                    ],
-                    "guid": "w{U|lAT=,%",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Sau khi ăn xong",
-                        "xong",
-                        "finish",
-                        "[sound:rec1664342487.mp3]",
-                        "[sound:rec1664342491.mp3]",
-                        ""
-                    ],
-                    "guid": "ko*<JAX_5W",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Vì đồ ăn ở Mỹ không ngon, nên anh không thích.",
-                        "Vì ... nên",
-                        "because ... so...",
-                        "[sound:rec1664342496.mp3]",
-                        "[sound:rec1664342503.mp3]",
-                        ""
-                    ],
-                    "guid": "kehWP(IK!d",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::29"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh muốn ngủ sớm vì anh phải học tiếng Việt sớm vào buổi sáng",
-                        "phải",
-                        "to have to",
-                        "[sound:rec1664342509.mp3]",
-                        "[sound:rec1664342516.mp3]",
-                        ""
-                    ],
-                    "guid": "j(O}>0p#Nv",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh có phải là người Việt không?",
-                        "có phải là ... không",
-                        "Is subject noun?",
-                        "[sound:rec1664342523.mp3]",
-                        "[sound:rec1664342529.mp3]",
-                        ""
-                    ],
-                    "guid": "EgTGwzP82[",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::30"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em muốn đi nước khác",
-                        "khác",
-                        "another",
-                        "[sound:rec1664342534.mp3]",
-                        "[sound:rec1664342539.mp3]",
-                        ""
-                    ],
-                    "guid": "w_sy@DwP<v",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_8::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tom và Alex yêu nhau.",
-                        "nhau",
-                        "together",
-                        "[sound:rec1664342544.mp3]",
-                        "[sound:rec1664342548.mp3]",
-                        ""
-                    ],
-                    "guid": "p[l3rdZ_2Y",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_8::12"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Hôm nay em muốn ăn đồ Nhật hoặc đồ Mexico. ",
-                        "hoặc",
-                        "or",
-                        "[sound:rec1664342554.mp3]",
-                        "[sound:rec1664342559.mp3]",
-                        ""
-                    ],
-                    "guid": "hnGQeW^%w}",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh thích đồ ăn Việt Nam hay đồ ăn Thái Lan? ",
-                        "hay",
-                        "or (used in question)",
-                        "[sound:rec1664342564.mp3]",
-                        "[sound:rec1664342574.mp3]",
-                        ""
-                    ],
-                    "guid": "OE<m?bOE,u",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Anh biết viết email bằng tiếng Việt.",
-                        "bằng",
-                        "by",
-                        "[sound:rec1664342579.mp3]",
-                        "[sound:rec1664342584.mp3]",
-                        ""
-                    ],
-                    "guid": "evb>tEthBr",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em giúp anh nói chuyện với nhiều người Việt. ",
-                        "nói chuyện với",
-                        "talk",
-                        "[sound:rec1664342589.mp3]",
-                        "[sound:rec1664342593.mp3]",
-                        ""
-                    ],
-                    "guid": "yvU}RKe[KU",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nặng bao nhiêu?",
-                        "nặng",
-                        "heavy",
-                        "[sound:rec1664439078.mp3]",
-                        "[sound:rec1664439082.mp3]",
-                        ""
-                    ],
-                    "guid": "fej/:8Sfh*",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nặng bao nhiêu kí?",
-                        "nặng",
-                        "weight",
-                        "[sound:rec1664439088.mp3]",
-                        "[sound:rec1664439110.mp3]",
-                        ""
-                    ],
-                    "guid": "JL%]c9qWqt",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::people::vẻ_ngoài"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Khi em nhìn thấy người vô gia cư, em thấy thương họ",
-                        "thương",
-                        "to feel sorry for unfortunate people",
-                        "[sound:rec1664101957.mp3]",
-                        "[sound:rec1664621196.mp3]",
-                        ""
-                    ],
-                    "guid": "O4pIWrUZ;~",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Thương anh!",
-                        "thương",
-                        "poor you!",
-                        "[sound:rec1664101957.mp3]",
-                        "[sound:rec1664621524.mp3]",
-                        ""
-                    ],
-                    "guid": "D~/i=NeT*(",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em rất thương bố mẹ em.&nbsp;",
-                        "thương",
-                        "to love (stronger than love)",
-                        "[sound:rec1664101957.mp3]",
-                        "[sound:rec1664621564.mp3]",
-                        ""
-                    ],
-                    "guid": "f7x77lH[hL",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::8"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Em có rất nhiều bạn.",
-                        "bạn",
-                        "friend",
-                        "[sound:rec1664621661.mp3]",
-                        "[sound:rec1664621645.mp3]",
-                        ""
-                    ],
-                    "guid": "jEsSRn9[Y?",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Chào bạn, mình tên là Derrick.",
-                        "bạn",
-                        "you",
-                        "[sound:rec1664621661.mp3]",
-                        "[sound:rec1664621738.mp3]",
-                        ""
-                    ],
-                    "guid": "kXizU3I7{k",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::thang_7::7"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ông nội em mới mất hôm qua.",
                         "ông",
                         "paternal grandpa",
@@ -2732,6 +1870,7 @@
                     "guid": "ijOX26AWj9",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
+                        "tiengviet::marked_for_correction",
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ông",
                         "tiengviet::meta::processed_by_vntk"
@@ -2774,7 +1913,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Bà nội em không phải là người Hà Nội.",
+                        "bà nội em không phải là người Hà Nội.",
                         "bà nội",
                         "paternal grandma",
                         "[sound:rec1666693285.mp3]",
@@ -2810,7 +1949,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Có một bác công nhân đang ăn trưa.&nbsp;",
-                        "bác&nbsp;",
+                        "bác",
                         "a classifier for people to show that person's age/gender (in front of a noun)",
                         "[sound:rec1664101674.mp3]",
                         "[sound:rec1666770277.mp3]",
@@ -6811,6 +5950,12 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [
+                "rec1664018310.mp3",
+                "rec1664018391.mp3",
+                "rec1664018653.mp3",
+                "rec1664018686.mp3",
+                "rec1664018858.mp3",
+                "rec1664018871.mp3",
                 "rec1664101678.mp3",
                 "rec1664101705.mp3",
                 "rec1664101717.mp3",
@@ -6825,8 +5970,20 @@
                 "rec1664101783.mp3",
                 "rec1664101793.mp3",
                 "rec1664101806.mp3",
+                "rec1664101811.mp3",
+                "rec1664101818.mp3",
+                "rec1664101831.mp3",
+                "rec1664101836.mp3",
+                "rec1664101842.mp3",
+                "rec1664101849.mp3",
                 "rec1664101855.mp3",
                 "rec1664101859.mp3",
+                "rec1664101863.mp3",
+                "rec1664101868.mp3",
+                "rec1664101874.mp3",
+                "rec1664101877.mp3",
+                "rec1664101883.mp3",
+                "rec1664101887.mp3",
                 "rec1664101894.mp3",
                 "rec1664101907.mp3",
                 "rec1664101911.mp3",
@@ -6834,20 +5991,34 @@
                 "rec1664101924.mp3",
                 "rec1664101932.mp3",
                 "rec1664101935.mp3",
+                "rec1664101940.mp3",
+                "rec1664101944.mp3",
                 "rec1664101950.mp3",
                 "rec1664101953.mp3",
                 "rec1664101957.mp3",
+                "rec1664101967.mp3",
+                "rec1664101972.mp3",
                 "rec1664101984.mp3",
                 "rec1664101987.mp3",
                 "rec1664101991.mp3",
                 "rec1664101995.mp3",
+                "rec1664102000.mp3",
+                "rec1664102005.mp3",
                 "rec1664102010.mp3",
                 "rec1664102014.mp3",
                 "rec1664102018.mp3",
                 "rec1664102022.mp3",
+                "rec1664102027.mp3",
+                "rec1664102031.mp3",
+                "rec1664102061.mp3",
+                "rec1664102069.mp3",
+                "rec1664102076.mp3",
+                "rec1664102082.mp3",
                 "rec1664102088.mp3",
                 "rec1664102095.mp3",
                 "rec1664102099.mp3",
+                "rec1664102110.mp3",
+                "rec1664102115.mp3",
                 "rec1664102119.mp3",
                 "rec1664102126.mp3",
                 "rec1664102129.mp3",
@@ -6864,18 +6035,68 @@
                 "rec1664102171.mp3",
                 "rec1664102179.mp3",
                 "rec1664102183.mp3",
+                "rec1664102195.mp3",
+                "rec1664102200.mp3",
+                "rec1664102204.mp3",
+                "rec1664102208.mp3",
+                "rec1664102222.mp3",
+                "rec1664102226.mp3",
                 "rec1664102230.mp3",
                 "rec1664102235.mp3",
+                "rec1664102239.mp3",
+                "rec1664102245.mp3",
+                "rec1664102252.mp3",
+                "rec1664102256.mp3",
                 "rec1664102268.mp3",
                 "rec1664102278.mp3",
                 "rec1664102285.mp3",
                 "rec1664102289.mp3",
+                "rec1664102295.mp3",
+                "rec1664102298.mp3",
+                "rec1664102304.mp3",
+                "rec1664102308.mp3",
                 "rec1664102314.mp3",
                 "rec1664102317.mp3",
                 "rec1664102320.mp3",
                 "rec1664102323.mp3",
                 "rec1664102326.mp3",
+                "rec1664102332.mp3",
+                "rec1664102336.mp3",
                 "rec1664102341.mp3",
+                "rec1664342326.mp3",
+                "rec1664342340.mp3",
+                "rec1664342357.mp3",
+                "rec1664342362.mp3",
+                "rec1664342377.mp3",
+                "rec1664342382.mp3",
+                "rec1664342389.mp3",
+                "rec1664342407.mp3",
+                "rec1664342415.mp3",
+                "rec1664342424.mp3",
+                "rec1664342435.mp3",
+                "rec1664342443.mp3",
+                "rec1664342458.mp3",
+                "rec1664342481.mp3",
+                "rec1664342487.mp3",
+                "rec1664342491.mp3",
+                "rec1664342496.mp3",
+                "rec1664342503.mp3",
+                "rec1664342509.mp3",
+                "rec1664342516.mp3",
+                "rec1664342523.mp3",
+                "rec1664342529.mp3",
+                "rec1664342534.mp3",
+                "rec1664342539.mp3",
+                "rec1664342544.mp3",
+                "rec1664342548.mp3",
+                "rec1664342554.mp3",
+                "rec1664342559.mp3",
+                "rec1664342564.mp3",
+                "rec1664342574.mp3",
+                "rec1664342579.mp3",
+                "rec1664342584.mp3",
+                "rec1664342589.mp3",
+                "rec1664342593.mp3",
                 "rec1664342602.mp3",
                 "rec1664342610.mp3",
                 "rec1664342617.mp3",
@@ -6930,6 +6151,10 @@
                 "rec1664343110.mp3",
                 "rec1664343113.mp3",
                 "rec1664343116.mp3",
+                "rec1664439078.mp3",
+                "rec1664439082.mp3",
+                "rec1664439088.mp3",
+                "rec1664439110.mp3",
                 "rec1664439144.mp3",
                 "rec1664439198.mp3",
                 "rec1664439202.mp3",
@@ -6960,7 +6185,13 @@
                 "rec1664439769.mp3",
                 "rec1664439776.mp3",
                 "rec1664439779.mp3",
-                "rec1664619683.mp3"
+                "rec1664619683.mp3",
+                "rec1664621196.mp3",
+                "rec1664621524.mp3",
+                "rec1664621564.mp3",
+                "rec1664621645.mp3",
+                "rec1664621661.mp3",
+                "rec1664621738.mp3"
             ],
             "name": "void",
             "newLimit": null,
@@ -7101,6 +6332,22 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Em khoẻ không?\n<br>Em không khoẻ.",
+                        "khoẻ không?",
+                        "Are you well?",
+                        "[sound:rec1664018858.mp3]",
+                        "[sound:rec1664018871.mp3]",
+                        ""
+                    ],
+                    "guid": "C^qiHg0<y6",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::6"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "thế nào",
                         "how",
                         "common_noun",
@@ -7212,6 +6459,54 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Cô khoẻ. Còn con?  \n<br>Con cũng khoẻ.",
+                        "cũng",
+                        "also",
+                        "[sound:rec1664101811.mp3]",
+                        "[sound:rec1664101818.mp3]",
+                        ""
+                    ],
+                    "guid": "l~C~:SGcv9",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mèo của anh không dễ thương.",
+                        "không",
+                        "not",
+                        "[sound:rec1664101831.mp3]",
+                        "[sound:rec1664101836.mp3]",
+                        ""
+                    ],
+                    "guid": "yI<zV=d5@=",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::6"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mình là Derrick. Bạn khoẻ không?\n<br>Mình khoẻ.",
+                        "Bạn",
+                        "you",
+                        "[sound:rec1664101842.mp3]",
+                        "[sound:rec1664101849.mp3]",
+                        ""
+                    ],
+                    "guid": "q,HIsOSODQ",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "tên",
                         "name",
                         "common_noun",
@@ -7251,6 +6546,54 @@
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
                         "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bạn rất giỏi",
+                        "rất",
+                        "very",
+                        "[sound:rec1664101868.mp3]",
+                        "[sound:rec1664101863.mp3]",
+                        ""
+                    ],
+                    "guid": "vRl{,nh>yC",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh nóng quá!",
+                        "quá",
+                        "very",
+                        "[sound:rec1664101874.mp3]",
+                        "[sound:rec1664101877.mp3]",
+                        ""
+                    ],
+                    "guid": "AreT*$H)Q#",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hôm nay quá nóng.",
+                        "quá",
+                        "too",
+                        "[sound:rec1664101883.mp3]",
+                        "[sound:rec1664101887.mp3]",
+                        ""
+                    ],
+                    "guid": "EndD5odoQf",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
                     ]
                 },
                 {
@@ -7388,6 +6731,22 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Em có bao nhiêu bạn trai cũ?",
+                        "có",
+                        "have",
+                        "[sound:rec1664101940.mp3]",
+                        "[sound:rec1664101944.mp3]",
+                        ""
+                    ],
+                    "guid": "FSn`T<Xw49",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "thích",
                         "to like",
                         "verb",
@@ -7456,6 +6815,22 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Em chán đến mức nào?",
+                        "đến mức nào?",
+                        "to what extent?",
+                        "[sound:rec1664101967.mp3]",
+                        "[sound:rec1664101972.mp3]",
+                        ""
+                    ],
+                    "guid": "g,iIn,>Rl`",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "đâu",
                         "where",
                         "adverb",
@@ -7517,6 +6892,22 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh thích Việt Nam không?\n<br>Có.",
+                        "Có",
+                        "yes",
+                        "[sound:rec1664102000.mp3]",
+                        "[sound:rec1664102005.mp3]",
+                        ""
+                    ],
+                    "guid": "A58d.jpUf|",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_7::10"
                     ]
                 },
@@ -7613,6 +7004,55 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Hôm nay mình học tiếng Việt.",
+                        "mình",
+                        "we",
+                        "[sound:rec1664102027.mp3]",
+                        "[sound:rec1664102031.mp3]",
+                        ""
+                    ],
+                    "guid": "JEJt`hLrfG",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "question_for_teacher",
+                        "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh là người nước nào?\n<br>Anh là người gốc Tây Ban Nha",
+                        "người gốc Tây Ban Nha",
+                        "Hispanic",
+                        "[sound:rec1664102061.mp3]",
+                        "[sound:rec1664102069.mp3]",
+                        ""
+                    ],
+                    "guid": "l;S2MOtOK@",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh đến từ đâu?\n<br>Anh là người Mỹ gốc Peru",
+                        "người Mỹ gốc Peru",
+                        "Peruvian American",
+                        "[sound:rec1664102076.mp3]",
+                        "[sound:rec1664102082.mp3]",
+                        ""
+                    ],
+                    "guid": "oz={ps(r*-",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::10"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "nhà",
                         "home",
                         "common_noun",
@@ -7657,6 +7097,22 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Em là người nước nào?",
+                        "nước",
+                        "country",
+                        "[sound:rec1664102110.mp3]",
+                        "[sound:rec1664102115.mp3]",
+                        ""
+                    ],
+                    "guid": "NP8gu9H<|p",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "nói",
                         "speak",
                         "verb",
@@ -7695,6 +7151,22 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vì sao anh muốn học k8s?\n<br>Vì anh muốn có nhiều tiền hơn",
+                        "nhiều ... hơn",
+                        "more of",
+                        "[sound:rec1664018653.mp3]",
+                        "[sound:rec1664018686.mp3]",
+                        ""
+                    ],
+                    "guid": "Ki)zXL:K.O",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_7::12"
                     ]
                 },
@@ -7899,6 +7371,22 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "<span style=\"background-color: rgb(207, 226, 243);\">một khoảng thời gian nhất định để học tiếng&nbsp;</span>",
+                        "một khoảng thời gian",
+                        "a period of time",
+                        "[sound:rec1664018310.mp3]",
+                        "[sound:rec1664018391.mp3]",
+                        ""
+                    ],
+                    "guid": "I|{3cQv2me",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::6"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "gà",
                         "chicken",
                         "common_noun",
@@ -7988,6 +7476,54 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Hôm nay, mình đi ăn đồ Mexico được không?",
+                        "được không?",
+                        "Is it ok?",
+                        "[sound:rec1664102195.mp3]",
+                        "[sound:rec1664102200.mp3]",
+                        ""
+                    ],
+                    "guid": "gUj4}YdnY$",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mình đi Hà Nội được không?",
+                        "được không",
+                        "is it possible",
+                        "[sound:rec1664102204.mp3]",
+                        "[sound:rec1664102208.mp3]",
+                        ""
+                    ],
+                    "guid": "wwWmt{3t[c",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em nói tiếng Anh được không?",
+                        "được không",
+                        "Can I?",
+                        "[sound:rec1664102222.mp3]",
+                        "[sound:rec1664102226.mp3]",
+                        ""
+                    ],
+                    "guid": "k#9(%K*m9g",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "đắt",
                         "expensive",
                         "adjective",
@@ -8026,6 +7562,38 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::adjective",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Đồ ăn Việt ở Philadelphia (có) đắt không?",
+                        "Đồ ăn Việt",
+                        "Vietnamese cuisine",
+                        "[sound:rec1664102239.mp3]",
+                        "[sound:rec1664102245.mp3]",
+                        ""
+                    ],
+                    "guid": "Q3(%.Ln1Pc",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::13"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh muốn sống ở Thái Lan à? ",
+                        "à",
+                        "strong but not certain belief in assumption",
+                        "[sound:rec1664102252.mp3]",
+                        "[sound:rec1664102256.mp3]",
+                        ""
+                    ],
+                    "guid": "l}}g0idLV3",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_7::13"
                     ]
                 },
@@ -8114,6 +7682,38 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::adjective",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh nói tiếng Việt được",
+                        "được",
+                        "can",
+                        "[sound:rec1664102295.mp3]",
+                        "[sound:rec1664102298.mp3]",
+                        ""
+                    ],
+                    "guid": "vSLBNv+d3;",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em không làm được.",
+                        "không ... được",
+                        "can't do",
+                        "[sound:rec1664102304.mp3]",
+                        "[sound:rec1664102308.mp3]",
+                        ""
+                    ],
+                    "guid": "g#z<N:7PQ3",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_7::19"
                     ]
                 },
@@ -8230,6 +7830,22 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Em không nói với anh điều đấy được.",
+                        "điều đấy",
+                        "that",
+                        "[sound:rec1664102332.mp3]",
+                        "[sound:rec1664102336.mp3]",
+                        ""
+                    ],
+                    "guid": "G5Fvmt9rZ$",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "với",
                         "with",
                         "common_noun",
@@ -8268,6 +7884,38 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::adverb",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chắc chắn là anh không biết nói tiếng Việt.",
+                        "Chắc chắn là",
+                        "to be sure",
+                        "[sound:rec1664342326.mp3]",
+                        "[sound:rec1664342340.mp3]",
+                        ""
+                    ],
+                    "guid": "QN_ln(8_5F",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::19"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chắc là anh không biết nói tiếng Việt.",
+                        "Chắc là",
+                        "Maybe",
+                        "[sound:rec1664342357.mp3]",
+                        "[sound:rec1664342362.mp3]",
+                        ""
+                    ],
+                    "guid": "lmz*G8%:^e",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_7::19"
                     ]
                 },
@@ -8356,6 +8004,22 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::20"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh học tiếng Việt bao lâu rồi?",
+                        "bao lâu rồi",
+                        "How long have you been ... ?",
+                        "[sound:rec1664342377.mp3]",
+                        "[sound:rec1664342382.mp3]",
+                        ""
+                    ],
+                    "guid": "h-$I0,_8.&",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_7::20"
                     ]
                 },
@@ -8804,6 +8468,54 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được.",
+                        "về cơ bản là",
+                        "technically",
+                        "[sound:rec1664342389.mp3]",
+                        "[sound:rec1664342407.mp3]",
+                        ""
+                    ],
+                    "guid": "n#/WX:QLKS",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::26"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được.",
+                        "từ ... đến",
+                        "from ... to ...",
+                        "[sound:rec1664342415.mp3]",
+                        "[sound:rec1664342424.mp3]",
+                        ""
+                    ],
+                    "guid": "Gwr1fW]&q)",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::26"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tuỳ, về cơ bản là từ 10 giờ sáng đến 6 giờ tối nhưng anh làm việc lúc nào cũng được. ",
+                        "lúc nào cũng được",
+                        "whenever",
+                        "[sound:rec1664342435.mp3]",
+                        "[sound:rec1664342443.mp3]",
+                        ""
+                    ],
+                    "guid": "fX_lMtK87D",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::26"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "trên",
                         "on",
                         "adjective",
@@ -8820,6 +8532,54 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::adjective",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "sau khi học tiếng việt anh sẽ học tiếng thái",
+                        "sau khi",
+                        "after",
+                        "[sound:rec1664342481.mp3]",
+                        "[sound:rec1664342458.mp3]",
+                        ""
+                    ],
+                    "guid": "w{U|lAT=,%",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sau khi ăn xong",
+                        "xong",
+                        "finish",
+                        "[sound:rec1664342487.mp3]",
+                        "[sound:rec1664342491.mp3]",
+                        ""
+                    ],
+                    "guid": "ko*<JAX_5W",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::29"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Vì đồ ăn ở Mỹ không ngon, nên anh không thích.",
+                        "Vì ... nên",
+                        "because ... so...",
+                        "[sound:rec1664342496.mp3]",
+                        "[sound:rec1664342503.mp3]",
+                        ""
+                    ],
+                    "guid": "kehWP(IK!d",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_7::29"
                     ]
                 },
@@ -8975,6 +8735,38 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::verb",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh muốn ngủ sớm vì anh phải học tiếng Việt sớm vào buổi sáng",
+                        "phải",
+                        "to have to",
+                        "[sound:rec1664342509.mp3]",
+                        "[sound:rec1664342516.mp3]",
+                        ""
+                    ],
+                    "guid": "j(O}>0p#Nv",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::30"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh có phải là người Việt không?",
+                        "có phải là ... không",
+                        "Is subject noun?",
+                        "[sound:rec1664342523.mp3]",
+                        "[sound:rec1664342529.mp3]",
+                        ""
+                    ],
+                    "guid": "EgTGwzP82[",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_7::30"
                     ]
                 },
@@ -9180,6 +8972,86 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Em muốn đi nước khác",
+                        "khác",
+                        "another",
+                        "[sound:rec1664342534.mp3]",
+                        "[sound:rec1664342539.mp3]",
+                        ""
+                    ],
+                    "guid": "w_sy@DwP<v",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_8::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tom và Alex yêu nhau.",
+                        "nhau",
+                        "together",
+                        "[sound:rec1664342544.mp3]",
+                        "[sound:rec1664342548.mp3]",
+                        ""
+                    ],
+                    "guid": "p[l3rdZ_2Y",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_8::12"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Hôm nay em muốn ăn đồ Nhật hoặc đồ Mexico. ",
+                        "hoặc",
+                        "or",
+                        "[sound:rec1664342554.mp3]",
+                        "[sound:rec1664342559.mp3]",
+                        ""
+                    ],
+                    "guid": "hnGQeW^%w}",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh thích đồ ăn Việt Nam hay đồ ăn Thái Lan? ",
+                        "hay",
+                        "or (used in question)",
+                        "[sound:rec1664342564.mp3]",
+                        "[sound:rec1664342574.mp3]",
+                        ""
+                    ],
+                    "guid": "OE<m?bOE,u",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Anh biết viết email bằng tiếng Việt.",
+                        "bằng",
+                        "by",
+                        "[sound:rec1664342579.mp3]",
+                        "[sound:rec1664342584.mp3]",
+                        ""
+                    ],
+                    "guid": "evb>tEthBr",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "nấu",
                         "to cook",
                         "verb",
@@ -9196,6 +9068,22 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::verb",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em giúp anh nói chuyện với nhiều người Việt. ",
+                        "nói chuyện với",
+                        "talk",
+                        "[sound:rec1664342589.mp3]",
+                        "[sound:rec1664342593.mp3]",
+                        ""
+                    ],
+                    "guid": "yvU}RKe[KU",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
                         "tiengviet::thang_8::15"
                     ]
                 },
@@ -9928,6 +9816,38 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "nặng bao nhiêu?",
+                        "nặng",
+                        "heavy",
+                        "[sound:rec1664439078.mp3]",
+                        "[sound:rec1664439082.mp3]",
+                        ""
+                    ],
+                    "guid": "fej/:8Sfh*",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "nặng bao nhiêu kí?",
+                        "nặng",
+                        "weight",
+                        "[sound:rec1664439088.mp3]",
+                        "[sound:rec1664439110.mp3]",
+                        ""
+                    ],
+                    "guid": "JL%]c9qWqt",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::people::vẻ_ngoài"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "yếu",
                         "weak",
                         "adjective",
@@ -10123,6 +10043,86 @@
                         "tiengviet::meta::processed_by_vntk",
                         "tiengviet::people::vẻ_ngoài",
                         "tiengviet::thang_8::15"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Khi em nhìn thấy người vô gia cư, em thấy thương họ",
+                        "thương",
+                        "to feel sorry for unfortunate people",
+                        "[sound:rec1664101957.mp3]",
+                        "[sound:rec1664621196.mp3]",
+                        ""
+                    ],
+                    "guid": "O4pIWrUZ;~",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Thương anh!",
+                        "thương",
+                        "poor you!",
+                        "[sound:rec1664101957.mp3]",
+                        "[sound:rec1664621524.mp3]",
+                        ""
+                    ],
+                    "guid": "D~/i=NeT*(",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em rất thương bố mẹ em.&nbsp;",
+                        "thương",
+                        "to love (stronger than love)",
+                        "[sound:rec1664101957.mp3]",
+                        "[sound:rec1664621564.mp3]",
+                        ""
+                    ],
+                    "guid": "f7x77lH[hL",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::8"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Em có rất nhiều bạn.",
+                        "bạn",
+                        "friend",
+                        "[sound:rec1664621661.mp3]",
+                        "[sound:rec1664621645.mp3]",
+                        ""
+                    ],
+                    "guid": "jEsSRn9[Y?",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::7"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Chào bạn, mình tên là Derrick.",
+                        "bạn",
+                        "you",
+                        "[sound:rec1664621661.mp3]",
+                        "[sound:rec1664621738.mp3]",
+                        ""
+                    ],
+                    "guid": "kXizU3I7{k",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::thang_7::7"
                     ]
                 },
                 {
@@ -22586,7 +22586,7 @@
                     "qfmt": "<div style='display: none' id=\"sentence\">{{Sentence}}</div>\n<div style='display: none' id=\"target\">{{Target}}</div>\n\n<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Target Meaning</h5>\n\t\t<div class=\"vn\" id=\"content\"></div>\n\t</div>\n</div>\n\n\n<script>\nvar lookup={area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0};var attrRE=/\\s([^'\"/\\s><]+?)[\\s/>]|([^\\s=]+)=\\s?(\".*?\"|'.*?')/g;function parseTag(tag){var res={type:\"tag\",name:\"\",voidElement:!1,attrs:{},children:[]};var tagMatch=tag.match(/<\\/?([^\\s]+?)[/\\s>]/);if(tagMatch){res.name=tagMatch[1];if(lookup[tagMatch[1]]||tag.charAt(tag.length-2)===\"/\"){res.voidElement=!0}\nif(res.name.startsWith(\"!--\")){var endIndex=tag.indexOf(\"-->\");return{type:\"comment\",comment:endIndex!==-1?tag.slice(4,endIndex):\"\"}}}\nvar reg=new RegExp(attrRE);var result=null;for(;;){result=reg.exec(tag);if(result===null){break}\nif(!result[0].trim()){continue}\nif(result[1]){var attr=result[1].trim();var arr=[attr,\"\"];if(attr.indexOf(\"=\")>-1){arr=attr.split(\"=\")}\nres.attrs[arr[0]]=arr[1];reg.lastIndex--}else if(result[2]){res.attrs[result[2]]=result[3].trim().substring(1,result[3].length-1)}}\nreturn res}\nvar tagRE=/<[a-zA-Z0-9\\-\\!\\/](?:\"[^\"]*\"|'[^']*'|[^'\">])*>/g;var whitespaceRE=/^\\s*$/;var empty=Object.create(null);function parse(html,options){options||(options={});options.components||(options.components=empty);var result=[];var arr=[];var current;var level=-1;var inComponent=!1;if(html.indexOf(\"<\")!==0){var end=html.indexOf(\"<\");result.push({type:\"text\",content:end===-1?html:html.substring(0,end)})}\nhtml.replace(tagRE,function(tag,index){if(inComponent){if(tag!==\"</\"+current.name+\">\"){return}else{inComponent=!1}}\nvar isOpen=tag.charAt(1)!==\"/\";var isComment=tag.startsWith(\"<!--\");var start=index+tag.length;var nextChar=html.charAt(start);var parent;if(isComment){var comment=parseTag(tag);if(level<0){result.push(comment);return result}\nparent=arr[level];parent.children.push(comment);return result}\nif(isOpen){level++;current=parseTag(tag);if(current.type===\"tag\"&&options.components[current.name]){current.type=\"component\";inComponent=!0}\nif(!current.voidElement&&!inComponent&&nextChar&&nextChar!==\"<\"){current.children.push({type:\"text\",content:html.slice(start,html.indexOf(\"<\",start))})}\nif(level===0){result.push(current)}\nparent=arr[level-1];if(parent){parent.children.push(current)}\narr[level]=current}\nif(!isOpen||current.voidElement){if(level>-1&&(current.voidElement||current.name===tag.slice(2,-1))){level--;current=level===-1?result:arr[level]}\nif(!inComponent&&nextChar!==\"<\"&&nextChar){parent=level===-1?result:arr[level].children;var _end=html.indexOf(\"<\",start);var content=html.slice(start,_end===-1?undefined:_end);if(whitespaceRE.test(content)){content=\" \"}\nif((_end>-1&&level+parent.length>=0)||content!==\" \"){parent.push({type:\"text\",content:content})}}}});return result}\nfunction attrString(attrs){var buff=[];for(var key in attrs){buff.push(key+'=\"'+attrs[key]+'\"')}\nif(!buff.length){return\"\"}\nreturn\" \"+buff.join(\" \")}\nfunction innerStringify(buff,doc){switch(doc.type){case \"text\":return buff+doc.content;case \"tag\":buff+=\"<\"+doc.name+(doc.attrs?attrString(doc.attrs):\"\")+(doc.voidElement?\"/>\":\">\");if(doc.voidElement){return buff}\nreturn buff+doc.children.reduce(innerStringify,\"\")+\"</\"+doc.name+\">\";case \"comment\":buff+=\"<!--\"+doc.comment+\"-->\";return buff}}\nfunction stringify(doc){return doc.reduce(function(token,rootEl){return token+innerStringify(\"\",rootEl)},\"\")}\nfunction checkNodes(arr,target){var isWrapper=target.includes(\" ... \");for(var x=0;x<arr.length;x++){var elem=arr[x];if(elem.type==\"text\"){if(isWrapper){var targets=target.split(\" ... \");var left=targets[0];var right=targets[1];if(elem.content.includes(left)&&elem.content.includes(right)){arr[x].content=elem.content.replace(left,createTargetTag(left)).replace(right,createTargetTag(right))}}\nif(elem.content.includes(target)){arr[x].content=elem.content.replace(target,createTargetTag(target))}}\nif(elem.type==\"tag\"&&elem.children.length>0)checkNodes(elem.children,target)}}\nfunction createTargetTag(target){return stringify([{type:\"tag\",name:\"span\",voidElement:!1,attrs:{class:\"target\"},children:[{type:\"text\",content:target}]}])}\nvar words=parse(document.getElementById(\"sentence\").innerHTML);checkNodes(words,document.getElementById(\"target\").innerHTML);document.getElementById(\"content\").innerHTML=stringify(words)\n</script>\n\n"
                 },
                 {
-                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"vn\">{{Sentence}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Sentence meaning}}</div>\n\t</div>\n</div>\n\n",
+                    "afmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<div class=\"vn\">{{Sentence}}</div>\n\t\t<div >{{hint::Sentence Audio}}</div>\n\t\t<hr id=\"answer\"></hr>\n\t\t<div class=\"en\">{{Sentence meaning}}</div>\n\t</div>\n</div>\n\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -22605,7 +22605,7 @@
                     "did": null,
                     "name": "Type Target",
                     "ord": 2,
-                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t{{#Sentence Audio}}{{hint::Sentence Audio}}{{/Sentence Audio}}\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
+                    "qfmt": "<div class=\"kard\">\n\t<div class=\"kard-body\" style=\"--shadow:15; --levitate:40;\">\n\t\t<h4 class=\"en\" style=\"--py:10px; --grad:180deg; --grad-color:#2f413a;\">Type Target</h5>\n\t\t{{#Sentence Audio}}{{Sentence Audio}}{{/Sentence Audio}}\n\t\t<div class=\"en\">{{Target Meaning}}</div>\n\t</div>\n</div>\n{{type:Target}}\n"
                 }
             ],
             "type": 0
