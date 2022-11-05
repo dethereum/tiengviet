@@ -1700,7 +1700,6 @@
                 "rec1664439497.mp3",
                 "rec1665913752.mp3",
                 "rec1665913778.mp3",
-                "rec1665913793.mp3",
                 "rec1665914131.mp3",
                 "rec1665914244.mp3",
                 "rec1666432205.mp3",
@@ -1851,7 +1850,8 @@
                 "rec1667558663.mp3",
                 "rec1667558853.mp3",
                 "rec1667558862.mp3",
-                "rec1667558978.mp3"
+                "rec1667558978.mp3",
+                "rec1667637054.mp3"
             ],
             "name": "phrases",
             "newLimit": null,
@@ -1860,17 +1860,16 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ông nội em mới mất hôm qua.",
+                        "Ông nội em mới mất hôm qua.",
                         "ông",
                         "paternal grandpa",
                         "[sound:rec1664101654.mp3]",
-                        "[sound:rec1665913793.mp3]",
+                        "[sound:rec1667637054.mp3]",
                         "My paternal grandpa just passed away yesterday."
                     ],
                     "guid": "ijOX26AWj9",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::marked_for_correction",
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ông",
                         "tiengviet::meta::processed_by_vntk"
@@ -5956,7 +5955,6 @@
                 "rec1664018686.mp3",
                 "rec1664018858.mp3",
                 "rec1664018871.mp3",
-                "rec1664101678.mp3",
                 "rec1664101705.mp3",
                 "rec1664101717.mp3",
                 "rec1664101721.mp3",
@@ -6026,13 +6024,10 @@
                 "rec1664102136.mp3",
                 "rec1664102140.mp3",
                 "rec1664102143.mp3",
-                "rec1664102147.mp3",
                 "rec1664102150.mp3",
                 "rec1664102158.mp3",
                 "rec1664102161.mp3",
                 "rec1664102165.mp3",
-                "rec1664102168.mp3",
-                "rec1664102171.mp3",
                 "rec1664102179.mp3",
                 "rec1664102183.mp3",
                 "rec1664102195.mp3",
@@ -6097,7 +6092,6 @@
                 "rec1664342584.mp3",
                 "rec1664342589.mp3",
                 "rec1664342593.mp3",
-                "rec1664342602.mp3",
                 "rec1664342610.mp3",
                 "rec1664342617.mp3",
                 "rec1664342627.mp3",
@@ -6106,7 +6100,6 @@
                 "rec1664342637.mp3",
                 "rec1664342641.mp3",
                 "rec1664342651.mp3",
-                "rec1664342658.mp3",
                 "rec1664342662.mp3",
                 "rec1664342665.mp3",
                 "rec1664342672.mp3",
@@ -6191,34 +6184,47 @@
                 "rec1664621564.mp3",
                 "rec1664621645.mp3",
                 "rec1664621661.mp3",
-                "rec1664621738.mp3"
+                "rec1664621738.mp3",
+                "rec1667635054.mp3",
+                "rec1667635059.mp3",
+                "rec1667635104.mp3",
+                "rec1667635144.mp3",
+                "rec1667635151.mp3",
+                "rec1667635187.mp3",
+                "rec1667635228.mp3",
+                "rec1667635640.mp3",
+                "rec1667635645.mp3",
+                "rec1667635723.mp3",
+                "rec1667636019.mp3",
+                "rec1667636113.mp3",
+                "rec1667636118.mp3",
+                "rec1667636651.mp3",
+                "rec1667636677.mp3",
+                "rec1667636740.mp3",
+                "rec1667636775.mp3",
+                "rec1667636809.mp3",
+                "rec1667636879.mp3",
+                "rec1667636957.mp3",
+                "rec1667637210.mp3",
+                "rec1667637213.mp3",
+                "rec1667637405.mp3",
+                "rec1667637457.mp3",
+                "rec1667637504.mp3",
+                "rec1667637508.mp3",
+                "rec1667637664.mp3",
+                "rec1667637668.mp3",
+                "rec1667637828.mp3",
+                "rec1667637838.mp3",
+                "rec1667637900.mp3",
+                "rec1667637905.mp3",
+                "rec1667638245.mp3",
+                "rec1667638726.mp3",
+                "rec1667638730.mp3"
             ],
             "name": "void",
             "newLimit": null,
             "newLimitToday": null,
             "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cô",
-                        "younger aunt",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664101678.mp3]",
-                        "rec1664101678.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "s%aSV*l!z-",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cô",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::5"
-                    ]
-                },
                 {
                     "__type__": "Note",
                     "fields": [
@@ -7283,28 +7289,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "có",
-                        "to have",
-                        "verb",
-                        "",
-                        "[sound:rec1664102147.mp3]",
-                        "rec1664102147.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "=p;2osN2K",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ăn",
                         "to eat",
                         "verb",
@@ -7868,28 +7852,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "còn",
-                        "to have left",
-                        "adverb",
-                        "",
-                        "[sound:rec1664342602.mp3]",
-                        "rec1664342602.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "BR`oXsO2Cg",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::adverb",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::19"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Chắc chắn là anh không biết nói tiếng Việt.",
                         "Chắc chắn là",
                         "to be sure",
@@ -8109,28 +8071,6 @@
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
                         "tiengviet::thang_7::20"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cách",
-                        "a method",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664342658.mp3]",
-                        "rec1664342658.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "ixTGTMP#al",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cách",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::22"
                     ]
                 },
                 {
@@ -10165,133 +10105,51 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "hai cô cháu",
+                        "Cô ơi, cho cháu 2 Pepsi.",
                         "cô",
-                        "em gái hoặc chị của cha [có thể dùng để xưng gọi]",
-                        "[sound:rec1664101678.mp3]",
-                        "",
-                        ""
+                        "a pronoun to refer to younger aunt&nbsp;",
+                        "[sound:rec1667637838.mp3]",
+                        "[sound:rec1667637828.mp3]",
+                        "Hi, can I have 2 Pepsis?"
                     ],
                     "guid": "X9ukhtlCnf",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cô",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "mấy cô, cậu học trò",
+                        "Hôm qua tôi thấy có mấy cô học sinh đi chơi khuya lắm!",
                         "cô",
-                        "từ dùng để chỉ hoặc gọi người con gái hoặc người phụ nữ còn trẻ tuổi",
-                        "[sound:rec1664101678.mp3]",
-                        "",
-                        ""
+                        "put in front of a specific noun to refer to young girls&nbsp;",
+                        "[sound:rec1667637838.mp3]",
+                        "[sound:rec1667638245.mp3]",
+                        "Yesterday I saw there were some young girls going out really late!"
                     ],
                     "guid": "0aK7tZ1ZFf",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cô",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cô ấy là bạn của mẹ tôi",
+                        "Em cảm ơn cô vì lớp học hôm nay.",
                         "cô",
-                        "từ dùng trong đối thoại để gọi người phụ nữ coi như bậc cô của mình với ý yêu mến, kính trọng, hoặc để người phụ nữ tự xưng một cách thân mật với người coi như hàng cháu của mình",
-                        "[sound:rec1664101678.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "ho02WitDRL",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cô",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cô trông cháu giúp anh một tí nhé!",
-                        "cô",
-                        "từ dùng trong đối thoại để gọi em gái đã lớn tuổi với ý coi trọng, hoặc để gọi một cách thân mật người phụ nữ coi như vai em của mình [gọi theo cách gọi của con mình]",
-                        "[sound:rec1664101678.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "7mOBNU4Teq",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cô",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "thưa cô cho em vào lớp",
-                        "cô",
-                        "từ dùng để gọi cô giáo hoặc cô giáo dùng để tự xưng khi nói với học sinh",
-                        "[sound:rec1664101678.mp3]",
-                        "",
-                        ""
+                        "to address a female teacher&nbsp;",
+                        "[sound:rec1667638726.mp3]",
+                        "[sound:rec1667638730.mp3]",
+                        "Thank you for today's class."
                     ],
                     "guid": "fX9am6tL4c",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cô",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "mẹ đang cô nước đường",
-                        "cô",
-                        "đun lâu và nhỏ lửa để một dung dịch bốc hơi nước cho đặc lại",
-                        "[sound:rec1664101678.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "0iCp4F8jYC",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cô",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "thân cô, thế cô",
-                        "cô",
-                        "chỉ có một mình, không dựa được vào ai",
-                        "[sound:rec1664101678.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "oEPpYneySk",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cô",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -14592,38 +14450,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "mua 5 cân cá",
+                        "Em mới mua 2 cân cá.",
                         "cá",
-                        "động vật có xương sống ở nước, thở bằng mang, bơi bằng vây",
-                        "[sound:rec1664102168.mp3]",
-                        "",
-                        ""
+                        "fish",
+                        "[sound:rec1667635054.mp3]",
+                        "[sound:rec1667635059.mp3]",
+                        "I've just bought 2kg of fish."
                     ],
                     "guid": "_zzUYxRp49",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cá",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nó cá với tôi trận đấu này",
+                        "Nó cá em 500 nghìn cho trận này.",
                         "cá",
-                        "cuộc",
-                        "[sound:rec1664102168.mp3]",
-                        "",
-                        ""
+                        "to bet",
+                        "[sound:rec1667635054.mp3]",
+                        "[sound:rec1667635104.mp3]",
+                        "He bet me 500k for this game."
                     ],
                     "guid": "kcycXcE9KB",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cá",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -14632,93 +14486,66 @@
                     "fields": [
                         "cái Lan có nhà không hả bác?",
                         "cái",
-                        "từ dùng để gọi người con gái ngang hàng hoặc hàng dưới một cách thân mật",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
+                        "used in front of a name to refer to a friend/younger person",
+                        "[sound:rec1667635640.mp3]",
+                        "[sound:rec1667635645.mp3]",
+                        "Is Lan home?"
                     ],
                     "guid": "-jCYwQ0Ur_",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "đủ cả, không thiếu cái gì",
-                        "cái",
-                        "từ dùng để chỉ cá thể sự vật, sự việc với nghĩa rất khái quát",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
+                        "Em không có cái gì để làm.",
+                        "cái gì",
+                        "anything/nothing",
+                        "[sound:rec1667636651.mp3]",
+                        "[sound:rec1667636677.mp3]",
+                        "I don't have anything to do."
                     ],
                     "guid": "gY2NmsUbr9",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cái bàn này cao",
+                        "Cái bàn này rẻ.",
                         "cái",
-                        "từ dùng để chỉ từng đơn vị riêng lẻ thuộc loại vật vô sinh",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
+                        "a classifier for objects",
+                        "[sound:rec1667635640.mp3]",
+                        "[sound:rec1667635723.mp3]",
+                        "This table is cheap."
                     ],
                     "guid": "6yWI9601B8",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ngã một cái rất đau",
+                        "Chó nhà anh là chó cái.",
                         "cái",
-                        "từ dùng để chỉ từng đơn vị riêng lẻ động tác hoặc quá trình ngắn",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "xQGnFZJKJl",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chó cái",
-                        "cái",
-                        "[động vật] thuộc về giống có thể đẻ con hoặc đẻ trứng",
-                        "[sound:rec1664102171.mp3]",
-                        "",
-                        ""
+                        "female (for animals)",
+                        "[sound:rec1667635640.mp3]",
+                        "[sound:rec1667636019.mp3]",
+                        "My family's dog is a female dog."
                     ],
                     "guid": "loMGAtMjya",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cái",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -16055,133 +15882,85 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ông ấy vẫn còn",
+                        "Ông ngoại em vẫn còn.",
                         "còn",
-                        "tiếp tục tồn tại",
-                        "[sound:rec1664342602.mp3]",
-                        "",
-                        ""
+                        "to be alive (for old people)",
+                        "[sound:rec1667636113.mp3]",
+                        "[sound:rec1667636118.mp3]",
+                        "My maternal grandpa is still alive."
                     ],
                     "guid": "evgVuoEisk",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "tôi vẫn còn tiền",
+                        "Anh vẫn còn tiền.",
                         "còn",
-                        "[ai, cái gì] tiếp tục có, tiếp tục diễn ra, không phải đã hết",
-                        "[sound:rec1664342602.mp3]",
-                        "",
-                        ""
+                        "to have left",
+                        "[sound:rec1667636113.mp3]",
+                        "[sound:rec1667636775.mp3]",
+                        "I still have money left."
                     ],
                     "guid": "8P1Hv24kyB",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "trong nhà còn gạo",
+                        "Sao khuya rồi mà vẫn còn thức?",
                         "còn",
-                        "[ở đâu đó] tiếp tục có, tiếp tục diễn ra",
-                        "[sound:rec1664342602.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "dEdLlHgTHV",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tiền của tôi vẫn còn",
-                        "còn",
-                        "[cái gì đó] ở trạng thái vẫn tiếp tục có, tiếp tục diễn ra, không phải đã hết hoặc mất đi",
-                        "[sound:rec1664342602.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "s-s2G9k86R",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "khuya rồi mà vẫn còn thức",
-                        "còn",
-                        "từ biểu thị sự tiếp tục, tiếp diễn của hành động, trạng thái cho đến một lúc nào đó",
-                        "[sound:rec1664342602.mp3]",
-                        "",
-                        ""
+                        "still&nbsp;",
+                        "[sound:rec1667636113.mp3]",
+                        "[sound:rec1667636809.mp3]",
+                        "It's so late already, why are you still up?"
                     ],
                     "guid": "pijWB7RTSr",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "hôm qua còn nắng to hơn hôm nay",
+                        "Thằng bé ý còn cao hơn anh.",
                         "còn",
-                        "từ biểu thị ý khẳng định về một hành động, tính chất nào đó, cả trong trường hợp được nêu thêm ra để đối chiếu, so sánh",
-                        "[sound:rec1664342602.mp3]",
-                        "",
-                        ""
+                        "to emphasize an action, trait, especially in order to compare it with something else",
+                        "[sound:rec1667636113.mp3]",
+                        "[sound:rec1667636879.mp3]",
+                        "He's even taller than you."
                     ],
                     "guid": "JvcCTre1Tp",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nó ở nhà, còn anh?",
+                        "Dạo này em bận. Còn anh thì sao?",
                         "còn",
-                        "từ biểu thị điều sắp nêu ra là một trường hợp khác hoặc trái lại, đối chiếu với điều vừa nói đến",
-                        "[sound:rec1664342602.mp3]",
-                        "",
-                        ""
+                        "and / what about",
+                        "[sound:rec1667636113.mp3]",
+                        "[sound:rec1667636957.mp3]",
+                        "I've been busy lately. What about you?&nbsp;"
                     ],
                     "guid": "tQEYbuAE8V",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::còn",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -16872,38 +16651,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nhà tôi cách trường 5 cây",
+                        "Nhà anh cách công ty 5 cây.",
                         "cách",
-                        "không tiếp nối nhau, vì ở giữa có một vật hoặc một khoảng không gian, thời gian nào đó",
-                        "[sound:rec1664342658.mp3]",
-                        "",
-                        ""
+                        "to be far away from&nbsp;",
+                        "[sound:rec1667635054.mp3]",
+                        "[sound:rec1667635228.mp3]",
+                        "My house is 5km away from my company."
                     ],
                     "guid": "WJmguo2Ilo",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cách",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "cao su có khả năng cách điện",
+                        "Cao su có khả năng cách điện.",
                         "cách",
                         "không để âm, nhiệt, điện, truyền qua",
-                        "[sound:rec1664342658.mp3]",
-                        "",
-                        ""
+                        "[sound:rec1667635054.mp3]",
+                        "[sound:rec1667635187.mp3]",
+                        "Rubber has the ability to block electricity."
                     ],
                     "guid": "_F0GVhE3-M",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cách",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -22078,95 +21853,68 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chị ấy có một con",
+                        "Chị ý có một con.",
                         "có",
-                        "từ biểu thị trạng thái tồn tại trong mối quan hệ nguồn gốc, thân thuộc, tác động qua lại với nhau, v.v. nói chung",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
+                        "to have",
+                        "[sound:rec1667637210.mp3]",
+                        "[sound:rec1667637213.mp3]",
+                        "She has a child."
                     ],
                     "guid": "AObDIrqTgT",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "bệnh có phần thuyên giảm",
-                        "có",
-                        "từ biểu thị ý khẳng định trạng thái tồn tại, sự xảy ra của điều gì",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "Hgp9dVrFNl",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "từ đây đến đó có xa không?",
-                        "có",
-                        "từ biểu thị ý muốn hỏi về điều muốn được khẳng định là như thế [hay là trái lại]",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
+                        "Từ đây đến đấy có xa không?",
+                        "có ... không?",
+                        "is/are/do/does?",
+                        "[sound:rec1667637405.mp3]",
+                        "[sound:rec1667637457.mp3]",
+                        "Is it far from here to there?"
                     ],
                     "guid": "ExvW-cCKLK",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chỉ có ngần ấy người tham gia",
+                        "Chỉ có 10 người ở đây.",
                         "có",
-                        "từ biểu thị ý nhấn mạnh thêm sắc thái khẳng định về số lượng, mức độ chỉ đến thế không hơn không kém",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
+                        "there is / there are",
+                        "[sound:rec1667637504.mp3]",
+                        "[sound:rec1667637508.mp3]",
+                        "There're only 10 people here."
                     ],
                     "guid": "LTQaJ_FY_l",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "tôi đâu có nói như vậy",
-                        "có",
-                        "từ biểu thị ý nhấn mạnh thêm về sắc thái khẳng định trong lời khuyên ngăn hoặc lời phủ nhận",
-                        "[sound:rec1664102147.mp3]",
-                        "",
-                        ""
+                        "Em đâu có nói như thế!",
+                        "đâu có",
+                        "to emphasize the word 'no'",
+                        "[sound:rec1667637664.mp3]",
+                        "[sound:rec1667637668.mp3]",
+                        "I didn't say that!"
                     ],
                     "guid": "izjZhXB8Y1",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::có",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -22224,6 +21972,57 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::ăn",
                         "tiengviet::meta::needs_expert_review",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Sẽ có cách để giải quyết vấn đề.",
+                        "cách",
+                        "a way/method",
+                        "[sound:rec1667635144.mp3]",
+                        "[sound:rec1667635151.mp3]",
+                        "There will be a way to solve the problem."
+                    ],
+                    "guid": "c]l!&acs_Z",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cách",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Đây là cái gì?",
+                        "cái gì",
+                        "what",
+                        "[sound:rec1667636651.mp3]",
+                        "[sound:rec1667636740.mp3]",
+                        "What's this?"
+                    ],
+                    "guid": "e>u;}K6$?=",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cái",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Đấy là cô ruột của em.",
+                        "cô ruột",
+                        "your actual younger aunt&nbsp;",
+                        "[sound:rec1667637900.mp3]",
+                        "[sound:rec1667637905.mp3]",
+                        "That's my younger aunt."
+                    ],
+                    "guid": "H=Sw}Iz0o.",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cô",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 }
