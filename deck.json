@@ -5957,16 +5957,13 @@
                 "rec1664018871.mp3",
                 "rec1664101705.mp3",
                 "rec1664101717.mp3",
-                "rec1664101721.mp3",
                 "rec1664101725.mp3",
                 "rec1664101729.mp3",
-                "rec1664101740.mp3",
                 "rec1664101748.mp3",
                 "rec1664101758.mp3",
                 "rec1664101774.mp3",
                 "rec1664101779.mp3",
                 "rec1664101783.mp3",
-                "rec1664101793.mp3",
                 "rec1664101806.mp3",
                 "rec1664101811.mp3",
                 "rec1664101818.mp3",
@@ -5987,7 +5984,6 @@
                 "rec1664101911.mp3",
                 "rec1664101920.mp3",
                 "rec1664101924.mp3",
-                "rec1664101932.mp3",
                 "rec1664101935.mp3",
                 "rec1664101940.mp3",
                 "rec1664101944.mp3",
@@ -6022,7 +6018,6 @@
                 "rec1664102129.mp3",
                 "rec1664102133.mp3",
                 "rec1664102136.mp3",
-                "rec1664102140.mp3",
                 "rec1664102143.mp3",
                 "rec1664102150.mp3",
                 "rec1664102158.mp3",
@@ -6136,7 +6131,6 @@
                 "rec1664343063.mp3",
                 "rec1664343066.mp3",
                 "rec1664343069.mp3",
-                "rec1664343081.mp3",
                 "rec1664343084.mp3",
                 "rec1664343094.mp3",
                 "rec1664343101.mp3",
@@ -6149,7 +6143,6 @@
                 "rec1664439088.mp3",
                 "rec1664439110.mp3",
                 "rec1664439144.mp3",
-                "rec1664439198.mp3",
                 "rec1664439202.mp3",
                 "rec1664439205.mp3",
                 "rec1664439225.mp3",
@@ -6157,7 +6150,6 @@
                 "rec1664439233.mp3",
                 "rec1664439319.mp3",
                 "rec1664439330.mp3",
-                "rec1664439348.mp3",
                 "rec1664439352.mp3",
                 "rec1664439355.mp3",
                 "rec1664439359.mp3",
@@ -6219,7 +6211,36 @@
                 "rec1667637905.mp3",
                 "rec1667638245.mp3",
                 "rec1667638726.mp3",
-                "rec1667638730.mp3"
+                "rec1667638730.mp3",
+                "rec1667900206.mp3",
+                "rec1667900222.mp3",
+                "rec1667900459.mp3",
+                "rec1667900517.mp3",
+                "rec1667900530.mp3",
+                "rec1667900559.mp3",
+                "rec1667900583.mp3",
+                "rec1667900589.mp3",
+                "rec1667900630.mp3",
+                "rec1667900693.mp3",
+                "rec1667900697.mp3",
+                "rec1667900761.mp3",
+                "rec1667900792.mp3",
+                "rec1667900795.mp3",
+                "rec1667900846.mp3",
+                "rec1667900880.mp3",
+                "rec1667900917.mp3",
+                "rec1667901009.mp3",
+                "rec1667901030.mp3",
+                "rec1667901387.mp3",
+                "rec1667901392.mp3",
+                "rec1667901435.mp3",
+                "rec1667901632.mp3",
+                "rec1667901637.mp3",
+                "rec1667901709.mp3",
+                "rec1667901714.mp3",
+                "rec1667902472.mp3",
+                "rec1667902615.mp3",
+                "rec1667902930.mp3"
             ],
             "name": "void",
             "newLimit": null,
@@ -6285,28 +6306,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::by_word::ơi",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "của",
-                        "of",
-                        "common_noun",
-                        "",
-                        "[sound:rec1664101740.mp3]",
-                        "rec1664101740.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "v|hfoAYkv`",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::của",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
@@ -7236,28 +7235,6 @@
                     "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
                     "tags": [
                         "tiengviet::meta::by_word::đi",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::10"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cần",
-                        "to need",
-                        "verb",
-                        "",
-                        "[sound:rec1664102140.mp3]",
-                        "rec1664102140.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "c1p<jsMqiO",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cần",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::verb",
                         "tiengviet::meta::processed_by_vntk",
@@ -9096,28 +9073,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "dài",
-                        "long",
-                        "adjective",
-                        "",
-                        "[sound:rec1664343081.mp3]",
-                        "rec1664343081.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "h1,dtB}<T+",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::dài",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::adjective",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_8::15"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "ngắn",
                         "short",
                         "adjective",
@@ -9244,6 +9199,7 @@
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
                         "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::not_ambigious",
                         "tiengviet::people::cãm_xúc"
                     ]
                 },
@@ -9287,28 +9243,6 @@
                         "tiengviet::meta::by_word::hồi_hộp",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::verb",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::people::cãm_xúc"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "căng thẳng",
-                        "stressed",
-                        "adjective",
-                        "",
-                        "[sound:rec1664439198.mp3]",
-                        "rec1664439198.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "w<,}o24s4V",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::căng_thẳng",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::adjective",
                         "tiengviet::meta::processed_by_vntk",
                         "tiengviet::people::cãm_xúc"
                     ]
@@ -9463,28 +9397,6 @@
                         "tiengviet::meta::by_word::hướng_nội",
                         "tiengviet::meta::meaning::ambigious",
                         "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::people::tính_cach"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cởi mở",
-                        "open-minded",
-                        "verb",
-                        "",
-                        "[sound:rec1664439348.mp3]",
-                        "rec1664439348.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "HO;-9TAH_g",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::meta::by_word::cởi_mở",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::verb",
                         "tiengviet::meta::processed_by_vntk",
                         "tiengviet::people::tính_cach"
                     ]
@@ -9942,29 +9854,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "dạ",
-                        "yes&nbsp;",
-                        "common_noun",
-                        "to older people (southern)",
-                        "[sound:rec1664101729.mp3]",
-                        "rec1664101729.mp3",
-                        "",
-                        ""
-                    ],
-                    "guid": "ivIR(i<U5j",
-                    "note_model_uuid": "9b9a6880-3c24-11ed-8813-79fe18cd4603",
-                    "tags": [
-                        "tiengviet::marked_for_phrase",
-                        "tiengviet::meta::by_word::dạ",
-                        "tiengviet::meta::meaning::ambigious",
-                        "tiengviet::meta::pos::common_noun",
-                        "tiengviet::meta::processed_by_vntk",
-                        "tiengviet::thang_7::6"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "thấp",
                         "short",
                         "adjective",
@@ -10270,12 +10159,12 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "tôi cảm ơn chị",
+                        "Em cảm ơn chị",
                         "cảm ơn",
-                        "tỏ sự biết ơn [đối với người đã giúp đỡ mình]",
-                        "[sound:rec1664101721.mp3]",
-                        "",
-                        ""
+                        "thank",
+                        "[sound:rec1667900792.mp3]",
+                        "[sound:rec1667900795.mp3]",
+                        "Thank you."
                     ],
                     "guid": "kabm6pzLbh",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
@@ -10283,7 +10172,8 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cảm_ơn",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
+                        "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::not_ambigious"
                     ]
                 },
                 {
@@ -10346,133 +10236,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "lắm tiền nhiều của",
+                        "Nó thích một cuộc sống lắm tiền nhiều của.",
                         "của",
-                        "vật cụ thể và có giá trị do con người làm ra, về mặt thuộc quyền sở hữu của người nào đó",
-                        "[sound:rec1664101740.mp3]",
-                        "",
-                        ""
+                        "asset / property&nbsp;",
+                        "[sound:rec1667900846.mp3]",
+                        "[sound:rec1667900880.mp3]",
+                        "She likes a life with lots of money and asset."
                     ],
                     "guid": "mWEsOO85yK",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::của",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "hảo của ngọt",
+                        "Đây là áo của mẹ em.",
                         "của",
-                        "cái ăn, về mặt có đặc tính riêng nào đó",
-                        "[sound:rec1664101740.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "V_VSJmuHLf",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::của",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "ai thèm rước cái của ấy!",
-                        "của",
-                        "đồ vật hoặc người thuộc loại, hạng nào đó [hàm ý coi khinh]",
-                        "[sound:rec1664101740.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "Hpo-in3IEW",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::của",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chiếc áo của mẹ",
-                        "của",
-                        "từ biểu thị điều sắp nêu ra là người hay sự vật có quyền sở hữu hoặc chi phối đối với cái vừa được nói đến",
-                        "[sound:rec1664101740.mp3]",
-                        "",
-                        ""
+                        "of / belongs to",
+                        "[sound:rec1667900846.mp3]",
+                        "[sound:rec1667900917.mp3]",
+                        "This is my mum's shirt."
                     ],
                     "guid": "68B9FFt-Sv",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::của",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cái mũi đỏ của anh hề",
-                        "của",
-                        "từ biểu thị điều sắp nêu ra là chỉnh thể, trong quan hệ với cái bộ phận vừa được nói đến",
-                        "[sound:rec1664101740.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "_6iHXe1xNf",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::của",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "tình thương con của người mẹ",
-                        "của",
-                        "từ biểu thị điều sắp nêu ra là người hay sự vật có thuộc tính hoặc hoạt động vừa được nói đến",
-                        "[sound:rec1664101740.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "Q3xumtOLl8",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::của",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "một thiên tài của dân tộc",
-                        "của",
-                        "từ biểu thị điều sắp nêu ra là người hay sự vật có quan hệ nguồn gốc, thân thuộc, tác động qua lại, v.v. với người hay sự vật vừa được nói đến",
-                        "[sound:rec1664101740.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "1u22Dm5i_-",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::của",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -11125,38 +10916,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nó cũng nghĩ như anh",
+                        "Nó cũng nghĩ như anh.",
                         "cũng",
-                        "từ biểu thị ý khẳng định sự giống nhau về hiện tượng, trạng thái, hoạt động, tính chất của trường hợp sắp nêu ra so với những trường hợp vừa được nói đến hay là so với trước kia",
-                        "[sound:rec1664101793.mp3]",
-                        "",
-                        ""
+                        "also",
+                        "[sound:rec1667900583.mp3]",
+                        "[sound:rec1667900589.mp3]",
+                        "He also thinks like you."
                     ],
                     "guid": "h4bxF8MnV9",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cũng",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "nó cũng khá đấy chứ",
+                        "Phim này cũng hay.",
                         "cũng",
-                        "từ biểu thị ý nhận định trường hợp sắp nêu ra có phần giống như những trường hợp tương tự [theo chủ quan của người nói, dùng để làm cho lời nói bớt vẻ khẳng định]",
-                        "[sound:rec1664101793.mp3]",
-                        "",
-                        ""
+                        "quite / pretty (adverb)",
+                        "[sound:rec1667900583.mp3]",
+                        "[sound:rec1667900630.mp3]",
+                        "This movie is pretty good."
                     ],
                     "guid": "0_doRPGJrg",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cũng",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -11790,19 +11577,17 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "sách cũ",
+                        "Sách này cũ lắm rồi.",
                         "cũ",
-                        "đã được đem dùng và không còn nguyên, còn mới như trước nữa",
-                        "[sound:rec1664101932.mp3]",
-                        "",
-                        ""
+                        "old (&gt;&lt; new)",
+                        "[sound:rec1667900517.mp3]",
+                        "[sound:rec1667900530.mp3]",
+                        "This book is really old already."
                     ],
                     "guid": "_x203-6w5g",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cũ",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -13785,152 +13570,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "\"Có con mà gả chồng gần, Có bát canh cần nó cũng đem cho.\" (Cdao)",
+                        "Cô ý đang cần tiền.",
                         "cần",
-                        "cây thân dài, hoa họp thành tán, thường trồng ở ruộng lầy hoặc ao cạn, dùng làm rau ăn",
-                        "[sound:rec1664102140.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "BuitXK2GAD",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cần",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cần antenna",
-                        "cần",
-                        "bộ phận hình thanh dài ở một số đồ dùng, có thể nâng lên hạ xuống được",
-                        "[sound:rec1664102140.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "JrdxVqKqMp",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cần",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "điếu có cần dài",
-                        "cần",
-                        "ống nhỏ và rỗng, thường bằng sậy, trúc, có thể vít cong xuống, dùng để hút rượu hoặc hút thuốc",
-                        "[sound:rec1664102140.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "mMkW-hb7ZR",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cần",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cần đàn",
-                        "cần",
-                        "bộ phận mang bàn phím, nối liền đầu có trục so dây với bầu cộng hưởng của một số nhạc khí",
-                        "[sound:rec1664102140.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "FzNkaEiO20",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cần",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "cần đàn bầu",
-                        "cần",
-                        "thanh tre nhỏ xuyên qua bầu đàn trong đàn bầu, dùng để nắn tiếng",
-                        "[sound:rec1664102140.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "WWr7KVYBrB",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cần",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "bà ấy đang cần tiền chữa bệnh",
-                        "cần",
-                        "không thể không làm, không thể không có, vì nếu không làm, không có thì sẽ có hại",
-                        "[sound:rec1664102140.mp3]",
-                        "",
-                        ""
+                        "to need",
+                        "[sound:rec1667900693.mp3]",
+                        "[sound:rec1667900697.mp3]",
+                        "She needs money at the moment."
                     ],
                     "guid": "waB6fDaIUY",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cần",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "thư cần, phải chuyển ngay",
+                        "Ở Việt Nam, cần vẫn chưa được hợp pháp hoá.",
                         "cần",
-                        "phải được giải quyết gấp, vì để chậm trễ sẽ có hại",
-                        "[sound:rec1664102140.mp3]",
-                        "",
-                        ""
+                        "weed / marijuana",
+                        "[sound:rec1667900693.mp3]",
+                        "[sound:rec1667900761.mp3]",
+                        "In Vietnam, weed is still not legalised."
                     ],
                     "guid": "CkZ5y4m3SC",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cần",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "gương cần, kiệm, liêm, chính",
-                        "cần",
-                        "siêng năng, chăm chỉ [nói khái quát]",
-                        "[sound:rec1664102140.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "stsN2FxGoA",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::cần",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -19668,76 +19335,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "tấm vải dài 5 mét",
+                        "Bàn kia dài 1 mét.",
                         "dài",
-                        "có khoảng cách bao nhiêu đó từ đầu này đến đầu kia, theo chiều nằm ngang và thường là có kích thước lớn nhất [gọi là chiều dài] của vật",
-                        "[sound:rec1664343081.mp3]",
-                        "",
-                        ""
+                        "long / length",
+                        "[sound:rec1667901632.mp3]",
+                        "[sound:rec1667901637.mp3]",
+                        "That table is one meter long."
                     ],
                     "guid": "28SMHX5bWg",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::dài",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "đôi đũa dài",
-                        "dài",
-                        "có chiều dài lớn hơn mức bình thường hoặc lớn hơn so với những vật khác",
-                        "[sound:rec1664343081.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "Qc0ob-7daF",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::dài",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "đợt nắng nóng kéo dài",
-                        "dài",
-                        "[hiện tượng, sự việc] chiếm nhiều thời gian hơn mức bình thường hoặc hơn những hiện tượng, sự việc khác",
-                        "[sound:rec1664343081.mp3]",
-                        "",
-                        ""
+                        "Đợt nắng nóng lần này kéo dài.",
+                        "kéo dài",
+                        "to prolong / to last long (in a neutral/negative way)",
+                        "[sound:rec1667901709.mp3]",
+                        "[sound:rec1667901714.mp3]",
+                        "The heatwave this time lasts long."
                     ],
                     "guid": "kBSgIQ-J4d",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::dài",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "chơi dài",
-                        "dài",
-                        "mãi không thôi",
-                        "[sound:rec1664343081.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "EcQwW-BehH",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::dài",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -20143,38 +19768,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "đầu óc căng thẳng",
+                        "Dạo này công việc của em căng thẳng lắm.",
                         "căng thẳng",
-                        "ở trạng thái sự chú ý, sự suy nghĩ được tập trung đến mức rất cao",
-                        "[sound:rec1664439198.mp3]",
-                        "",
-                        ""
+                        "stressful / stressed",
+                        "[sound:rec1667900206.mp3]",
+                        "[sound:rec1667900222.mp3]",
+                        "My work has been really stressful these days."
                     ],
                     "guid": "et5NmaC0fS",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::căng_thẳng",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "quan hệ căng thẳng",
+                        "Mối quan hệ giữa hai nước đang rất căng thẳng.",
                         "căng thẳng",
-                        "ở trạng thái mâu thuẫn phát triển đến cao độ",
-                        "[sound:rec1664439198.mp3]",
-                        "",
-                        ""
+                        "tense / stressed",
+                        "[sound:rec1667900206.mp3]",
+                        "[sound:rec1667900459.mp3]",
+                        "The relation between the two countries is tense."
                     ],
                     "guid": "bfQ8Ynp7Tx",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::căng_thẳng",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -20466,38 +20087,34 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chị cởi mở với mọi người",
+                        "Hôm đấy chị ý bắt đầu cởi mở hơn với mọi người.",
                         "cởi mở",
-                        "bày tỏ tâm tình một cách dễ dàng và hồn nhiên",
-                        "[sound:rec1664439348.mp3]",
-                        "",
-                        ""
+                        "to open up",
+                        "[sound:rec1667901387.mp3]",
+                        "[sound:rec1667901435.mp3]",
+                        "That day she started to open up more to everyone."
                     ],
                     "guid": "2coWJrP7__",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cởi_mở",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "chuyện trò cởi mở",
+                        "Chị ý không phải là một người cởi mở.",
                         "cởi mở",
-                        "gần gũi trong giao tiếp và dễ dàng để cho người khác hiểu biết tâm tình của mình",
-                        "[sound:rec1664439348.mp3]",
-                        "",
-                        ""
+                        "open-minded / an open book",
+                        "[sound:rec1667901387.mp3]",
+                        "[sound:rec1667901392.mp3]",
+                        "She's not an open book."
                     ],
                     "guid": "UL6eYOap9k",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::cởi_mở",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -21644,57 +21261,51 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "ăn lót dạ",
-                        "dạ",
-                        "bụng con người, về mặt chức năng làm nơi chứa và làm tiêu hoá thức ăn, hoặc chứa thai",
-                        "[sound:rec1664101729.mp3]",
-                        "",
-                        ""
+                        "Ăn một ít bánh mì lót dạ đi.",
+                        "dạ&nbsp;",
+                        "stomach",
+                        "[sound:rec1667901009.mp3]",
+                        "[sound:rec1667901030.mp3]",
+                        "Have a bit of bread so you won't be starving.&nbsp;"
                     ],
                     "guid": "uzx5p1Re6T",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::dạ",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "thằng bé rất sáng dạ",
+                        "Thằng bé đấy rất sáng dạ.",
                         "dạ",
-                        "bụng con người, coi là biểu tượng của khả năng nhận thức và ghi nhớ",
-                        "[sound:rec1664101729.mp3]",
-                        "",
-                        ""
+                        "stomach, used in a sense to talk about intelligence",
+                        "[sound:rec1667901009.mp3]",
+                        "[sound:rec1667902472.mp3]",
+                        "He's a bright kid."
                     ],
                     "guid": "dnPCFbY4d8",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::dạ",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "mắng mấy câu cho hả dạ",
+                        "Em phải mắng nó cho hả dạ.",
                         "dạ",
-                        "bụng con người, coi là biểu tượng của tình cảm, thái độ chủ đạo và kín đáo đối với người, với việc",
-                        "[sound:rec1664101729.mp3]",
-                        "",
-                        ""
+                        "stomach, used in a sense to talk about feelings/attitude/moral",
+                        "[sound:rec1667901009.mp3]",
+                        "[sound:rec1667902615.mp3]",
+                        "I have to scold him to feel relieved."
                     ],
                     "guid": "XojIId61k7",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::dạ",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -21714,63 +21325,24 @@
                         "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::dạ",
                         "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
+                        "tiengviet::meta::processed_by_vntk",
+                        "tiengviet::needs_image"
                     ]
                 },
                 {
                     "__type__": "Note",
                     "fields": [
-                        "dạ, xin cảm ơn chị",
+                        "Dạ, em hiểu rồi ạ.",
                         "dạ",
-                        "tiếng dùng để đáp lại lời gọi hoặc để mở đầu câu nói một cách lễ phép",
-                        "[sound:rec1664101729.mp3]",
-                        "",
-                        ""
+                        "yes (to confirm/to ask again)",
+                        "[sound:rec1667901009.mp3]",
+                        "[sound:rec1667902930.mp3]",
+                        "Yes, I understand."
                     ],
                     "guid": "4b40klXsdQ",
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
-                        "tiengviet::meta::auto_gen",
                         "tiengviet::meta::by_word::dạ",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "(- đi đường cẩn thận nghe con!) - dạ",
-                        "dạ",
-                        "vâng",
-                        "[sound:rec1664101729.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "R1UVX1baJ4",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::dạ",
-                        "tiengviet::meta::needs_expert_review",
-                        "tiengviet::meta::processed_by_vntk"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "nó dạ một tiếng rõ to",
-                        "dạ",
-                        "đáp lại lời gọi bằng tiếng ''dạ''",
-                        "[sound:rec1664101729.mp3]",
-                        "",
-                        ""
-                    ],
-                    "guid": "naX1CoXrla",
-                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
-                    "tags": [
-                        "tiengviet::meta::auto_gen",
-                        "tiengviet::meta::by_word::dạ",
-                        "tiengviet::meta::needs_expert_review",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 },
@@ -22023,6 +21595,23 @@
                     "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
                     "tags": [
                         "tiengviet::meta::by_word::cô",
+                        "tiengviet::meta::processed_by_vntk"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Bạn trai cũ của em mới lấy vợ.",
+                        "cũ",
+                        "ex&nbsp;",
+                        "[sound:rec1667900517.mp3]",
+                        "[sound:rec1667900559.mp3]",
+                        "My ex boyfriend just got married."
+                    ],
+                    "guid": "v=>%!&IC=n",
+                    "note_model_uuid": "6f97455a-3ca6-11ed-b75d-e7ec0f58ddc6",
+                    "tags": [
+                        "tiengviet::meta::by_word::cũ",
                         "tiengviet::meta::processed_by_vntk"
                     ]
                 }
